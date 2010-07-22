@@ -1,5 +1,5 @@
 BEGIN:VCALENDAR
-PRODID:-//ISS Adobe MAX 2010//mxm.dk//
+PRODID:-//Adobe MAX 2010//mxm.dk//
 VERSION:2.0
 BEGIN:VEVENT
 DESCRIPTION:Learn how you can accelerate your workflows and get the most o
@@ -13,7 +13,7 @@ DTSTART:20101025T170000
 PRIORITY:5
 SUMMARY:Accelerate your workflows and elevate your work with Adobe CS Live
   online services
-UID:7a159e13-d893-4588-b20d-f4586cc2c24b
+UID:7a159e13-d893-4588-b20d-f4586cc2c24b-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Get up and running with ActionScript in this bring your own la
@@ -26,7 +26,7 @@ DTSTAMP:20101024T090000
 DTSTART:20101024T090000
 PRIORITY:5
 SUMMARY:ActionScript 1:1 with Doug Winnie
-UID:f8c10363-a532-4d0d-8818-7ba1bbb1e77e
+UID:f8c10363-a532-4d0d-8818-7ba1bbb1e77e-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how to get PDF files to behave the way you and your read
@@ -38,7 +38,7 @@ DTSTAMP:20101027T153000
 DTSTART:20101027T153000
 PRIORITY:5
 SUMMARY:Adobe Acrobat for the Web Designer
-UID:3a331099-db85-4881-8794-ef3f8f81413f
+UID:3a331099-db85-4881-8794-ef3f8f81413f-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Attend this mega-lab for a comprehensive\, hands-on dive into 
@@ -54,7 +54,7 @@ DTSTAMP:20101026T130000
 DTSTART:20101026T130000
 PRIORITY:5
 SUMMARY:Adobe AIR Code Camp
-UID:857971cf-eaf4-4876-a2f3-2fc2c86a0b96
+UID:857971cf-eaf4-4876-a2f3-2fc2c86a0b96-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The Russell Brown@MAX lab is the essential three-day\, hands-o
@@ -79,7 +79,107 @@ DTSTAMP:20101023T090000
 DTSTART:20101023T090000
 PRIORITY:5
 SUMMARY:Adobe Photoshop CS5: From Reality to Renaissance
-UID:3558337e-92ed-48af-809f-0aab6d1d0138
+UID:3558337e-92ed-48af-809f-0aab6d1d0138-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The Russell Brown@MAX lab is the essential three-day\, hands-o
+ n course that brings together top art directors\, designers\, illustrators
+ \, and photographers to learn advanced imaging tips and techniques with Ad
+ obe Photoshop CS5.  Get going with Adobe senior creative director Russell 
+ Brown and his distinguished team of artisans. This assembled group of expe
+ rts represents some of the best designers and instructors in the industry.
+  \n\nStarting with photographic portraits we will turn reality into renais
+ sance. Participants will unleash the powerful combination of cameras\, com
+ puters\, and CS5 software to produce an original artwork on canvas. This c
+ lass will introduce you to a new set of creative techniques that will be u
+ seful for both designers\, and photographers. Our goal will be to turn the
+  normal into the unique. Taught on the latest Mac computers\, Russell Brow
+ n@MAX offers a limited class size and an intimate\, inspiring environment 
+ for in-depth instruction on Adobe Photoshop CS5 and many of its new featur
+ es. This unique\, project-based class gives you time to ask questions of i
+ ndustry experts and network with others in your field. If you like crazy a
+ nd inspirational events\, then this is what you've been waiting for.\n
+DTEND:20101024T170000
+DTSTAMP:20101024T090000
+DTSTART:20101024T090000
+PRIORITY:5
+SUMMARY:Adobe Photoshop CS5: From Reality to Renaissance
+UID:3558337e-92ed-48af-809f-0aab6d1d0138-1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The Russell Brown@MAX lab is the essential three-day\, hands-o
+ n course that brings together top art directors\, designers\, illustrators
+ \, and photographers to learn advanced imaging tips and techniques with Ad
+ obe Photoshop CS5.  Get going with Adobe senior creative director Russell 
+ Brown and his distinguished team of artisans. This assembled group of expe
+ rts represents some of the best designers and instructors in the industry.
+  \n\nStarting with photographic portraits we will turn reality into renais
+ sance. Participants will unleash the powerful combination of cameras\, com
+ puters\, and CS5 software to produce an original artwork on canvas. This c
+ lass will introduce you to a new set of creative techniques that will be u
+ seful for both designers\, and photographers. Our goal will be to turn the
+  normal into the unique. Taught on the latest Mac computers\, Russell Brow
+ n@MAX offers a limited class size and an intimate\, inspiring environment 
+ for in-depth instruction on Adobe Photoshop CS5 and many of its new featur
+ es. This unique\, project-based class gives you time to ask questions of i
+ ndustry experts and network with others in your field. If you like crazy a
+ nd inspirational events\, then this is what you've been waiting for.\n
+DTEND:20101023T210000
+DTSTAMP:20101023T180000
+DTSTART:20101023T180000
+PRIORITY:5
+SUMMARY:Adobe Photoshop CS5: From Reality to Renaissance
+UID:3558337e-92ed-48af-809f-0aab6d1d0138-2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The Russell Brown@MAX lab is the essential three-day\, hands-o
+ n course that brings together top art directors\, designers\, illustrators
+ \, and photographers to learn advanced imaging tips and techniques with Ad
+ obe Photoshop CS5.  Get going with Adobe senior creative director Russell 
+ Brown and his distinguished team of artisans. This assembled group of expe
+ rts represents some of the best designers and instructors in the industry.
+  \n\nStarting with photographic portraits we will turn reality into renais
+ sance. Participants will unleash the powerful combination of cameras\, com
+ puters\, and CS5 software to produce an original artwork on canvas. This c
+ lass will introduce you to a new set of creative techniques that will be u
+ seful for both designers\, and photographers. Our goal will be to turn the
+  normal into the unique. Taught on the latest Mac computers\, Russell Brow
+ n@MAX offers a limited class size and an intimate\, inspiring environment 
+ for in-depth instruction on Adobe Photoshop CS5 and many of its new featur
+ es. This unique\, project-based class gives you time to ask questions of i
+ ndustry experts and network with others in your field. If you like crazy a
+ nd inspirational events\, then this is what you've been waiting for.\n
+DTEND:20101024T210000
+DTSTAMP:20101024T180000
+DTSTART:20101024T180000
+PRIORITY:5
+SUMMARY:Adobe Photoshop CS5: From Reality to Renaissance
+UID:3558337e-92ed-48af-809f-0aab6d1d0138-3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The Russell Brown@MAX lab is the essential three-day\, hands-o
+ n course that brings together top art directors\, designers\, illustrators
+ \, and photographers to learn advanced imaging tips and techniques with Ad
+ obe Photoshop CS5.  Get going with Adobe senior creative director Russell 
+ Brown and his distinguished team of artisans. This assembled group of expe
+ rts represents some of the best designers and instructors in the industry.
+  \n\nStarting with photographic portraits we will turn reality into renais
+ sance. Participants will unleash the powerful combination of cameras\, com
+ puters\, and CS5 software to produce an original artwork on canvas. This c
+ lass will introduce you to a new set of creative techniques that will be u
+ seful for both designers\, and photographers. Our goal will be to turn the
+  normal into the unique. Taught on the latest Mac computers\, Russell Brow
+ n@MAX offers a limited class size and an intimate\, inspiring environment 
+ for in-depth instruction on Adobe Photoshop CS5 and many of its new featur
+ es. This unique\, project-based class gives you time to ask questions of i
+ ndustry experts and network with others in your field. If you like crazy a
+ nd inspirational events\, then this is what you've been waiting for.\n
+DTEND:20101025T170000
+DTSTAMP:20101025T130000
+DTSTART:20101025T130000
+PRIORITY:5
+SUMMARY:Adobe Photoshop CS5: From Reality to Renaissance
+UID:3558337e-92ed-48af-809f-0aab6d1d0138-4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn from the experts at SimpleFlame about building fully cus
@@ -97,7 +197,7 @@ DTSTART:20101027T080000
 PRIORITY:5
 SUMMARY:Adobe’s New CMS for Business: Real-World Case Studies in Busines
  s Catalyst
-UID:66dc1e09-1870-4a4e-8b87-fe39ec2b03e6
+UID:66dc1e09-1870-4a4e-8b87-fe39ec2b03e6-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Join Joa Ebert for a tour of the features of his Apparat frame
@@ -109,7 +209,7 @@ DTSTAMP:20101025T153000
 DTSTART:20101025T153000
 PRIORITY:5
 SUMMARY:Advanced ActionScript with Apparat
-UID:bbf73620-66d4-4a02-8340-c837cb72165c
+UID:bbf73620-66d4-4a02-8340-c837cb72165c-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn the best techniques to edit\, restore\, and master audio
@@ -122,7 +222,7 @@ DTSTAMP:20101026T150000
 DTSTART:20101026T150000
 PRIORITY:5
 SUMMARY:Advanced Audio Restoration and Editing 
-UID:a97f6c05-cdff-415a-a1f6-2f17dbb64b6a
+UID:a97f6c05-cdff-415a-a1f6-2f17dbb64b6a-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Explore advanced techniques in using the data-centric developm
@@ -138,7 +238,7 @@ DTSTAMP:20101027T110000
 DTSTART:20101027T110000
 PRIORITY:5
 SUMMARY:Advanced Data-Centric Application Development with Flash Builder
-UID:debcd4e1-c7df-400c-b383-78afff010a8b
+UID:debcd4e1-c7df-400c-b383-78afff010a8b-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how to take Drupal theme building to the next level. Dru
@@ -154,7 +254,7 @@ DTSTAMP:20101025T170000
 DTSTART:20101025T170000
 PRIORITY:5
 SUMMARY:Advanced Drupal Themes using Dreamweaver CS5
-UID:32e2f6bb-a8f6-4fbf-a38f-dda72f0be901
+UID:32e2f6bb-a8f6-4fbf-a38f-dda72f0be901-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Join author J.P. Terry for a hands-on lab covering advanced fo
@@ -170,7 +270,23 @@ DTSTAMP:20101025T124500
 DTSTART:20101025T124500
 PRIORITY:5
 SUMMARY:Advanced Dynamic Form Design
-UID:3247c94c-70af-4f31-872b-1bb000c82815
+UID:3247c94c-70af-4f31-872b-1bb000c82815-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join author J.P. Terry for a hands-on lab covering advanced fo
+ rm design techniques and his latest tips and tricks. For instance\, you'll
+  learn how to add an auto-completion feature to a PDF form that provides r
+ elevant suggestions as the user types into the form. See other advanced te
+ chniques that make form completion much easier and more accurate. The tech
+ niques will be taught within the context of the Institutional Investor cas
+ e study from Terry's book “Paperless: Real-World Solutions with Adobe Te
+ chnology.”\n
+DTEND:20101026T170000
+DTSTAMP:20101026T153000
+DTSTART:20101026T153000
+PRIORITY:5
+SUMMARY:Advanced Dynamic Form Design
+UID:3247c94c-70af-4f31-872b-1bb000c82815-1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how to leverage After Effects to create engaging and ric
@@ -186,7 +302,7 @@ DTSTAMP:20101026T163000
 DTSTART:20101026T163000
 PRIORITY:5
 SUMMARY:After Effects + Flash = Killer Rich Media
-UID:99f3f5e3-5c33-4c83-b0c0-11bf7d73cbea
+UID:99f3f5e3-5c33-4c83-b0c0-11bf7d73cbea-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:See how easy it is to create Adobe AIR apps for Android device
@@ -201,7 +317,7 @@ DTSTAMP:20101027T083000
 DTSTART:20101027T083000
 PRIORITY:5
 SUMMARY:AIR for Android: Discovering the Magic
-UID:5f018615-5f97-46cd-a9cd-5d38d8aedda9
+UID:5f018615-5f97-46cd-a9cd-5d38d8aedda9-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ask\, share\, and learn everything about animation in this han
@@ -213,7 +329,19 @@ DTSTAMP:20101027T083000
 DTSTART:20101027T083000
 PRIORITY:5
 SUMMARY:Animation How-To's\, Tips and Tricks with Chris Georgenes
-UID:ff096606-5aa0-47fc-b7b2-70091045dc82
+UID:ff096606-5aa0-47fc-b7b2-70091045dc82-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ask\, share\, and learn everything about animation in this han
+ ds-on lab with leading Flash animator Chris Georgenes. The lab will help a
+ nyone who has wanted to advance their character animation\, interactivity\
+ , games\, and animation skills with the animation tools in Flash Pro.
+DTEND:20101025T161500
+DTSTAMP:20101025T144500
+DTSTART:20101025T144500
+PRIORITY:5
+SUMMARY:Animation How-To's\, Tips and Tricks with Chris Georgenes
+UID:ff096606-5aa0-47fc-b7b2-70091045dc82-1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn from animation expert Chris Georgenes of Mudbubble as he
@@ -226,7 +354,7 @@ DTSTAMP:20101026T163000
 DTSTART:20101026T163000
 PRIORITY:5
 SUMMARY:Animation with Chris Georgenes
-UID:6f4d224e-79a1-41b2-93c8-01f25387cbfd
+UID:6f4d224e-79a1-41b2-93c8-01f25387cbfd-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Hear from Chuck Freedman (@chuckstar | www.chuckstar.com/blog)
@@ -243,7 +371,7 @@ DTSTAMP:20101027T170000
 DTSTART:20101027T170000
 PRIORITY:5
 SUMMARY:Authoring Rich Experiences for Every Room in the Home
-UID:dbd5e32a-cb74-4fed-b07f-3deb557d2120
+UID:dbd5e32a-cb74-4fed-b07f-3deb557d2120-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn about the two mechanisms in Adobe Acrobat for automating
@@ -260,7 +388,7 @@ DTSTART:20101027T170000
 PRIORITY:5
 SUMMARY:Automating Acrobat: Best Practices for Scripting and Batch Process
  ing
-UID:0fa87276-fefd-41a2-90fe-d200767e13e4
+UID:0fa87276-fefd-41a2-90fe-d200767e13e4-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Join Raymond Camden to learn which techniques (source control\
@@ -273,7 +401,7 @@ DTSTAMP:20101027T153000
 DTSTART:20101027T153000
 PRIORITY:5
 SUMMARY:Best Practices of the Modern ColdFusion Developer
-UID:dde00c61-5855-4387-b844-8fc7dfee5ab2
+UID:dde00c61-5855-4387-b844-8fc7dfee5ab2-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how to set up your designs in Illustrator CS5 and Photos
@@ -289,7 +417,7 @@ DTSTART:20101025T170000
 PRIORITY:5
 SUMMARY:Best Practices: Working with Flash Catalyst CS5 and Adobe Design A
  pplications 
-UID:6d13b833-7a80-418a-a5de-880bc4e097ab
+UID:6d13b833-7a80-418a-a5de-880bc4e097ab-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Listen to noted book designers discuss how they're pushing the
@@ -304,7 +432,7 @@ DTSTAMP:20101027T153000
 DTSTART:20101027T153000
 PRIORITY:5
 SUMMARY:Book Design: Pushing the Frontiers in Digital Reading
-UID:5c26b591-c916-4c7f-aeb7-8191cd7c8691
+UID:5c26b591-c916-4c7f-aeb7-8191cd7c8691-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how to use Flash Catalyst CS5 to rapidly create and publ
@@ -318,7 +446,7 @@ DTSTAMP:20101025T124500
 DTSTART:20101025T124500
 PRIORITY:5
 SUMMARY:Building an Interactive Portfolio with Flash Catalyst CS5
-UID:065508c2-b237-4274-9e59-7cab85ef2fbd
+UID:065508c2-b237-4274-9e59-7cab85ef2fbd-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how to build Adobe AIR applications for Android. After r
@@ -332,7 +460,7 @@ DTSTAMP:20101025T153000
 DTSTART:20101025T153000
 PRIORITY:5
 SUMMARY:Building Android Data-Driven Applications with Flex
-UID:90ddfb72-b32c-4e00-9592-3722601e43cb
+UID:90ddfb72-b32c-4e00-9592-3722601e43cb-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Find out how to integrate analytic services like Omniture web 
@@ -345,7 +473,7 @@ DTSTAMP:20101027T080000
 DTSTART:20101027T080000
 PRIORITY:5
 SUMMARY:Building Better AIR Applications using Analytics 
-UID:edf3299a-ad9c-4721-ad98-f6a937119ebe
+UID:edf3299a-ad9c-4721-ad98-f6a937119ebe-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ColdFusion has long been the most productive way to build web 
@@ -358,7 +486,7 @@ DTSTAMP:20101024T090000
 DTSTART:20101024T090000
 PRIORITY:5
 SUMMARY:Building ColdFusion Powered Desktop And Mobile Applications
-UID:38a43e6d-2b3b-4961-a705-f0f85da02c18
+UID:38a43e6d-2b3b-4961-a705-f0f85da02c18-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Join product experts and learn how to build an enterprise comp
@@ -372,7 +500,7 @@ DTSTAMP:20101026T130000
 DTSTART:20101026T130000
 PRIORITY:5
 SUMMARY:Building Composite Rich Internet Applications
-UID:9098dc1d-b049-4564-b058-6f0a2b4b81c7
+UID:9098dc1d-b049-4564-b058-6f0a2b4b81c7-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn the basics of data-centric development\, from gathering 
@@ -389,7 +517,24 @@ DTSTAMP:20101025T124500
 DTSTART:20101025T124500
 PRIORITY:5
 SUMMARY:Building Data-Centric Rich Internet Applications (with PHP)
-UID:4c66c0a4-bc33-4612-86ca-3de80725a673
+UID:4c66c0a4-bc33-4612-86ca-3de80725a673-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn the basics of data-centric development\, from gathering 
+ data requirements to connecting the database to a rich Internet applicatio
+ n based on the Adobe Flash Platform. We'll begin with an overview of the p
+ rocess of understanding and organizing data. You'll generate a visual mode
+ l of a database and then build the database using MySQLWorkbench and phpMy
+ Admin\, two free and fairly simple tools. Finally\, we'll use Adobe Flash 
+ Builder Data/Service Explorer and Zend AMF to introspect the database\, ge
+ nerate the PHP services\, and bind those methods to user interface compone
+ nts in the application.
+DTEND:20101026T170000
+DTSTAMP:20101026T153000
+DTSTART:20101026T153000
+PRIORITY:5
+SUMMARY:Building Data-Centric Rich Internet Applications (with PHP)
+UID:4c66c0a4-bc33-4612-86ca-3de80725a673-1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how to quickly set up and style Drupal\, a robust\, full
@@ -406,7 +551,7 @@ DTSTAMP:20101025T144500
 DTSTART:20101025T144500
 PRIORITY:5
 SUMMARY:Building Drupal Themes using Dreamweaver CS5
-UID:03142dd2-8e9a-42ed-851d-496c8e75a7c4
+UID:03142dd2-8e9a-42ed-851d-496c8e75a7c4-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how Adobe modified the code for its Employee Directory\,
@@ -418,7 +563,7 @@ DTSTAMP:20101027T093000
 DTSTART:20101027T093000
 PRIORITY:5
 SUMMARY:Building Enterprise Adobe AIR Applications for Android
-UID:ea2f3fbb-2932-4d36-8c95-5b77b5191bf5
+UID:ea2f3fbb-2932-4d36-8c95-5b77b5191bf5-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Join Mete Atamel\, Adobe LiveCycle Data Services architect\, t
@@ -434,7 +579,7 @@ DTSTAMP:20101027T133000
 DTSTART:20101027T133000
 PRIORITY:5
 SUMMARY:Building Flex Applications with Advanced Real Time Messaging 
-UID:48557044-641e-4e7c-98d3-dc6693756a0f
+UID:48557044-641e-4e7c-98d3-dc6693756a0f-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Explore the development of a language learning tool. We'll cov
@@ -451,7 +596,7 @@ DTSTART:20101026T150000
 PRIORITY:5
 SUMMARY:Building Language Learning Tools with Flash Catalyst\, Flash Build
  er\, and Flash Media Server
-UID:fbbbb56c-c891-4e33-8a36-94332882f093
+UID:fbbbb56c-c891-4e33-8a36-94332882f093-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how to use HTML\, CSS\, and jQuery to build mobile appli
@@ -464,7 +609,7 @@ DTSTAMP:20101026T080000
 DTSTART:20101026T080000
 PRIORITY:5
 SUMMARY:Building Mobile Applications with jQuery
-UID:6083f1e1-6354-43db-a8b2-2baff4217922
+UID:6083f1e1-6354-43db-a8b2-2baff4217922-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:See how mobile learning can be achieved using Adobe Creative S
@@ -479,7 +624,7 @@ DTSTAMP:20101025T153000
 DTSTART:20101025T153000
 PRIORITY:5
 SUMMARY:Building Mobile Learning with Your Existing eLearning Toolkit
-UID:88e48467-5f0a-49ae-b580-eb5130dd2d2d
+UID:88e48467-5f0a-49ae-b580-eb5130dd2d2d-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Get an introduction to Adobe application modeling technology\,
@@ -494,7 +639,7 @@ DTSTAMP:20101026T080000
 DTSTART:20101026T080000
 PRIORITY:5
 SUMMARY:Building Model-Driven Forms
-UID:48eb69e4-da58-43c9-9a13-9985c9a1d6bb
+UID:48eb69e4-da58-43c9-9a13-9985c9a1d6bb-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:More users connect to the Internet on devices and phones than 
@@ -509,7 +654,7 @@ DTSTAMP:20101024T090000
 DTSTART:20101024T090000
 PRIORITY:5
 SUMMARY:Building Multiscreen Applications
-UID:812606f8-143c-4539-9ed5-28ae8e314f3f
+UID:812606f8-143c-4539-9ed5-28ae8e314f3f-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how to use the enhanced offline functionality in Adobe L
@@ -526,7 +671,7 @@ DTSTAMP:20101026T080000
 DTSTART:20101026T080000
 PRIORITY:5
 SUMMARY:Building Offline Applications with Flex and Adobe AIR
-UID:a73f442f-bd44-4498-a58d-eb0caddf9874
+UID:a73f442f-bd44-4498-a58d-eb0caddf9874-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how you can leverage peer-to-peer communication in Adobe
@@ -539,7 +684,7 @@ DTSTAMP:20101026T150000
 DTSTART:20101026T150000
 PRIORITY:5
 SUMMARY:Building P2P Multiplayer Games
-UID:05881bf0-81cd-4b76-859d-7d5fd17ae63c
+UID:05881bf0-81cd-4b76-859d-7d5fd17ae63c-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how to let concurrent users of your applications communi
@@ -557,7 +702,7 @@ DTSTART:20101027T133000
 PRIORITY:5
 SUMMARY:Building Rich Multi-User Applications with LiveCycle Collaboration
   Service
-UID:5e65c3c7-a248-4551-896c-914b475c2575
+UID:5e65c3c7-a248-4551-896c-914b475c2575-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Using Adobe Flash Builder 4\, discover the core fundamentals o
@@ -571,7 +716,21 @@ DTSTAMP:20101026T130000
 DTSTART:20101026T130000
 PRIORITY:5
 SUMMARY:Building Scalable Applications with P2P and RTMFP
-UID:90a64679-97d7-45f0-9f41-62dbdd7e153f
+UID:90a64679-97d7-45f0-9f41-62dbdd7e153f-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Using Adobe Flash Builder 4\, discover the core fundamentals o
+ f building P2P applications for Flash Player and Adobe AIR by stepping thr
+ ough a project from start to finish. Learn tips and tricks for deploying P
+ 2P on the Flash Platform. See how to create robust real-time interactive a
+ pplications. You'll leave with a working application built on AIR using RT
+ MFP.
+DTEND:20101027T150000
+DTSTAMP:20101027T133000
+DTSTART:20101027T133000
+PRIORITY:5
+SUMMARY:Building Scalable Applications with P2P and RTMFP
+UID:90a64679-97d7-45f0-9f41-62dbdd7e153f-1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how ChessJam\, a scalable\, interactive\, multiplayer ch
@@ -587,7 +746,7 @@ DTSTART:20101025T124500
 PRIORITY:5
 SUMMARY:Building the Coolest Online Chess Game: Real-Time Messaging Lesson
  s from the Trenches
-UID:a92452fa-bc92-4da6-90df-ba687c4796c7
+UID:a92452fa-bc92-4da6-90df-ba687c4796c7-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how ChessJam\, a scalable\, interactive\, multiplayer ch
@@ -603,7 +762,7 @@ DTSTART:20101026T163000
 PRIORITY:5
 SUMMARY:Building the Coolest Online Chess Game: Real-Time Messaging Lesson
  s from the Trenches
-UID:fb5fa870-21f0-485d-b031-fd7ed17f6eb2
+UID:fb5fa870-21f0-485d-b031-fd7ed17f6eb2-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Build your first (and cool) data-driven Android application us
@@ -616,7 +775,7 @@ DTSTAMP:20101025T170000
 DTSTART:20101025T170000
 PRIORITY:5
 SUMMARY:Building Your First AIR for Android Data-Driven Application
-UID:525b50a5-e6ec-4b99-bde8-c987119f74e5
+UID:525b50a5-e6ec-4b99-bde8-c987119f74e5-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Join Domani Studios for a session exploring how WeChoosetheMoo
@@ -632,7 +791,7 @@ DTSTAMP:20101026T163000
 DTSTART:20101026T163000
 PRIORITY:5
 SUMMARY:Case Study: Is That a Rocket in Your Pocket?
-UID:9c61141c-cbaa-4601-8674-43a734b1bf9e
+UID:9c61141c-cbaa-4601-8674-43a734b1bf9e-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Join Adobe Community Professionals Marc Esher and Joe Rinehart
@@ -648,7 +807,7 @@ DTSTAMP:20101027T133000
 DTSTART:20101027T133000
 PRIORITY:5
 SUMMARY:ColdFusion Skunkworks
-UID:b0b2c291-1e5a-4a69-a1d1-b3b3f99daf7b
+UID:b0b2c291-1e5a-4a69-a1d1-b3b3f99daf7b-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Discover some of the many features of Adobe ColdFusion that yo
@@ -662,7 +821,7 @@ DTSTAMP:20101026T133000
 DTSTART:20101026T133000
 PRIORITY:5
 SUMMARY:ColdFusion Undocumented
-UID:dff70d0e-da1a-4b76-855f-8ccdbda9bdca
+UID:dff70d0e-da1a-4b76-855f-8ccdbda9bdca-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Join Rob Brooks-Bilson for a discussion on configuring\, secur
@@ -675,7 +834,7 @@ DTSTAMP:20101027T093000
 DTSTART:20101027T093000
 PRIORITY:5
 SUMMARY:Configuring and Maintaining Healthy ColdFusion Servers 
-UID:ab73d320-a81d-47f6-b45c-757f812cc38d
+UID:ab73d320-a81d-47f6-b45c-757f812cc38d-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Get helpful guidelines\, tips\, and tricks for making your con
@@ -687,7 +846,7 @@ DTSTAMP:20101027T133000
 DTSTART:20101027T133000
 PRIORITY:5
 SUMMARY:Creating Accessible Content with Flash Professional
-UID:36fe341a-967e-4d14-b2e1-c51c9f7e8e72
+UID:36fe341a-967e-4d14-b2e1-c51c9f7e8e72-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Explore the role of prototyping in designing and developing co
@@ -703,7 +862,7 @@ DTSTAMP:20101025T170000
 DTSTART:20101025T170000
 PRIORITY:5
 SUMMARY:Creating Compelling Mobile User Experiences: What You Need to Know
-UID:fc457b60-3ba3-4135-9280-20053031e781
+UID:fc457b60-3ba3-4135-9280-20053031e781-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Expand your web design skills with Adobe Creative Suite 5 Web 
@@ -718,7 +877,7 @@ DTSTAMP:20101024T090000
 DTSTART:20101024T090000
 PRIORITY:5
 SUMMARY:Creating Engaging Websites with Adobe Creative Suite 5 Web Premium
-UID:eb03067d-71a5-4892-97d9-a2d306b1117b
+UID:eb03067d-71a5-4892-97d9-a2d306b1117b-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn about the benefits of adding social components to your a
@@ -732,7 +891,7 @@ DTSTAMP:20101025T170000
 DTSTART:20101025T170000
 PRIORITY:5
 SUMMARY:Creating Engaging\, Viral Apps by Adding Social Interaction
-UID:b92dd87c-8be0-41ba-a5b0-36f5082dd4b7
+UID:b92dd87c-8be0-41ba-a5b0-36f5082dd4b7-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Use best-in-class tools to create an enterprise RIA that enabl
@@ -749,7 +908,7 @@ DTSTAMP:20101024T090000
 DTSTART:20101024T090000
 PRIORITY:5
 SUMMARY:Creating Enterprise RIAs: From Design to Implementation
-UID:c875de8f-8a1e-463c-8ae9-80b578559b59
+UID:c875de8f-8a1e-463c-8ae9-80b578559b59-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn best practices and step-by-step instructions on how to t
@@ -765,7 +924,7 @@ DTSTART:20101026T150000
 PRIORITY:5
 SUMMARY:Creating Industry-Standard eBooks for Distribution on Sony Reader\
  , Amazon Kindle\, and Apple iPad
-UID:25b224da-408d-4945-a5e0-60fa7005489a
+UID:25b224da-408d-4945-a5e0-60fa7005489a-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how to turn Adobe Photoshop and Illustrator artwork into
@@ -781,7 +940,23 @@ DTSTART:20101026T130000
 PRIORITY:5
 SUMMARY:Creating Interactive Content without Writing Code with CS5 Design 
  Premium
-UID:147e3667-93a5-46d7-9850-4ecf1149fb45
+UID:147e3667-93a5-46d7-9850-4ecf1149fb45-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how to turn Adobe Photoshop and Illustrator artwork into
+  high-quality interactive content without writing code with new Flash Cata
+ lyst CS5. Find out how you can add attention-grabbing interactivity\, anim
+ ation\, video\, and sound to your digital documents and presentations — 
+ all in InDesign CS5. And see how you can export InDesign documents for Ado
+ be Digital Editions\, a desktop reading application for devices such as th
+ e Amazon Kindle\, the Sony Reader\, and the Barnes & Noble nook.
+DTEND:20101027T100000
+DTSTAMP:20101027T083000
+DTSTART:20101027T083000
+PRIORITY:5
+SUMMARY:Creating Interactive Content without Writing Code with CS5 Design 
+ Premium
+UID:147e3667-93a5-46d7-9850-4ecf1149fb45-1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:In this session you'll learn how video can be one of the most 
@@ -798,7 +973,7 @@ DTSTAMP:20101025T170000
 DTSTART:20101025T170000
 PRIORITY:5
 SUMMARY:Creating Interactive Rich Media Advertising Campaigns with Video
-UID:95f07761-e8f0-4c38-8c31-7f1a5b1cc7ef
+UID:95f07761-e8f0-4c38-8c31-7f1a5b1cc7ef-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Join us to learn how Adobe uses open initiatives to deliver ne
@@ -811,7 +986,7 @@ DTSTART:20101026T150000
 PRIORITY:5
 SUMMARY:Creating Open@Adobe: Source Made Simple through SourceForge and Ad
  obe
-UID:5f739dd8-925a-40d7-859b-a059dfe11571
+UID:5f739dd8-925a-40d7-859b-a059dfe11571-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Design and deliver an interactive brochure for playback in Ado
@@ -824,7 +999,20 @@ DTSTAMP:20101026T153000
 DTSTART:20101026T153000
 PRIORITY:5
 SUMMARY:Creating Rich Interactive Documents within InDesign CS5
-UID:e201ea15-53ec-46e1-90ac-6351a33a6b0f
+UID:e201ea15-53ec-46e1-90ac-6351a33a6b0f-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Design and deliver an interactive brochure for playback in Ado
+ be Flash Player using the robust interactive feature set in Adobe InDesign
+  CS5. By the end of this lab\, you will have created a rich brochure compl
+ ete with interactivity\, animation\, sound\, and FLV video — all within 
+ InDesign CS5. 
+DTEND:20101025T161500
+DTSTAMP:20101025T144500
+DTSTART:20101025T144500
+PRIORITY:5
+SUMMARY:Creating Rich Interactive Documents within InDesign CS5
+UID:e201ea15-53ec-46e1-90ac-6351a33a6b0f-1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Join the expert team responsible for the FlexUnit 4 framework 
@@ -839,7 +1027,7 @@ DTSTAMP:20101027T110000
 DTSTART:20101027T110000
 PRIORITY:5
 SUMMARY:Creating Testable Flex Applications
-UID:9cceeac4-a539-4d64-b8d4-452d0406f0e9
+UID:9cceeac4-a539-4d64-b8d4-452d0406f0e9-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how to deploy high-quality video for your enterprise wit
@@ -852,7 +1040,7 @@ DTSTAMP:20101027T153000
 DTSTART:20101027T153000
 PRIORITY:5
 SUMMARY:Creating Video Solutions for the Enterprise
-UID:4fcdb195-8f84-44a2-b9f3-477238c0b766
+UID:4fcdb195-8f84-44a2-b9f3-477238c0b766-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Get up to speed on the latest developments in HTML\, JavaScrip
@@ -868,7 +1056,7 @@ DTSTAMP:20101024T090000
 DTSTART:20101024T090000
 PRIORITY:5
 SUMMARY:Creating Web Applications with HTML5 and CSS3
-UID:cae9886a-4587-4b5a-8347-d67a7bbd4431
+UID:cae9886a-4587-4b5a-8347-d67a7bbd4431-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:This program is for designers and developers who want to creat
@@ -883,7 +1071,22 @@ DTSTAMP:20101023T130000
 DTSTART:20101023T130000
 PRIORITY:5
 SUMMARY:Creative Suite 5 Across Screens
-UID:c1bc7e52-3547-4c2f-957a-e392440dfc42
+UID:c1bc7e52-3547-4c2f-957a-e392440dfc42-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:This program is for designers and developers who want to creat
+ e content to be deployed across screens of all sizes from the desktop to t
+ ablets to mobile devices.  You will learn how to consider differences in s
+ creen sizes and input types when creating content from scratch or updating
+  existing content.  This lab will cover the new features in the following 
+ Creative Suite 5 products: InDesign\, Illustrator\, Photoshop\, Fireworks\
+ , Dreamweaver\, Flash Professional\, and Flash Catalyst. 
+DTEND:20101024T170000
+DTSTAMP:20101024T090000
+DTSTART:20101024T090000
+PRIORITY:5
+SUMMARY:Creative Suite 5 Across Screens
+UID:c1bc7e52-3547-4c2f-957a-e392440dfc42-1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nA grids system is essential to a fast website and will make 
@@ -896,7 +1099,7 @@ DTSTAMP:20101026T133000
 DTSTART:20101026T133000
 PRIORITY:5
 SUMMARY:CSS Grids Make Your Site Fast
-UID:59bcb7dc-b7ef-4e5e-9ef1-ccf46d3348c9
+UID:59bcb7dc-b7ef-4e5e-9ef1-ccf46d3348c9-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Join us for an informative session on how to use the debugging
@@ -911,7 +1114,7 @@ DTSTAMP:20101026T163000
 DTSTART:20101026T163000
 PRIORITY:5
 SUMMARY:Debugging\, Profiling\, and Testing Applications in Flash Builder
-UID:53c47a8b-2038-47cb-a898-c32648bc45ec
+UID:53c47a8b-2038-47cb-a898-c32648bc45ec-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Get a primer on what it takes to design\, develop\, and deploy
@@ -927,7 +1130,7 @@ DTSTAMP:20101027T080000
 DTSTART:20101027T080000
 PRIORITY:5
 SUMMARY:Deconstructing the HTML5 Mobile Development Workflow 
-UID:6ad45015-665a-4c6c-ab88-eb95d4cfafcd
+UID:6ad45015-665a-4c6c-ab88-eb95d4cfafcd-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Dive deep into the Adobe Flash Player renderer with Lee Thomas
@@ -941,7 +1144,7 @@ DTSTAMP:20101027T093000
 DTSTART:20101027T093000
 PRIORITY:5
 SUMMARY:Deep Dive into Flash Player Rendering
-UID:76c7ed0e-b5e3-488b-bed5-6d0f9e03c655
+UID:76c7ed0e-b5e3-488b-bed5-6d0f9e03c655-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how the next version of the Flex SDK will enable develop
@@ -957,7 +1160,7 @@ DTSTAMP:20101027T080000
 DTSTART:20101027T080000
 PRIORITY:5
 SUMMARY:Deep Dive into Mobile Development with the Flex SDK 
-UID:146a7d22-2173-4724-bcb2-4cbd8782a72a
+UID:146a7d22-2173-4724-bcb2-4cbd8782a72a-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Join us for a hands-on session demonstrating how to use the la
@@ -970,7 +1173,20 @@ DTSTAMP:20101025T144500
 DTSTART:20101025T144500
 PRIORITY:5
 SUMMARY:Deep Dive on Flash Pro CS5
-UID:b66d7384-f154-4898-9a69-27ee428fcf03
+UID:b66d7384-f154-4898-9a69-27ee428fcf03-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join us for a hands-on session demonstrating how to use the la
+ test features of Flash Professional CS5\, including Code Snippets\, Adobe 
+ Flash Builder integration\, Spring for Bones\, XFL-based FLA files\, Actio
+ nScript 3.0 support\, deco drawing tools\, new video enhancements and more
+ .
+DTEND:20101027T173000
+DTSTAMP:20101027T160000
+DTSTART:20101027T160000
+PRIORITY:5
+SUMMARY:Deep Dive on Flash Pro CS5
+UID:b66d7384-f154-4898-9a69-27ee428fcf03-1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Join this hands-on session to learn how to leverage Adobe Devi
@@ -986,7 +1202,7 @@ DTSTAMP:20101027T160000
 DTSTART:20101027T160000
 PRIORITY:5
 SUMMARY:Deep Dive with Device Central  CS5
-UID:dca8bbaf-a681-4ab5-8414-017e817eecaa
+UID:dca8bbaf-a681-4ab5-8414-017e817eecaa-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Work efficiently in every phase of video production with Adobe
@@ -1004,7 +1220,7 @@ DTSTAMP:20101024T090000
 DTSTART:20101024T090000
 PRIORITY:5
 SUMMARY:Deliver Video Anywhere with Creative Suite 5 Production Premium
-UID:d5a69c44-9d47-4fcf-828f-4b6afd634e26
+UID:d5a69c44-9d47-4fcf-828f-4b6afd634e26-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how Deloitte Consulting has leveraged the Adobe Flash Pl
@@ -1019,7 +1235,7 @@ DTSTART:20101027T093000
 PRIORITY:5
 SUMMARY:Delivering Repeatable Solutions with Deloitte Consulting and Adobe
   Enterprise Solutions
-UID:7494e4ac-57d4-4280-b416-dc40a5ec03d1
+UID:7494e4ac-57d4-4280-b416-dc40a5ec03d1-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn key design\, distribution\, and business decisions that 
@@ -1035,7 +1251,7 @@ DTSTAMP:20101026T083000
 DTSTART:20101026T083000
 PRIORITY:5
 SUMMARY:Delivery of Interactive PDF or Interactive SWF?
-UID:992b2449-cc1b-4fb0-b592-1b87417f6a1a
+UID:992b2449-cc1b-4fb0-b592-1b87417f6a1a-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Discover the new features of Creative Suite 5 Design Premium t
@@ -1056,7 +1272,7 @@ DTSTART:20101024T090000
 PRIORITY:5
 SUMMARY:Design for Print\, Web\, and Interactive (without writing code!) u
  sing Creative Suite 5 Design Premium
-UID:3b7b83d8-d03f-4efa-92a6-1952477e04f1
+UID:3b7b83d8-d03f-4efa-92a6-1952477e04f1-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:In this expert panel session\, we will compare common workflow
@@ -1072,7 +1288,7 @@ DTSTAMP:20101027T093000
 DTSTART:20101027T093000
 PRIORITY:5
 SUMMARY:Designer-Developer Workflow Panel
-UID:d6f85a67-6855-49aa-8124-42b26d4f9fdf
+UID:d6f85a67-6855-49aa-8124-42b26d4f9fdf-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Join Daniel Dura as he helps you design and develop touch-base
@@ -1086,7 +1302,7 @@ DTSTAMP:20101026T083000
 DTSTART:20101026T083000
 PRIORITY:5
 SUMMARY:Designing and Developing for Touch-Based Devices
-UID:6fb63f9b-7526-47cb-9810-6201ad0394e5
+UID:6fb63f9b-7526-47cb-9810-6201ad0394e5-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Find out how to create the best-looking HD video experiences o
@@ -1101,7 +1317,22 @@ DTSTAMP:20101026T130000
 DTSTART:20101026T130000
 PRIORITY:5
 SUMMARY:Designing Custom Video Players
-UID:17b18aa2-1084-4628-a4f6-ab06bc78ea26
+UID:17b18aa2-1084-4628-a4f6-ab06bc78ea26-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Find out how to create the best-looking HD video experiences o
+ n the web or on devices. Discover how easy it is to create custom skins fo
+ r Strobe Media Playback\, Adobe's prebuilt video player (now in beta)\, bu
+ ilt on top of the feature-rich and robust Open Source Media Framework. Usi
+ ng Adobe Photoshop CS5\, Illustrator CS5\, and a little bit of Flash Profe
+ ssional CS5\, you'll step through the creative process to generate custom 
+ player skins and apply them to fit your business.
+DTEND:20101027T150000
+DTSTAMP:20101027T133000
+DTSTART:20101027T133000
+PRIORITY:5
+SUMMARY:Designing Custom Video Players
+UID:17b18aa2-1084-4628-a4f6-ab06bc78ea26-1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:See how InDesign CS5\, in combination with new publishing tech
@@ -1115,7 +1346,7 @@ DTSTAMP:20101027T110000
 DTSTART:20101027T110000
 PRIORITY:5
 SUMMARY:Designing Documents for Tablet Devices using InDesign CS5
-UID:4aa396da-aa1f-4aae-845d-122ce86dba48
+UID:4aa396da-aa1f-4aae-845d-122ce86dba48-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:This program for enterprise developers combines 1.5 days of in
@@ -1139,7 +1370,31 @@ DTSTAMP:20101023T130000
 DTSTART:20101023T130000
 PRIORITY:5
 SUMMARY:Developing a LiveCycle ES2.5 Application
-UID:7e5116be-38bf-4c07-b6ae-1a0fc30ed3f1
+UID:7e5116be-38bf-4c07-b6ae-1a0fc30ed3f1-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:This program for enterprise developers combines 1.5 days of in
+ troductory preconference training on LiveCycle ES2.5 (Enterprise Suite) wi
+ th a full conference pass to MAX 2010.\n\nThe preconference lab\, "Develop
+ ing a LiveCycle ES2.5 Application\," is an essential introduction to devel
+ oping user-centric applications with Adobe LiveCycle ES2.5. LiveCycle ES2.
+ 5 allows both business and IT professionals to visually assemble end-to-en
+ d processes\, which when combined with rich interfaces\, create engaging a
+ pplications that unify systems and people quickly and flexibly. We'll pres
+ ent an end-to-end use case bringing a rich Internet application (RIA) and 
+ a LiveCycle application together. You will learn about the LiveCycle IDE\,
+  the Admin User Interface\, and the LiveCycle ES2.5 solution components as
+  we guide the participants through the development of this comprehensive u
+ se case.\n\nWe strongly recommend this training to those new to LiveCycle 
+ ES2.5\, or those who would like a refresher\, in order to get the most val
+ ue out of the more advanced LiveCycle topics that will be presented during
+  the MAX event.\n
+DTEND:20101024T170000
+DTSTAMP:20101024T090000
+DTSTART:20101024T090000
+PRIORITY:5
+SUMMARY:Developing a LiveCycle ES2.5 Application
+UID:7e5116be-38bf-4c07-b6ae-1a0fc30ed3f1-1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn about Adobe AIR support for authoring for television set
@@ -1153,7 +1408,7 @@ DTSTAMP:20101025T170000
 DTSTART:20101025T170000
 PRIORITY:5
 SUMMARY:Developing Adobe AIR Applications for Digital Home Devices
-UID:966907be-f2a1-40fc-8945-a20e168ed6c8
+UID:966907be-f2a1-40fc-8945-a20e168ed6c8-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how to use the Flex SDK to create world-ready applicatio
@@ -1169,7 +1424,7 @@ DTSTAMP:20101027T093000
 DTSTART:20101027T093000
 PRIORITY:5
 SUMMARY:Developing World-Ready Applications 
-UID:9179d407-62fb-4d5f-937e-a3e49e44a153
+UID:9179d407-62fb-4d5f-937e-a3e49e44a153-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn about one company’s migration from Java thick client a
@@ -1187,7 +1442,7 @@ DTSTART:20101027T080000
 PRIORITY:5
 SUMMARY:Development of Mission-Critical Rich Internet Applications in Supp
  ort of Government Operations
-UID:07c17a34-1a66-49f6-9429-8ed29902aab1
+UID:07c17a34-1a66-49f6-9429-8ed29902aab1-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how Flash Catalyst CS5 lets you create and publish fully
@@ -1204,7 +1459,7 @@ DTSTAMP:20101025T140000
 DTSTART:20101025T140000
 PRIORITY:5
 SUMMARY:Discover Flash Catalyst CS5
-UID:8d8576b4-2c84-43e2-82cf-058db0f5461f
+UID:8d8576b4-2c84-43e2-82cf-058db0f5461f-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Join Dreamweaver Product Manager Scott Fegette for a detailed 
@@ -1219,7 +1474,7 @@ DTSTAMP:20101025T153000
 DTSTART:20101025T153000
 PRIORITY:5
 SUMMARY:Dreamweaver CS5 Deep Dive: Next-Generation Workflows
-UID:fde12119-474c-43cd-a20b-3126054fc098
+UID:fde12119-474c-43cd-a20b-3126054fc098-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Join Jason Levine as he explores the tapeless\, native workflo
@@ -1234,7 +1489,7 @@ DTSTAMP:20101026T083000
 DTSTART:20101026T083000
 PRIORITY:5
 SUMMARY:Editing video with HDSLR cameras in CS5 Production Premium
-UID:754938f7-c3d6-4d1e-8515-27cd2d40d982
+UID:754938f7-c3d6-4d1e-8515-27cd2d40d982-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Change the way you think about live video and social media to 
@@ -1251,7 +1506,7 @@ DTSTAMP:20101026T150000
 DTSTART:20101026T150000
 PRIORITY:5
 SUMMARY:Enterprise Live Video with Multicast and P2P
-UID:9221a4a1-746c-4832-935e-efbe7bade5d6
+UID:9221a4a1-746c-4832-935e-efbe7bade5d6-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Explore essential plug-ins and tools that every developer shou
@@ -1265,7 +1520,7 @@ DTSTAMP:20101025T170000
 DTSTART:20101025T170000
 PRIORITY:5
 SUMMARY:Essential Eclipse Plug-ins and Tools for Flash Builder Developers
-UID:75c9444e-bfe1-44f4-b880-e2edb66b1572
+UID:75c9444e-bfe1-44f4-b880-e2edb66b1572-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Join product experts and others as we work through the process
@@ -1279,7 +1534,7 @@ DTSTAMP:20101025T170000
 DTSTART:20101025T170000
 PRIORITY:5
 SUMMARY:Extending LiveCycle ES for Java Developers
-UID:824434eb-32d7-486c-9d75-d003f589fa30
+UID:824434eb-32d7-486c-9d75-d003f589fa30-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how to integrate the productivity features in Adobe Flas
@@ -1292,7 +1547,7 @@ DTSTAMP:20101026T083000
 DTSTART:20101026T083000
 PRIORITY:5
 SUMMARY:Flash Builder Advanced Tips and Techniques
-UID:c33ff821-ce8a-4a80-9fcd-3a047888b957
+UID:c33ff821-ce8a-4a80-9fcd-3a047888b957-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how to use projects created in Flash Catalyst CS5 in Ado
@@ -1305,7 +1560,20 @@ DTSTAMP:20101026T130000
 DTSTART:20101026T130000
 PRIORITY:5
 SUMMARY:Flash Catalyst CS5 for Developers
-UID:ecdbcb41-e5de-48a2-a29c-bc8ae1066eed
+UID:ecdbcb41-e5de-48a2-a29c-bc8ae1066eed-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how to use projects created in Flash Catalyst CS5 in Ado
+ be Flash Builder 4. This hands-on lab will cover best practices for using 
+ Flash Builder 4 to enhance the application functionality created in Flash 
+ Catalyst by adding custom code\, as well as using the data service feature
+ s in Flash Builder 4 to retrieve and display dynamic data. 
+DTEND:20101027T100000
+DTSTAMP:20101027T083000
+DTSTART:20101027T083000
+PRIORITY:5
+SUMMARY:Flash Catalyst CS5 for Developers
+UID:ecdbcb41-e5de-48a2-a29c-bc8ae1066eed-1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:See how the designers and developers at Rain\, a company that 
@@ -1320,7 +1588,7 @@ DTSTAMP:20101027T080000
 DTSTART:20101027T080000
 PRIORITY:5
 SUMMARY:Flash Catalyst CS5 Up Close with Rain\, a Digital Agency
-UID:b23e236d-6a9d-45cf-a40f-eda5488daeee
+UID:b23e236d-6a9d-45cf-a40f-eda5488daeee-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how to use Flash Catalyst CS5 to leverage your existing 
@@ -1337,7 +1605,41 @@ DTSTAMP:20101025T144500
 DTSTART:20101025T144500
 PRIORITY:5
 SUMMARY:Flash Catalyst CS5: Hands On for Designers
-UID:27240611-7235-47de-8014-80b28eef8383
+UID:27240611-7235-47de-8014-80b28eef8383-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how to use Flash Catalyst CS5 to leverage your existing 
+ design skills to create interactive content and application interfaces\, a
+ ll without writing code. This hands-on lab will introduce the concepts and
+  workflow involved in using Flash Catalyst and show you how to use your st
+ atic designs created in Adobe Illustrator and Adobe Photoshop\, along with
+  dynamic media assets such as video\, sound\, and animations\, to create a
+  fully interactive project that's ready to publish as a SWF file for the w
+ eb or as an Adobe AIR application that can run outside the browser across 
+ platforms.
+DTEND:20101026T093000
+DTSTAMP:20101026T080000
+DTSTART:20101026T080000
+PRIORITY:5
+SUMMARY:Flash Catalyst CS5: Hands On for Designers
+UID:27240611-7235-47de-8014-80b28eef8383-1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how to use Flash Catalyst CS5 to leverage your existing 
+ design skills to create interactive content and application interfaces\, a
+ ll without writing code. This hands-on lab will introduce the concepts and
+  workflow involved in using Flash Catalyst and show you how to use your st
+ atic designs created in Adobe Illustrator and Adobe Photoshop\, along with
+  dynamic media assets such as video\, sound\, and animations\, to create a
+  fully interactive project that's ready to publish as a SWF file for the w
+ eb or as an Adobe AIR application that can run outside the browser across 
+ platforms.
+DTEND:20101027T123000
+DTSTAMP:20101027T110000
+DTSTART:20101027T110000
+PRIORITY:5
+SUMMARY:Flash Catalyst CS5: Hands On for Designers
+UID:27240611-7235-47de-8014-80b28eef8383-2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:See what's coming in the next release of Adobe Flash Catalyst\
@@ -1350,7 +1652,7 @@ DTSTAMP:20101025T153000
 DTSTART:20101025T153000
 PRIORITY:5
 SUMMARY:Flash Catalyst: What's Next?
-UID:dc17fa60-ff1d-48e4-9614-a180a3f6373a
+UID:dc17fa60-ff1d-48e4-9614-a180a3f6373a-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:With the rapid proliferation of Adobe Flash Player 10.1 and Ad
@@ -1366,7 +1668,7 @@ DTSTAMP:20101027T080000
 DTSTART:20101027T080000
 PRIORITY:5
 SUMMARY:Flash Platform Content: Distribution and Monetization   
-UID:4e086ec8-0742-45b8-88e1-4f0cd157546a
+UID:4e086ec8-0742-45b8-88e1-4f0cd157546a-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how you can incorporate Flash Platform Services into you
@@ -1379,7 +1681,7 @@ DTSTAMP:20101026T080000
 DTSTART:20101026T080000
 PRIORITY:5
 SUMMARY:Flash Platform Services for Flash Builder Developers
-UID:ae6f0b78-8873-44a5-920a-df42a01730ae
+UID:ae6f0b78-8873-44a5-920a-df42a01730ae-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how you can use Adobe Flash Professional to incorporate 
@@ -1393,7 +1695,7 @@ DTSTAMP:20101025T124500
 DTSTART:20101025T124500
 PRIORITY:5
 SUMMARY:Flash Platform Services for Flash Professional Users
-UID:649fc564-9944-4b19-8a51-71b0114bd55b
+UID:649fc564-9944-4b19-8a51-71b0114bd55b-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Join Sebastian Marketsmueller\, Adobe Flash Player engineer\, 
@@ -1406,7 +1708,7 @@ DTSTAMP:20101027T110000
 DTSTART:20101027T110000
 PRIORITY:5
 SUMMARY:Flash Player 3D Future
-UID:ae6f2190-c17a-4411-9e20-44a135e340b0
+UID:ae6f2190-c17a-4411-9e20-44a135e340b0-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how to add SWF-based Rich Media Annotations (RMAs) devel
@@ -1421,7 +1723,7 @@ DTSTAMP:20101026T163000
 DTSTART:20101026T163000
 PRIORITY:5
 SUMMARY:Flash Player in Acrobat: Building Interactive PDF Documents
-UID:9f974f98-c1fc-4faf-8dc2-22a9ca21e4be
+UID:9f974f98-c1fc-4faf-8dc2-22a9ca21e4be-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Join the excitement as Richard Galvan\, Flash senior product m
@@ -1434,7 +1736,7 @@ DTSTAMP:20101025T153000
 DTSTART:20101025T153000
 PRIORITY:5
 SUMMARY:Flash Sneak Peak:  A Glimpse at the Future
-UID:c4b2afaf-a94a-4bd0-b4d2-4d22e2efde6b
+UID:c4b2afaf-a94a-4bd0-b4d2-4d22e2efde6b-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Meet Adobe's Lee Brimelow for a session that will aim to clear
@@ -1446,7 +1748,7 @@ DTSTAMP:20101026T083000
 DTSTART:20101026T083000
 PRIORITY:5
 SUMMARY:Flash\, Flex\, HTML5: Ouch\, My Head Hurts!
-UID:8934775f-bb89-495e-a385-c087df321ae6
+UID:8934775f-bb89-495e-a385-c087df321ae6-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Need to get up and running with Flex 4 quickly? We’re taking
@@ -1461,7 +1763,7 @@ DTSTAMP:20101024T090000
 DTSTART:20101024T090000
 PRIORITY:5
 SUMMARY:Flex 4 Development Crash Course
-UID:ae64ffad-fc8d-41aa-ae6b-45b3508e056f
+UID:ae64ffad-fc8d-41aa-ae6b-45b3508e056f-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Get a hands-on introduction to Flex and Adobe Flash Builder. T
@@ -1475,7 +1777,7 @@ DTSTAMP:20101026T153000
 DTSTART:20101026T153000
 PRIORITY:5
 SUMMARY:Flex Test-Drive: Building an application in 90 minutes
-UID:a9dfc7bd-592c-4e5b-a721-8ed66ed260f2
+UID:a9dfc7bd-592c-4e5b-a721-8ed66ed260f2-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how to turn a static design into a rich and interactive 
@@ -1490,7 +1792,22 @@ DTSTART:20101025T170000
 PRIORITY:5
 SUMMARY:From Design to Development: Creating RIAs with Flash Catalyst and 
  Flash Builder
-UID:184363e5-4bac-49cd-a8da-076ea4fa9f33
+UID:184363e5-4bac-49cd-a8da-076ea4fa9f33-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how to turn a static design into a rich and interactive 
+ user experience using Adobe Flash Catalyst and Flash Builder. In this lab\
+ , we'll explore workflows to take you from the design all the way through 
+ to the development and deployment of a rich Internet application. In addit
+ ion\, you'll learn techniques that will enable you to create highly intera
+ ctive custom components that can be reused across multiple applications.
+DTEND:20101027T100000
+DTSTAMP:20101027T083000
+DTSTART:20101027T083000
+PRIORITY:5
+SUMMARY:From Design to Development: Creating RIAs with Flash Catalyst and 
+ Flash Builder
+UID:184363e5-4bac-49cd-a8da-076ea4fa9f33-1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Join artist and interactive designer\, Erik Natzke\, for a sho
@@ -1502,7 +1819,19 @@ DTSTAMP:20101026T150000
 DTSTART:20101026T150000
 PRIORITY:5
 SUMMARY:Fusing Art and Technology with Flash Professional CS5
-UID:2d1be1ae-158b-4924-9997-7eeb7c1304ae
+UID:2d1be1ae-158b-4924-9997-7eeb7c1304ae-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join artist and interactive designer\, Erik Natzke\, for a sho
+ wcase of his creative work. He'll share insights on how he fuses creativit
+ y and technology while working with Adobe Flash Professional and other too
+ ls.\n
+DTEND:20101025T180000
+DTSTAMP:20101025T170000
+DTSTART:20101025T170000
+PRIORITY:5
+SUMMARY:Fusing Art and Technology with Flash Professional CS5
+UID:2d1be1ae-158b-4924-9997-7eeb7c1304ae-1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Hear top design professionals explain how to unlock new value 
@@ -1519,7 +1848,24 @@ DTSTART:20101026T080000
 PRIORITY:5
 SUMMARY:FutuRIA: The Convergence of Rich Internet and Enterprise Applicati
  ons
-UID:e44913ea-57da-4eae-921e-61952a524d1c
+UID:e44913ea-57da-4eae-921e-61952a524d1c-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hear top design professionals explain how to unlock new value 
+ hidden in complex enterprise systems through the expression of user-centri
+ c goals in design patterns. You'll learn how Adobe is converging solutions
+ \, platforms\, and tools to help you better serve your customers or consti
+ tuents by delivering great experiences. This session equips you with busin
+ ess cases as examples of current cultural shifts\, as we share our user ex
+ perience vision\, some technology sneak peeks\, and a vision for the futur
+ e of enterprise applications.
+DTEND:20101027T150000
+DTSTAMP:20101027T133000
+DTSTART:20101027T133000
+PRIORITY:5
+SUMMARY:FutuRIA: The Convergence of Rich Internet and Enterprise Applicati
+ ons
+UID:e44913ea-57da-4eae-921e-61952a524d1c-1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn about techniques used in multiscreen and multiplayer gam
@@ -1531,7 +1877,7 @@ DTSTAMP:20101027T110000
 DTSTART:20101027T110000
 PRIORITY:5
 SUMMARY:Game On! Multiscreen\, Multiplayer Game Development
-UID:d0884ed9-43fc-4c5b-a48e-b7da75989a74
+UID:d0884ed9-43fc-4c5b-a48e-b7da75989a74-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn the tools of the trade for creating great games for the 
@@ -1547,7 +1893,7 @@ DTSTAMP:20101027T133000
 DTSTART:20101027T133000
 PRIORITY:5
 SUMMARY:Game Theory and Design for the Flash Platform
-UID:8f25d454-73ae-470e-b822-5f549671a1eb
+UID:8f25d454-73ae-470e-b822-5f549671a1eb-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:General Session 
@@ -1556,7 +1902,16 @@ DTSTAMP:20101025T093000
 DTSTART:20101025T093000
 PRIORITY:5
 SUMMARY:General Session
-UID:4cc11a50-023d-49f1-ba2d-cb6ba83d7ca8
+UID:4cc11a50-023d-49f1-ba2d-cb6ba83d7ca8-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:General Session 
+DTEND:20101026T120000
+DTSTAMP:20101026T100000
+DTSTART:20101026T100000
+PRIORITY:5
+SUMMARY:General Session
+UID:4cc11a50-023d-49f1-ba2d-cb6ba83d7ca8-1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speed up cross-browser testing to make sure your web designs l
@@ -1569,7 +1924,20 @@ DTSTART:20101026T130000
 PRIORITY:5
 SUMMARY:Get hands on Adobe BrowserLab to check your websites for cross-bro
  wser compatibility
-UID:a3cff593-b798-4b09-8735-229354f40a8d
+UID:a3cff593-b798-4b09-8735-229354f40a8d-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speed up cross-browser testing to make sure your web designs l
+ ook as you intended for the widest possible audience. Learn how to preview
+  dynamic web pages and local content with multiple viewing\, diagnostic\, 
+ and comparison tools in BrowserLab\, an Adobe CS Live online service.
+DTEND:20101027T123000
+DTSTAMP:20101027T110000
+DTSTART:20101027T110000
+PRIORITY:5
+SUMMARY:Get hands on Adobe BrowserLab to check your websites for cross-bro
+ wser compatibility
+UID:a3cff593-b798-4b09-8735-229354f40a8d-1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how to streamline creative reviews from directly within 
@@ -1584,7 +1952,22 @@ DTSTART:20101025T124500
 PRIORITY:5
 SUMMARY:Get Hands-on with Adobe CS Review to Share and Gather Feedback on 
  Your Creative Projects
-UID:c39f52bf-a1a4-411e-ba52-d53031f4dd7e
+UID:c39f52bf-a1a4-411e-ba52-d53031f4dd7e-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how to streamline creative reviews from directly within 
+ Adobe Creative Suite 5 with CS Review\, an Adobe CS Live online service. L
+ earn how to initiate shared reviews from within Photoshop CS5 Extended\, I
+ llustrator CS5\, and InDesign CS5\; invite colleagues and clients to comme
+ nt using easy-to-use annotation tools\; and view comments directly in the 
+ context of the design.
+DTEND:20101026T170000
+DTSTAMP:20101026T153000
+DTSTART:20101026T153000
+PRIORITY:5
+SUMMARY:Get Hands-on with Adobe CS Review to Share and Gather Feedback on 
+ Your Creative Projects
+UID:c39f52bf-a1a4-411e-ba52-d53031f4dd7e-1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how to integrate payments into your content created in A
@@ -1600,7 +1983,7 @@ DTSTART:20101027T153000
 PRIORITY:5
 SUMMARY:Getting Paid: Leveraging Payments to Monetize Your Content in Flas
  h or AIR
-UID:41d30329-5c05-4a99-add6-b583549d6318
+UID:41d30329-5c05-4a99-add6-b583549d6318-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn the fundamentals of ActionScript 3.0 and increase the re
@@ -1615,7 +1998,7 @@ DTSTAMP:20101027T110000
 DTSTART:20101027T110000
 PRIORITY:5
 SUMMARY:Getting Started with ActionScript 3.0
-UID:24ad7d40-d1c8-4fc7-8586-af25a6533262
+UID:24ad7d40-d1c8-4fc7-8586-af25a6533262-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn about one of the most compelling new features in Adobe C
@@ -1632,7 +2015,7 @@ DTSTAMP:20101024T090000
 DTSTART:20101024T090000
 PRIORITY:5
 SUMMARY:Getting Started with ColdFusion 9 Object Relational Mapping (ORM)
-UID:4e113b7d-d99e-415e-9bcb-9cea70d73980
+UID:4e113b7d-d99e-415e-9bcb-9cea70d73980-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how you can get users to install your applications — i
@@ -1646,7 +2029,7 @@ DTSTART:20101026T163000
 PRIORITY:5
 SUMMARY:Getting Users to Install Your Facebook\, Mobile\, and AIR Applicat
  ions
-UID:2c587674-1ce3-4f76-ad1c-d303c9172e29
+UID:2c587674-1ce3-4f76-ad1c-d303c9172e29-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:As a member of the Open Screen Project\, Google has been a key
@@ -1661,7 +2044,7 @@ DTSTAMP:20101027T170000
 DTSTART:20101027T170000
 PRIORITY:5
 SUMMARY:Going beyond Screens: Flash Platform and Google 
-UID:7859252e-4ad4-43bc-b03b-913cafb193e0
+UID:7859252e-4ad4-43bc-b03b-913cafb193e0-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how to create amazing H.264 video that performs well on 
@@ -1676,7 +2059,7 @@ DTSTAMP:20101027T080000
 DTSTART:20101027T080000
 PRIORITY:5
 SUMMARY:H.264 Encoding Strategies for All Screens
-UID:34fe30c1-c72c-4677-aed1-d6b6b77f91a2
+UID:34fe30c1-c72c-4677-aed1-d6b6b77f91a2-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Use the cinematic power of After Effects to enhance the intera
@@ -1689,7 +2072,20 @@ DTSTAMP:20101025T124500
 DTSTART:20101025T124500
 PRIORITY:5
 SUMMARY:Hands-on After Effects to Flash workflows 
-UID:dca1b06d-053c-4dbc-bd9b-483a4b371289
+UID:dca1b06d-053c-4dbc-bd9b-483a4b371289-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Use the cinematic power of After Effects to enhance the intera
+ ctive experiences you build with Adobe Flash Professional. Learn how to em
+ bed cue points in your animations to drive interactivity in Flash\, and pi
+ ck up tips and tricks for a smoother workflow between these two powerhouse
+  apps.
+DTEND:20101026T093000
+DTSTAMP:20101026T080000
+DTSTART:20101026T080000
+PRIORITY:5
+SUMMARY:Hands-on After Effects to Flash workflows 
+UID:dca1b06d-053c-4dbc-bd9b-483a4b371289-1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Get started using After Effects with this hands-on session. Le
@@ -1700,7 +2096,18 @@ DTSTAMP:20101025T144500
 DTSTART:20101025T144500
 PRIORITY:5
 SUMMARY:Hands-on Introduction to After Effects
-UID:5dac0143-605b-4d48-aec1-b2d14f427921
+UID:5dac0143-605b-4d48-aec1-b2d14f427921-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Get started using After Effects with this hands-on session. Le
+ arn the basics of setting up projects\, importing Adobe Photoshop files\, 
+ keyframing to create animations\, and rendering the results.
+DTEND:20101027T123000
+DTSTAMP:20101027T110000
+DTSTART:20101027T110000
+PRIORITY:5
+SUMMARY:Hands-on Introduction to After Effects
+UID:5dac0143-605b-4d48-aec1-b2d14f427921-1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Build your compositing toolkit. Learn best practices for creat
@@ -1714,7 +2121,21 @@ DTSTAMP:20101025T170000
 DTSTART:20101025T170000
 PRIORITY:5
 SUMMARY:Hands-on Keying and Rotoscoping with After Effects CS5
-UID:c92e3b83-0adb-43bf-8bdc-def1feecce41
+UID:c92e3b83-0adb-43bf-8bdc-def1feecce41-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Build your compositing toolkit. Learn best practices for creat
+ ing good greenscreen composites and creating masks and mattes with After E
+ ffects CS5. Using Keylight\, you can composite complex scenes with both fo
+ reground and background elements. Plus\, get tips on how to work with prob
+ lem footage and how to extract a clean roto-matte using the new Roto Brush
+  tool.
+DTEND:20101027T173000
+DTSTAMP:20101027T160000
+DTSTART:20101027T160000
+PRIORITY:5
+SUMMARY:Hands-on Keying and Rotoscoping with After Effects CS5
+UID:c92e3b83-0adb-43bf-8bdc-def1feecce41-1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Hear about one of the most significant additions to Adobe Cold
@@ -1728,7 +2149,7 @@ DTSTAMP:20101025T170000
 DTSTART:20101025T170000
 PRIORITY:5
 SUMMARY:Hands-on ORM with ColdFusion 9
-UID:27e8421a-d3fa-4555-afe8-f324eb7c2e94
+UID:27e8421a-d3fa-4555-afe8-f324eb7c2e94-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Build your knowledge of the processes and tools needed to desi
@@ -1743,7 +2164,7 @@ DTSTAMP:20101026T153000
 DTSTART:20101026T153000
 PRIORITY:5
 SUMMARY:Hands-on: Using Flash Catalyst CS5 to Design Rich User Experiences
-UID:e1dd0a3f-b25f-44fc-8175-5aa391cc1e7f
+UID:e1dd0a3f-b25f-44fc-8175-5aa391cc1e7f-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how to stream video and audio over HTTP networks with HT
@@ -1760,7 +2181,7 @@ DTSTAMP:20101027T093000
 DTSTART:20101027T093000
 PRIORITY:5
 SUMMARY:HD Streaming with HTTP Dynamic Streaming
-UID:921740d7-2f35-4c69-83fc-0ea06bdc9397
+UID:921740d7-2f35-4c69-83fc-0ea06bdc9397-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn the best creation and encoding techniques for HD video a
@@ -1771,7 +2192,7 @@ DTSTAMP:20101025T170000
 DTSTART:20101025T170000
 PRIORITY:5
 SUMMARY:HD Video Production for the Web
-UID:50e4bfea-8dbf-4257-b379-fdc17f43cfaf
+UID:50e4bfea-8dbf-4257-b379-fdc17f43cfaf-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Join Photoshop Product Manager Bryan O'Neil Hughes for a deep 
@@ -1786,7 +2207,7 @@ DTSTART:20101026T163000
 PRIORITY:5
 SUMMARY:Hidden Gems and Technologies in Photoshop CS5 and Photoshop CS5 Ex
  tended
-UID:5139458e-2f3a-4650-8f41-1fe2275f9f1e
+UID:5139458e-2f3a-4650-8f41-1fe2275f9f1e-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Hear from Adobe insiders and learn about the hidden gems and c
@@ -1800,7 +2221,21 @@ DTSTAMP:20101026T150000
 DTSTART:20101026T150000
 PRIORITY:5
 SUMMARY:Hidden Gems for the LiveCycle Community
-UID:a2b19531-da04-4db7-b61c-a1b1e2dff769
+UID:a2b19531-da04-4db7-b61c-a1b1e2dff769-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hear from Adobe insiders and learn about the hidden gems and c
+ ommunity resources that can help you build\, share\, and leverage the Live
+ Cycle Enterprise Suite developer ecosystem. This session will review the A
+ dobe Developer Connection program\, the latest Adobe forums\, and the deve
+ loper website and include demonstrations of tools including Enterprise Caf
+ e\, Tour de LiveCycle\, and Developer Express.
+DTEND:20101027T103000
+DTSTAMP:20101027T093000
+DTSTART:20101027T093000
+PRIORITY:5
+SUMMARY:Hidden Gems for the LiveCycle Community
+UID:a2b19531-da04-4db7-b61c-a1b1e2dff769-1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how to build a full Flex application with a Spring back 
@@ -1816,7 +2251,7 @@ DTSTART:20101025T170000
 PRIORITY:5
 SUMMARY:High-Productivity Java and Flex Development with the Flex Add-on f
  or Spring Roo
-UID:35dd8b95-82be-40fb-84d3-ef8795e0b16d
+UID:35dd8b95-82be-40fb-84d3-ef8795e0b16d-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn insider techniques for Illustrator CS5 from the source 
@@ -1831,7 +2266,7 @@ DTSTAMP:20101027T133000
 DTSTART:20101027T133000
 PRIORITY:5
 SUMMARY:Hot Tips and Cool Tools in Illustrator CS5
-UID:60dbcc87-cca5-4a7f-93d5-70f074fa2257
+UID:60dbcc87-cca5-4a7f-93d5-70f074fa2257-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Hear about how Full Sail University is teaching students how t
@@ -1847,7 +2282,7 @@ DTSTART:20101025T170000
 PRIORITY:5
 SUMMARY:How Full Sail University is Teaching Students to Author Applicatio
  ns in Flash
-UID:d5e3fe6a-c68d-4aca-bad2-6804ca4353ee
+UID:d5e3fe6a-c68d-4aca-bad2-6804ca4353ee-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Join us to hear a panel of four super-talented Threadless arti
@@ -1863,7 +2298,7 @@ DTSTAMP:20101026T163000
 DTSTART:20101026T163000
 PRIORITY:5
 SUMMARY:How I Learned to Stop Worrying and Love the Bomb (with Threadless)
-UID:b9f686e4-56bb-49d3-bcca-e85c6f0f82ce
+UID:b9f686e4-56bb-49d3-bcca-e85c6f0f82ce-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:In this 90-minute hands-on session\, we'll teach you how to bu
@@ -1878,7 +2313,37 @@ DTSTART:20101025T170000
 PRIORITY:5
 SUMMARY:How to Build Business Websites Faster with Business Catalyst and D
  reamweaver
-UID:3986f082-0031-44ce-8211-a9480e67a6b2
+UID:3986f082-0031-44ce-8211-a9480e67a6b2-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:In this 90-minute hands-on session\, we'll teach you how to bu
+ ild your first Business Catalyst website complete with e-commerce\, email 
+ campaigns\, Contact Us forms\, and Dreamweaver website design enhancements
+ . You'll see how quickly you can build powerful business websites using th
+ e HTML and CSS skills you already have\, with no back-end programming requ
+ ired.
+DTEND:20101026T093000
+DTSTAMP:20101026T080000
+DTSTART:20101026T080000
+PRIORITY:5
+SUMMARY:How to Build Business Websites Faster with Business Catalyst and D
+ reamweaver
+UID:3986f082-0031-44ce-8211-a9480e67a6b2-1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:In this 90-minute hands-on session\, we'll teach you how to bu
+ ild your first Business Catalyst website complete with e-commerce\, email 
+ campaigns\, Contact Us forms\, and Dreamweaver website design enhancements
+ . You'll see how quickly you can build powerful business websites using th
+ e HTML and CSS skills you already have\, with no back-end programming requ
+ ired.
+DTEND:20101027T150000
+DTSTAMP:20101027T133000
+DTSTART:20101027T133000
+PRIORITY:5
+SUMMARY:How to Build Business Websites Faster with Business Catalyst and D
+ reamweaver
+UID:3986f082-0031-44ce-8211-a9480e67a6b2-2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Come to this session to learn how to design\, develop\, and de
@@ -1890,7 +2355,7 @@ DTSTAMP:20101026T083000
 DTSTART:20101026T083000
 PRIORITY:5
 SUMMARY:How to Build Great Mobile Games using AIR for Android 
-UID:a13b0a98-0fbf-4087-8dbb-2ffdf299cee2
+UID:a13b0a98-0fbf-4087-8dbb-2ffdf299cee2-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how to build engaging applications for the digital home 
@@ -1901,7 +2366,7 @@ DTSTAMP:20101026T080000
 DTSTART:20101026T080000
 PRIORITY:5
 SUMMARY:How to Build Your First AIR Application for a Digital Home Device
-UID:5baf93f1-84c2-46da-903f-a734b4727ac4
+UID:5baf93f1-84c2-46da-903f-a734b4727ac4-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Join James Williamson of lynda.com to learn how to use Adobe D
@@ -1915,7 +2380,21 @@ DTSTAMP:20101025T170000
 DTSTART:20101025T170000
 PRIORITY:5
 SUMMARY:How to Get Started in Dreamweaver CS5
-UID:d2d1fe9f-013d-428d-9250-049321f057be
+UID:d2d1fe9f-013d-428d-9250-049321f057be-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join James Williamson of lynda.com to learn how to use Adobe D
+ reamweaver CS5 to create stunning\, standards-compliant sites. Course cont
+ ent will focus on CSS capabilities\, integration with other Adobe applicat
+ ions\, and many of the powerful new features found in Dreamweaver CS5. Thi
+ s hands-on lab will demonstrate workflow efficiencies to help improve your
+  web designs. 
+DTEND:20101026T170000
+DTSTAMP:20101026T153000
+DTSTART:20101026T153000
+PRIORITY:5
+SUMMARY:How to Get Started in Dreamweaver CS5
+UID:d2d1fe9f-013d-428d-9250-049321f057be-1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:See what's new with 3D in Adobe Photoshop CS5 Extended. Learn 
@@ -1932,7 +2411,7 @@ DTSTART:20101026T150000
 PRIORITY:5
 SUMMARY:How to Work Creatively and Quickly with 3D in Photoshop CS5 Extend
  ed
-UID:55804ee5-9cbd-4b4a-a7b7-f53fa1e068ce
+UID:55804ee5-9cbd-4b4a-a7b7-f53fa1e068ce-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The cooks are still in the kitchen\, but the enticing smells o
@@ -1947,7 +2426,7 @@ DTSTAMP:20101025T140000
 DTSTART:20101025T140000
 PRIORITY:5
 SUMMARY:HTML5: Half-baked\, Baked\, or Ready for the Table?
-UID:2740e6d5-368a-4c30-9728-e325e403b4f6
+UID:2740e6d5-368a-4c30-9728-e325e403b4f6-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:So\, you've been using Acrobat (or attended the associated Get
@@ -1960,7 +2439,7 @@ DTSTAMP:20101026T130000
 DTSTART:20101026T130000
 PRIORITY:5
 SUMMARY:I Didn’t Know Acrobat Could do That! (Experience with Acrobat)
-UID:ea7e5386-3105-4f15-b662-9f94b0f9f52a
+UID:ea7e5386-3105-4f15-b662-9f94b0f9f52a-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Roll up your sleeves and join us for a fun\, interactive sessi
@@ -1973,7 +2452,7 @@ DTSTAMP:20101025T144500
 DTSTART:20101025T144500
 PRIORITY:5
 SUMMARY:I Didn’t Know Acrobat Could Do That! (Getting Started)
-UID:3160b2c2-37bb-4b96-b3c1-0945d1e64e93
+UID:3160b2c2-37bb-4b96-b3c1-0945d1e64e93-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn tips and tricks for processing imported graphics from Ad
@@ -1986,7 +2465,20 @@ DTSTAMP:20101026T080000
 DTSTART:20101026T080000
 PRIORITY:5
 SUMMARY:Illustrator Creative Brushwork and Photoshop Art Technique
-UID:440679e5-2297-4bfa-9211-20d40eba3daf
+UID:440679e5-2297-4bfa-9211-20d40eba3daf-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn tips and tricks for processing imported graphics from Ad
+ obe Illustrator  into Adobe Photoshop and how each application can enhance
+  the final product. Learn about Smart Objects\, layer blending\, and more.
+  When these two applications work together there is virtually no illustrat
+ ion task they cannot accomplish.
+DTEND:20101027T150000
+DTSTAMP:20101027T133000
+DTSTART:20101027T133000
+PRIORITY:5
+SUMMARY:Illustrator Creative Brushwork and Photoshop Art Technique
+UID:440679e5-2297-4bfa-9211-20d40eba3daf-1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Find out how Northwestern Mutual improved customer service in 
@@ -2004,7 +2496,7 @@ DTSTART:20101026T083000
 PRIORITY:5
 SUMMARY:Improving the User Experience: Contract Servicing Improvements at 
  Northwestern Mutual
-UID:da8741ea-9568-43f0-93cb-ae84cb928437
+UID:da8741ea-9568-43f0-93cb-ae84cb928437-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Get hands-on experience with a variety of new productivity and
@@ -2016,7 +2508,19 @@ DTSTAMP:20101026T130000
 DTSTART:20101026T130000
 PRIORITY:5
 SUMMARY:InDesign CS5 in Depth
-UID:5a940046-91c1-44c2-9c6f-9a2e3048d358
+UID:5a940046-91c1-44c2-9c6f-9a2e3048d358-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Get hands-on experience with a variety of new productivity and
+  production features in Adobe InDesign CS5 that make it faster and easier 
+ to create\, produce\, and deliver a document for print or PDF. This sessio
+ n is appropriate for novice or intermediate InDesign users.
+DTEND:20101027T100000
+DTSTAMP:20101027T083000
+DTSTART:20101027T083000
+PRIORITY:5
+SUMMARY:InDesign CS5 in Depth
+UID:5a940046-91c1-44c2-9c6f-9a2e3048d358-1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how to get more done in less time by keeping your hands 
@@ -2031,7 +2535,7 @@ DTSTAMP:20101026T133000
 DTSTART:20101026T133000
 PRIORITY:5
 SUMMARY:InDesign CS5 Power Shortcuts
-UID:5d97ba56-fab3-4b29-991c-38b5d58c43c7
+UID:5d97ba56-fab3-4b29-991c-38b5d58c43c7-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Take the new tool for ColdFusion application development\, Ado
@@ -2046,7 +2550,7 @@ DTSTART:20101026T130000
 PRIORITY:5
 SUMMARY:Installing\, Developing\, and Debugging Your First Application wit
  h ColdFusion Builder
-UID:adbf6c87-de70-487d-a4e0-bfca4134ee03
+UID:adbf6c87-de70-487d-a4e0-bfca4134ee03-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how to build applications for the Adobe Flash Platform t
@@ -2062,7 +2566,7 @@ DTSTAMP:20101027T153000
 DTSTART:20101027T153000
 PRIORITY:5
 SUMMARY:Internationalization Techniques for the Flash Platform
-UID:94e51d78-d02f-490b-a57f-f06461d94a9a
+UID:94e51d78-d02f-490b-a57f-f06461d94a9a-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how to take advantage of the built-in hooks between Flex
@@ -2076,7 +2580,7 @@ DTSTAMP:20101027T083000
 DTSTART:20101027T083000
 PRIORITY:5
 SUMMARY:Introducing Flex and LiveCycle Integration
-UID:fd13fd66-114d-46c1-8e04-5c864b6b5d3c
+UID:fd13fd66-114d-46c1-8e04-5c864b6b5d3c-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn about the client-side architecture of the Adobe LiveCycl
@@ -2093,7 +2597,7 @@ DTSTAMP:20101025T144500
 DTSTART:20101025T144500
 PRIORITY:5
 SUMMARY:Introducing LiveCycle Collaboration Service for Flex
-UID:4b342071-66e4-4b37-a3f4-fa6dbdc1ae17
+UID:4b342071-66e4-4b37-a3f4-fa6dbdc1ae17-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how to quickly build an entire Google Android applicatio
@@ -2107,7 +2611,7 @@ DTSTAMP:20101026T163000
 DTSTART:20101026T163000
 PRIORITY:5
 SUMMARY:Introduction to Adobe AIR for Android 
-UID:b29a9da7-d1d8-451f-9a55-82e2d0a25b9c
+UID:b29a9da7-d1d8-451f-9a55-82e2d0a25b9c-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Join us for a sneak peek at how Adobe AIR will soon power a wh
@@ -2120,7 +2624,7 @@ DTSTAMP:20101025T153000
 DTSTART:20101025T153000
 PRIORITY:5
 SUMMARY:Introduction to Adobe AIR for Digital Home Devices
-UID:186a851a-ebb5-4e69-9aa4-3e3c63517caa
+UID:186a851a-ebb5-4e69-9aa4-3e3c63517caa-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how to use BlazeDS and the latest version of Adobe LiveC
@@ -2134,7 +2638,7 @@ DTSTAMP:20101027T080000
 DTSTART:20101027T080000
 PRIORITY:5
 SUMMARY:Introduction to BlazeDS and LiveCycle Data Services
-UID:d86b6b10-d86e-4e34-a4a8-4c3d645c6da3
+UID:d86b6b10-d86e-4e34-a4a8-4c3d645c6da3-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn the fundamentals of Adobe Flash Professional for web and
@@ -2148,7 +2652,21 @@ DTSTAMP:20101026T080000
 DTSTART:20101026T080000
 PRIORITY:5
 SUMMARY:Introduction to Flash Professional
-UID:f2fa9c8a-a1c0-4532-ba57-ca8760a80f1f
+UID:f2fa9c8a-a1c0-4532-ba57-ca8760a80f1f-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn the fundamentals of Adobe Flash Professional for web and
+  interactive design\, plus the basics of mobile content creation. This lab
+  session will teach about different file types\, project setup\, drawing\,
+  video\, sound\, animation\, interactivity\, ActionScript\, and how to pub
+ lish your experience to various target platforms like the web and mobile d
+ evices.  
+DTEND:20101027T123000
+DTSTAMP:20101027T110000
+DTSTART:20101027T110000
+PRIORITY:5
+SUMMARY:Introduction to Flash Professional
+UID:f2fa9c8a-a1c0-4532-ba57-ca8760a80f1f-1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how to paint with vectors that resemble natural-media br
@@ -2163,7 +2681,7 @@ DTSTAMP:20101025T140000
 DTSTART:20101025T140000
 PRIORITY:5
 SUMMARY:Introduction to Painting with Illustrator CS5
-UID:011cb6de-4d1a-4639-99ce-5bc89f27318d
+UID:011cb6de-4d1a-4639-99ce-5bc89f27318d-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how to draw shapes and scenes in accurate 1-\, 2-\, or 3
@@ -2177,7 +2695,7 @@ DTSTAMP:20101026T133000
 DTSTART:20101026T133000
 PRIORITY:5
 SUMMARY:Introduction to Perspective Drawing in Illustrator CS5
-UID:50c41f9e-89be-4ada-b701-dd8365817e92
+UID:50c41f9e-89be-4ada-b701-dd8365817e92-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Join the team at JibJab Media for a fast-paced session highlig
@@ -2195,7 +2713,25 @@ DTSTART:20101026T133000
 PRIORITY:5
 SUMMARY:JibJab Case Study: Using Adobe Tools to Create and Monetize Online
   Content
-UID:a8dc0ada-698f-4004-8cd3-99cb2782d7a2
+UID:a8dc0ada-698f-4004-8cd3-99cb2782d7a2-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join the team at JibJab Media for a fast-paced session highlig
+ hting their workflows using Adobe tools. A web-based content company\, Jib
+ Jab Media has broken new creative ground with hilarious satirical animatio
+ ns. The team has also pioneered "Starring You" productions\, which combine
+  free and paid content models in novel — and successful — ways. Hear h
+ ow they combine tools from Adobe Creative Suite — including Flash Profes
+ sional\, After Effects\, and Photoshop — with the Flex framework and Fla
+ sh Builder to build robust applications that are available on a wide varie
+ ty of devices.
+DTEND:20101027T103000
+DTSTAMP:20101027T093000
+DTSTART:20101027T093000
+PRIORITY:5
+SUMMARY:JibJab Case Study: Using Adobe Tools to Create and Monetize Online
+  Content
+UID:a8dc0ada-698f-4004-8cd3-99cb2782d7a2-1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Get tips and tricks for working within and among the various t
@@ -2208,7 +2744,7 @@ DTSTAMP:20101026T083000
 DTSTART:20101026T083000
 PRIORITY:5
 SUMMARY:Learning Integration Tips among Tools in CS5 Master Collection
-UID:9cbd8c90-f759-412f-84b2-9197e71dd6b3
+UID:9cbd8c90-f759-412f-84b2-9197e71dd6b3-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Find out how to leverage Adobe ColdFusion Builder extensions t
@@ -2223,7 +2759,7 @@ DTSTAMP:20101027T080000
 DTSTART:20101027T080000
 PRIORITY:5
 SUMMARY:Leveraging ColdFusion Builder for IRA Development
-UID:f6a01d1a-b6a1-4027-bef9-863d51240347
+UID:f6a01d1a-b6a1-4027-bef9-863d51240347-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Join Marcel Boucher to learn how to use Adobe's LiveCycle Deve
@@ -2237,7 +2773,7 @@ DTSTAMP:20101027T133000
 DTSTART:20101027T133000
 PRIORITY:5
 SUMMARY:LiveCycle Data Services in the Cloud
-UID:71b83a98-6165-42dd-980a-11d1e1921a58
+UID:71b83a98-6165-42dd-980a-11d1e1921a58-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Hear leading creative directors from big brand magazines discu
@@ -2254,7 +2790,7 @@ DTSTAMP:20101026T150000
 DTSTART:20101026T150000
 PRIORITY:5
 SUMMARY:Magazine Design in the Brave New World of Digital Devices
-UID:271460f0-8981-45d1-a5f0-44590abe5144
+UID:271460f0-8981-45d1-a5f0-44590abe5144-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Discover how you can profit from your Adobe AIR applications. 
@@ -2267,7 +2803,7 @@ DTSTAMP:20101027T170000
 DTSTART:20101027T170000
 PRIORITY:5
 SUMMARY:Making Money with Your AIR Applications
-UID:30541f17-58cc-4821-b435-fc0f634e15b4
+UID:30541f17-58cc-4821-b435-fc0f634e15b4-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Explore how video players developed with Open Source Media Fra
@@ -2282,7 +2818,7 @@ DTSTAMP:20101027T110000
 DTSTART:20101027T110000
 PRIORITY:5
 SUMMARY:Making Video Pay with Advertising and Analytics
-UID:95b322b8-f780-4b58-9a12-b97e9489c764
+UID:95b322b8-f780-4b58-9a12-b97e9489c764-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how to make your application social using Adobe Flash Pl
@@ -2294,7 +2830,19 @@ DTSTAMP:20101025T124500
 DTSTART:20101025T124500
 PRIORITY:5
 SUMMARY:Making Your Applications Social
-UID:725ae132-5227-4d2c-88f2-e4646bd875d2
+UID:725ae132-5227-4d2c-88f2-e4646bd875d2-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how to make your application social using Adobe Flash Pl
+ atform Services so that you can increase the viral effect and make the app
+ lication more engaging for your users. We'll explain how you can incorpora
+ te the services into an application in a step-by-step approach.
+DTEND:20101026T143000
+DTSTAMP:20101026T130000
+DTSTART:20101026T130000
+PRIORITY:5
+SUMMARY:Making Your Applications Social
+UID:725ae132-5227-4d2c-88f2-e4646bd875d2-1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how Prezi\, one of the largest online and desktop author
@@ -2308,7 +2856,7 @@ DTSTAMP:20101027T080000
 DTSTART:20101027T080000
 PRIORITY:5
 SUMMARY:Making Your Flash Application Extendable by Others
-UID:dfce4877-2cdc-447c-a35a-928f5ec113f6
+UID:dfce4877-2cdc-447c-a35a-928f5ec113f6-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MAX 2010 will feature Meet the Team sessions in the evening. T
@@ -2320,7 +2868,7 @@ DTSTAMP:20101025T200000
 DTSTART:20101025T200000
 PRIORITY:5
 SUMMARY:Meet the Teams
-UID:42a95193-fb0b-4093-9517-0698bda40d4c
+UID:42a95193-fb0b-4093-9517-0698bda40d4c-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how to set up mobile devices as controllers with Adobe A
@@ -2336,7 +2884,7 @@ DTSTAMP:20101027T093000
 DTSTART:20101027T093000
 PRIORITY:5
 SUMMARY:Mobile Devices as Application Controllers
-UID:9fe0c797-0782-4abe-869b-07f76e1151f2
+UID:9fe0c797-0782-4abe-869b-07f76e1151f2-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:See how the new model-driven development feature of LiveCycle 
@@ -2350,7 +2898,7 @@ DTSTAMP:20101025T144500
 DTSTART:20101025T144500
 PRIORITY:5
 SUMMARY:Model-Driven Development with Flex and LiveCycle Data Services
-UID:985de6eb-e80d-46d0-b4d9-8099ba7fe143
+UID:985de6eb-e80d-46d0-b4d9-8099ba7fe143-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Explore techniques for delivering mobile-optimized sites power
@@ -2361,7 +2909,7 @@ DTSTAMP:20101025T153000
 DTSTART:20101025T153000
 PRIORITY:5
 SUMMARY:Multiple Screens\, One Server
-UID:15b11e94-a39c-4045-a1ec-297ecba082d5
+UID:15b11e94-a39c-4045-a1ec-297ecba082d5-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Join Danny Winokur\, senior director of business development i
@@ -2377,7 +2925,7 @@ DTSTAMP:20101027T093000
 DTSTART:20101027T093000
 PRIORITY:5
 SUMMARY:Open Screen Project: Today and Beyond
-UID:a692eee8-6116-40e4-9932-62b000e5243b
+UID:a692eee8-6116-40e4-9932-62b000e5243b-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how to develop games using Flash technology that are bas
@@ -2391,7 +2939,7 @@ DTSTAMP:20101025T153000
 DTSTART:20101025T153000
 PRIORITY:5
 SUMMARY:Open Source Game Development using Flash Technology
-UID:5158bbcc-761d-40ec-9d50-1c919de1853f
+UID:5158bbcc-761d-40ec-9d50-1c919de1853f-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Explore the most current optimization strategies for graphics 
@@ -2405,7 +2953,7 @@ DTSTAMP:20101025T140000
 DTSTART:20101025T140000
 PRIORITY:5
 SUMMARY:Optimizing Flash Player Compatible Content for Mobile Devices
-UID:86c46b65-b4c9-4e06-98cd-30cc97df6f82
+UID:86c46b65-b4c9-4e06-98cd-30cc97df6f82-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn essential techniques from one of the original pioneers i
@@ -2420,7 +2968,7 @@ DTSTAMP:20101026T083000
 DTSTART:20101026T083000
 PRIORITY:5
 SUMMARY:Painting in Photoshop CS5 with the Master Painter
-UID:9dee3e6e-a95c-4992-ad17-ca9745f3e71c
+UID:9dee3e6e-a95c-4992-ad17-ca9745f3e71c-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Investigate Flex application development from a performance pe
@@ -2436,7 +2984,7 @@ DTSTAMP:20101027T133000
 DTSTART:20101027T133000
 PRIORITY:5
 SUMMARY:Performance Tips and Tricks for Flex and Flash Development 
-UID:eb766721-8339-474a-9f02-3109bbfea385
+UID:eb766721-8339-474a-9f02-3109bbfea385-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Join Julieanne Kost\, Adobe digital imaging evangelist and one
@@ -2453,7 +3001,7 @@ DTSTAMP:20101027T110000
 DTSTART:20101027T110000
 PRIORITY:5
 SUMMARY:Photoshop CS5 and Lightroom 3: The Ultimate Photography Workflow
-UID:cf854c1a-7599-4b4f-82b3-25fcff2be81e
+UID:cf854c1a-7599-4b4f-82b3-25fcff2be81e-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn essential skills to help you make killer 3D designs\, im
@@ -2466,7 +3014,20 @@ DTSTAMP:20101025T124500
 DTSTART:20101025T124500
 PRIORITY:5
 SUMMARY:Photoshop CS5 Extended Hands-on 3D Techniques
-UID:6229e372-335d-4fc3-af12-0edb29963fa4
+UID:6229e372-335d-4fc3-af12-0edb29963fa4-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn essential skills to help you make killer 3D designs\, im
+ ages\, and effects\, fast\, in the design tool you know and love. This han
+ ds-on Adobe Photoshop CS5 Extended training session will focus on helping 
+ you become a 3D guru. You'll walk away with tips and techniques to add to 
+ your skill set so you can quickly and easily make 3D designs that rock.
+DTEND:20101027T173000
+DTSTAMP:20101027T160000
+DTSTART:20101027T160000
+PRIORITY:5
+SUMMARY:Photoshop CS5 Extended Hands-on 3D Techniques
+UID:6229e372-335d-4fc3-af12-0edb29963fa4-1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Watch Jack Davis\, award-winning author and Photoshop Hall-of-
@@ -2483,7 +3044,7 @@ DTSTART:20101027T093000
 PRIORITY:5
 SUMMARY:Photoshop CS5 Instant Effects: One-Click Techniques for Designers 
  and Photographers
-UID:a09224cd-81dd-4c40-85ed-321d8d503f84
+UID:a09224cd-81dd-4c40-85ed-321d8d503f84-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn essential Photoshop CS5 skills to produce images that lo
@@ -2501,7 +3062,7 @@ DTSTART:20101027T080000
 PRIORITY:5
 SUMMARY:Pixel-Perfect: Photoshop CS5 Power Shortcuts for Web and Interacti
  ve Designers
-UID:df4b58d8-de66-4211-9999-63001555cf49
+UID:df4b58d8-de66-4211-9999-63001555cf49-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Discover WorkflowLab\, an Adobe tool that lets you easily buil
@@ -2515,7 +3076,7 @@ DTSTAMP:20101026T150000
 DTSTART:20101026T150000
 PRIORITY:5
 SUMMARY:Planning and Tracking Successful Projects with WorkflowLab
-UID:afedf4f8-c562-402b-b4a0-6afe03aaffb0
+UID:afedf4f8-c562-402b-b4a0-6afe03aaffb0-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Join Todd Pasternack and Chris Deely of leading rich media pro
@@ -2532,7 +3093,7 @@ DTSTART:20101025T153000
 PRIORITY:5
 SUMMARY:PointRoll in Your Pocket: The How and Why of Mobile Advertising wi
  th Flash Player 10.1
-UID:083bb6eb-8284-4225-a912-4e7e1b4c14be
+UID:083bb6eb-8284-4225-a912-4e7e1b4c14be-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Join us as top casual game publisher PopCap covers a wide vari
@@ -2546,7 +3107,7 @@ DTSTAMP:20101025T140000
 DTSTART:20101025T140000
 PRIORITY:5
 SUMMARY:Porting "Plants vs. Zombies" to Flash
-UID:8b45f8a1-ea82-4c14-832c-05bc639b1a94
+UID:8b45f8a1-ea82-4c14-832c-05bc639b1a94-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how to take your skills in visual design for print and t
@@ -2559,7 +3120,7 @@ DTSTAMP:20101026T133000
 DTSTART:20101026T133000
 PRIORITY:5
 SUMMARY:Principles of Interaction Design for Graphic Designers
-UID:4c804fb6-b901-4496-a9ec-6d1794dd2ae2
+UID:4c804fb6-b901-4496-a9ec-6d1794dd2ae2-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Join Joseph Labrecque from the University of Denver as he demo
@@ -2574,7 +3135,7 @@ DTSTAMP:20101027T110000
 DTSTART:20101027T110000
 PRIORITY:5
 SUMMARY:Progressing beyond the Desktop at Universities with Adobe AIR
-UID:29ae0675-ba3a-47dd-8a8f-3e4c1ba5543c
+UID:29ae0675-ba3a-47dd-8a8f-3e4c1ba5543c-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how Adobe has embraced Amazon EC2 to deliver a comprehen
@@ -2591,7 +3152,24 @@ DTSTAMP:20101025T170000
 DTSTART:20101025T170000
 PRIORITY:5
 SUMMARY:Rapid Development using LiveCycle in the Cloud
-UID:ba942f85-1342-425a-bf66-04ffc08a1592
+UID:ba942f85-1342-425a-bf66-04ffc08a1592-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how Adobe has embraced Amazon EC2 to deliver a comprehen
+ sive cloud offering for Adobe LiveCycle ES2. Hear from product experts how
+  the cloud is quickly becoming the definition of rapid application develop
+ ment environments\, with the ability to start up a server instance with no
+  hardware or software investment. You'll learn how this approach provides 
+ a low barrier and faster time to development. Also hear best practices as 
+ we walk through development to staging and production in a completely host
+ ed manner\, featuring a case study to illustrate the process using an appl
+ ication currently deployed on Adobe LiveCycle Managed Services.\n\n
+DTEND:20101026T143000
+DTSTAMP:20101026T130000
+DTSTART:20101026T130000
+PRIORITY:5
+SUMMARY:Rapid Development using LiveCycle in the Cloud
+UID:ba942f85-1342-425a-bf66-04ffc08a1592-1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Find out how the latest release of Spring BlazeDS Integration 
@@ -2607,7 +3185,7 @@ DTSTART:20101027T110000
 PRIORITY:5
 SUMMARY:Rapidly Building Flex RIAs with Spring BlazeDS Integration and Spr
  ing Roo
-UID:2a597aff-642e-414f-ad84-21f2a779d792
+UID:2a597aff-642e-414f-ad84-21f2a779d792-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Discover how Adobe Flash Platform Services have been used to i
@@ -2622,7 +3200,7 @@ DTSTAMP:20101027T110000
 DTSTART:20101027T110000
 PRIORITY:5
 SUMMARY:Real-Life Examples of Flash Platform Services Use
-UID:ac4c4df1-bf17-445f-b552-3b93e09e1938
+UID:ac4c4df1-bf17-445f-b552-3b93e09e1938-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn about the end-to-end approach Adobe LiveCycle Collaborat
@@ -2641,7 +3219,26 @@ DTSTART:20101026T080000
 PRIORITY:5
 SUMMARY:Real-Time Collaboration Deep Dive : Deploying Apps using LiveCycle
   Collaboration Service
-UID:cdd31905-843c-4a2d-9110-d71e4dbc6c03
+UID:cdd31905-843c-4a2d-9110-d71e4dbc6c03-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn about the end-to-end approach Adobe LiveCycle Collaborat
+ ion Service offers for building rich\, multiuser applications. Starting wi
+ th Flex client integration\, you'll learn how to add features like peer-to
+ -peer video chat\, conavigation\, and other multiuser workflows into an ex
+ isting Flex app. From there\, we'll explore server-side integration option
+ s – your own server will talk to the cloud for authentication\, provisio
+ ning rooms\, and publishing messages to your users. We'll cover common des
+ ign patterns used in real-world situations and discuss best architectural 
+ practices. By the end of this lab\, expect to have your first multiuser ap
+ p deployed.
+DTEND:20101027T123000
+DTSTAMP:20101027T110000
+DTSTART:20101027T110000
+PRIORITY:5
+SUMMARY:Real-Time Collaboration Deep Dive : Deploying Apps using LiveCycle
+  Collaboration Service
+UID:cdd31905-843c-4a2d-9110-d71e4dbc6c03-1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:See real-world examples of customers using custom PDF Portfoli
@@ -2652,7 +3249,18 @@ DTSTAMP:20101025T153000
 DTSTART:20101025T153000
 PRIORITY:5
 SUMMARY:Real-World PDF Portfolios 
-UID:2851fa5b-fd68-460e-b9b3-dc2d4589bddc
+UID:2851fa5b-fd68-460e-b9b3-dc2d4589bddc-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:See real-world examples of customers using custom PDF Portfoli
+ o layouts. See how they have taken the standard PDF Portfolio layouts to n
+ ew levels of usability and design.
+DTEND:20101027T180000
+DTSTAMP:20101027T170000
+DTSTART:20101027T170000
+PRIORITY:5
+SUMMARY:Real-World PDF Portfolios 
+UID:2851fa5b-fd68-460e-b9b3-dc2d4589bddc-1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Hear how focusing on user experience can improve the value of 
@@ -2665,7 +3273,20 @@ DTSTAMP:20101025T133000
 DTSTART:20101025T133000
 PRIORITY:5
 SUMMARY:Realizing Great Customer Experiences with LiveCycle ES3
-UID:f95a7457-ca6d-44fb-a515-2160de729515
+UID:f95a7457-ca6d-44fb-a515-2160de729515-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hear how focusing on user experience can improve the value of 
+ the enterprise applications you deliver. Also learn about architectural ch
+ anges in the next release of Adobe LiveCycle ES as well as new features in
+  servers\, client runtimes\, and tools that will allow you to build\, depl
+ oy\, and measure excellent customer experiences.\n
+DTEND:20101027T123000
+DTSTAMP:20101027T110000
+DTSTART:20101027T110000
+PRIORITY:5
+SUMMARY:Realizing Great Customer Experiences with LiveCycle ES3
+UID:f95a7457-ca6d-44fb-a515-2160de729515-1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Watch the process of designing and developing a rich Internet 
@@ -2680,7 +3301,7 @@ DTSTAMP:20101027T153000
 DTSTART:20101027T153000
 PRIORITY:5
 SUMMARY:RIA Design and Development Workflow Examined
-UID:c5369fc2-3589-4c0d-9f36-5217aaea3c4e
+UID:c5369fc2-3589-4c0d-9f36-5217aaea3c4e-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Discover how Open Source Media Framework (OSMF) and the Adobe 
@@ -2697,7 +3318,24 @@ DTSTAMP:20101025T124500
 DTSTART:20101025T124500
 PRIORITY:5
 SUMMARY:Robust Video Player Development with Open Source Media Framework 
-UID:c3c266dc-69a3-4899-bb9d-f8ff675b13e4
+UID:c3c266dc-69a3-4899-bb9d-f8ff675b13e4-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Discover how Open Source Media Framework (OSMF) and the Adobe 
+ compiled version\, Strobe Media Playback\, make video player development s
+ impler than ever. This lab will step you through a project using Adobe Fla
+ sh Builder to start building robust video players with all the features an
+ d functions seen on many popular websites today. You can make your company
+  look great by learning how to easily implement HTTP Dynamic Streaming\, F
+ lash Media Server\, DRM\, advertising\, and Omniture analytics. Save money
+  in development and reach your audience faster with a better video experie
+ nce.
+DTEND:20101026T170000
+DTSTAMP:20101026T153000
+DTSTART:20101026T153000
+PRIORITY:5
+SUMMARY:Robust Video Player Development with Open Source Media Framework 
+UID:c3c266dc-69a3-4899-bb9d-f8ff675b13e4-1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Get full details on Flex 4 and the new Spark component archite
@@ -2712,7 +3350,7 @@ DTSTART:20101026T163000
 PRIORITY:5
 SUMMARY:Screens of Possibility: Pushing Multiscreen Experiences with Spark
   and Flex
-UID:bb92806d-455c-43fa-b2c3-8a5bb36c11ed
+UID:bb92806d-455c-43fa-b2c3-8a5bb36c11ed-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Discover how to build a searchable information library using A
@@ -2724,7 +3362,7 @@ DTSTAMP:20101027T083000
 DTSTART:20101027T083000
 PRIORITY:5
 SUMMARY:Search Made Easy: Full-Text Document Search with ColdFusion
-UID:0624a2af-71eb-4159-a6da-bb4eb191cf98
+UID:0624a2af-71eb-4159-a6da-bb4eb191cf98-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how to deploy a robust video delivery service within you
@@ -2741,7 +3379,7 @@ DTSTAMP:20101025T170000
 DTSTART:20101025T170000
 PRIORITY:5
 SUMMARY:Secure Enterprise Video Streaming with Flash Media Server and P2P
-UID:7a6c9ffb-a04e-4fc4-bddd-5892c1907fcc
+UID:7a6c9ffb-a04e-4fc4-bddd-5892c1907fcc-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Meet two designers with different studios\, from different par
@@ -2755,7 +3393,21 @@ DTSTAMP:20101025T140000
 DTSTART:20101025T140000
 PRIORITY:5
 SUMMARY:See. Say. Do. How Africa Changed Everything
-UID:55eea419-1a97-46a7-bc09-f5bbcc3bd42d
+UID:55eea419-1a97-46a7-bc09-f5bbcc3bd42d-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Meet two designers with different studios\, from different par
+ ts of the U.S\, whose lives and work have changed forever after serving th
+ e poor in Africa. Experience a visual journey exploring their creative adv
+ enture: See how Adobe Creative Suite enabled easy and effective collaborat
+ ion in the production of print and web collateral  and a documentary film\
+ , and come away a lot better because of it.
+DTEND:20101027T103000
+DTSTAMP:20101027T093000
+DTSTART:20101027T093000
+PRIORITY:5
+SUMMARY:See. Say. Do. How Africa Changed Everything
+UID:55eea419-1a97-46a7-bc09-f5bbcc3bd42d-1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how Adobe OnLocation\, Adobe Premiere Pro\, and Soundboo
@@ -2768,7 +3420,7 @@ DTSTAMP:20101027T110000
 DTSTART:20101027T110000
 PRIORITY:5
 SUMMARY:Shooting and Editing Interviews with CS5 Production Premium
-UID:e9608dd2-2205-41d8-86ca-a96b4257691c
+UID:e9608dd2-2205-41d8-86ca-a96b4257691c-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Join Richard Weinberg of the USC School of Cinematic Arts to e
@@ -2784,7 +3436,7 @@ DTSTAMP:20101025T153000
 DTSTART:20101025T153000
 PRIORITY:5
 SUMMARY:Shooting Movies with a RED One Camera Through a Microscope
-UID:46cdee02-e5ad-469d-9b69-02fdccbb9824
+UID:46cdee02-e5ad-469d-9b69-02fdccbb9824-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how to use BrowserLab\, an Adobe CS Live online service\
@@ -2797,7 +3449,7 @@ DTSTAMP:20101027T110000
 DTSTART:20101027T110000
 PRIORITY:5
 SUMMARY:Simplifying Cross-Browser Testing with BrowserLab
-UID:c10e0049-aa8b-4d56-b346-9f1aacea345f
+UID:c10e0049-aa8b-4d56-b346-9f1aacea345f-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Those who have attended MAX in the past know this is one of th
@@ -2811,7 +3463,7 @@ DTSTAMP:20101026T180000
 DTSTART:20101026T180000
 PRIORITY:5
 SUMMARY:Sneak Peeks
-UID:658dfcef-df05-44c1-959f-6a59c9cf6d8f
+UID:658dfcef-df05-44c1-959f-6a59c9cf6d8f-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Discover how the availability of tablets and TVs supporting Ad
@@ -2827,7 +3479,7 @@ DTSTAMP:20101026T083000
 DTSTART:20101026T083000
 PRIORITY:5
 SUMMARY:Taking Your Brand to the Next T: Tablets and TVs
-UID:ef4cefef-a69a-4ec6-8efa-853b1595d0e1
+UID:ef4cefef-a69a-4ec6-8efa-853b1595d0e1-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how to design highly engaging\, interactive publications
@@ -2842,7 +3494,7 @@ DTSTAMP:20101024T090000
 DTSTART:20101024T090000
 PRIORITY:5
 SUMMARY:The Adobe Digital Publishing Platform
-UID:cc2ac989-3d1c-465c-8a56-c7ca355e6418
+UID:cc2ac989-3d1c-465c-8a56-c7ca355e6418-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Explore the innovation in PDF and Adobe Flash and how these tw
@@ -2856,7 +3508,21 @@ DTSTAMP:20101025T153000
 DTSTART:20101025T153000
 PRIORITY:5
 SUMMARY:The Convergence of Flash and PDF: Interactive Statements
-UID:d12a0992-25b7-474e-8ee1-2ee0b1fd2ad8
+UID:d12a0992-25b7-474e-8ee1-2ee0b1fd2ad8-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Explore the innovation in PDF and Adobe Flash and how these tw
+ o technologies converge to enable the next generation of correspondence. L
+ earn how to speed up the development of a correspondence application\, lev
+ eraging the new Interactive Statement Solution Accelerator within Adobe Li
+ veCycle ES2\, and hear about the new features that can help minimize your 
+ development efforts. 
+DTEND:20101027T163000
+DTSTAMP:20101027T153000
+DTSTART:20101027T153000
+PRIORITY:5
+SUMMARY:The Convergence of Flash and PDF: Interactive Statements
+UID:d12a0992-25b7-474e-8ee1-2ee0b1fd2ad8-1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Join us for a preview of where we're taking the Adobe Acrobat 
@@ -2870,7 +3536,7 @@ DTSTAMP:20101026T083000
 DTSTART:20101026T083000
 PRIORITY:5
 SUMMARY:The Future of Acrobat
-UID:6e3bec38-c348-4529-be81-327200377544
+UID:6e3bec38-c348-4529-be81-327200377544-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Hear from product experts and discover how you can extend your
@@ -2884,7 +3550,21 @@ DTSTAMP:20101026T163000
 DTSTART:20101026T163000
 PRIORITY:5
 SUMMARY:The Mobile Enterprise
-UID:22d15a38-c42c-46c3-aa5a-78f1d4feb386
+UID:22d15a38-c42c-46c3-aa5a-78f1d4feb386-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hear from product experts and discover how you can extend your
+  enterprise to iPhone\, iPad\, Android\, Windows Mobile\, and BlackBerry d
+ evices by leveraging the Adobe LiveCycle Enterprise Suite platform. The se
+ ssion will include best practices for integrating business processes\, acc
+ essing shared content\, and developing forms for use on mobile form factor
+ s.\n\n\n\n
+DTEND:20101027T090000
+DTSTAMP:20101027T080000
+DTSTART:20101027T080000
+PRIORITY:5
+SUMMARY:The Mobile Enterprise
+UID:22d15a38-c42c-46c3-aa5a-78f1d4feb386-1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Discover visual and conceptual models that can help you unders
@@ -2899,7 +3579,7 @@ DTSTAMP:20101025T170000
 DTSTART:20101025T170000
 PRIORITY:5
 SUMMARY:Thinking in ActionScript
-UID:3fef6ac1-23c5-49d5-b68d-0331396aea20
+UID:3fef6ac1-23c5-49d5-b68d-0331396aea20-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how Adobe Business Catalyst\, the all-in-one web hosting
@@ -2917,7 +3597,7 @@ DTSTART:20101025T153000
 PRIORITY:5
 SUMMARY:Three Reasons You Should Add Business Catalyst to Your Web Design 
  Toolbox
-UID:4e271712-4613-4c51-a751-0d46fd6037a3
+UID:4e271712-4613-4c51-a751-0d46fd6037a3-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Come see how the South African Revenue Service (SARS) provides
@@ -2935,7 +3615,7 @@ DTSTART:20101026T163000
 PRIORITY:5
 SUMMARY:Transforming the Value of IT for Government through Modernization 
  at South African Revenue Service
-UID:943e364a-d23c-4d73-afcc-dffb579fb516
+UID:943e364a-d23c-4d73-afcc-dffb579fb516-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how to create a customized version of Adobe Illustrator 
@@ -2951,7 +3631,7 @@ DTSTAMP:20101026T083000
 DTSTART:20101026T083000
 PRIORITY:5
 SUMMARY:Tricked Out Illustrator
-UID:41262857-bfea-46ea-a575-76d42f19d969
+UID:41262857-bfea-46ea-a575-76d42f19d969-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Join us to hear tokidoki cofounder and renowned illustrator Si
@@ -2966,7 +3646,7 @@ DTSTAMP:20101025T153000
 DTSTART:20101025T153000
 PRIORITY:5
 SUMMARY:Turning the tokidoki Vision into a Global Brand
-UID:720ee11e-a96b-41be-acd4-3d2c1d010843
+UID:720ee11e-a96b-41be-acd4-3d2c1d010843-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how CS Review\, an Adobe CS Live online service\, makes 
@@ -2980,7 +3660,7 @@ DTSTAMP:20101026T083000
 DTSTART:20101026T083000
 PRIORITY:5
 SUMMARY:Using Adobe CS Review to Speed up Creative Reviews
-UID:454996cf-8f11-406a-b0e3-ac312bdac5fe
+UID:454996cf-8f11-406a-b0e3-ac312bdac5fe-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Leverage your ActionScript or Flash design skills to build cus
@@ -2995,7 +3675,7 @@ DTSTAMP:20101024T090000
 DTSTART:20101024T090000
 PRIORITY:5
 SUMMARY:Using Flash Builder 4 to Create Custom PDF Portfolio Layouts
-UID:4acb7250-379f-472d-8912-3c172d2cd008
+UID:4acb7250-379f-472d-8912-3c172d2cd008-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how to design for an effective user experience\, which s
@@ -3011,7 +3691,7 @@ DTSTAMP:20101025T170000
 DTSTART:20101025T170000
 PRIORITY:5
 SUMMARY:Using Flash Catalyst CS5 to Design Rich User Experiences 
-UID:2d566ff7-3798-4a97-a8e1-a8e1fb94edcd
+UID:2d566ff7-3798-4a97-a8e1-a8e1fb94edcd-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Discover how you can finally use real fonts on the web. Broad 
@@ -3026,7 +3706,7 @@ DTSTAMP:20101026T083000
 DTSTART:20101026T083000
 PRIORITY:5
 SUMMARY:Using Web Fonts Now
-UID:588e7d3f-d318-4b43-ac97-5e24a38824d1
+UID:588e7d3f-d318-4b43-ac97-5e24a38824d1-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn how to use the print design skills you already have alon
@@ -3042,7 +3722,7 @@ DTSTAMP:20101027T133000
 DTSTART:20101027T133000
 PRIORITY:5
 SUMMARY:Using What You Know: Transitioning from Print to Web 
-UID:bdc8cce0-3407-4bb0-9dca-91ffd0435ea6
+UID:bdc8cce0-3407-4bb0-9dca-91ffd0435ea6-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:See some of the brilliant video experiences Adobe customers ha
@@ -3058,7 +3738,7 @@ DTSTAMP:20101027T153000
 DTSTART:20101027T153000
 PRIORITY:5
 SUMMARY:Video Delivery Roadmap for the Flash Platform
-UID:bb466989-240a-4088-88f4-a03429539dde
+UID:bb466989-240a-4088-88f4-a03429539dde-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn everything you need to know to optimize your video exper
@@ -3072,7 +3752,7 @@ DTSTAMP:20101026T150000
 DTSTART:20101026T150000
 PRIORITY:5
 SUMMARY:Video on Flash Player 10.1 Mobile Devices 
-UID:623e8317-0f37-4b80-a6d2-9255ef237ab4
+UID:623e8317-0f37-4b80-a6d2-9255ef237ab4-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Discover the most important skills you need to create web vide
@@ -3086,7 +3766,21 @@ DTSTAMP:20101025T124500
 DTSTART:20101025T124500
 PRIORITY:5
 SUMMARY:Video Production for the Web using CS5 Production Premium 
-UID:18892b93-2ac9-4d3f-a73c-c1752f02d2ed
+UID:18892b93-2ac9-4d3f-a73c-c1752f02d2ed-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Discover the most important skills you need to create web vide
+ o using Creative Suite 5 Production Premium. You'll learn how to acquire t
+ he best footage and edit with the most highly productive techniques. You
+ ’ll also dip into the legendary Adobe After Effects\, learning how this 
+ application's presets can help you easily add motion graphics and visual e
+ ffects to your production.
+DTEND:20101026T143000
+DTSTAMP:20101026T130000
+DTSTART:20101026T130000
+PRIORITY:5
+SUMMARY:Video Production for the Web using CS5 Production Premium 
+UID:18892b93-2ac9-4d3f-a73c-c1752f02d2ed-1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Let Didier Brun from creative company Sid Lee's European team 
@@ -3100,7 +3794,7 @@ DTSTAMP:20101025T144500
 DTSTART:20101025T144500
 PRIORITY:5
 SUMMARY:Vocal Recognition with Flash Player 10.1
-UID:93192fee-a520-4e5b-9be3-4cc152311956
+UID:93192fee-a520-4e5b-9be3-4cc152311956-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Take a look at the next release of Adobe AIR\, which will incl
@@ -3114,7 +3808,7 @@ DTSTAMP:20101026T150000
 DTSTART:20101026T150000
 PRIORITY:5
 SUMMARY:What's Coming in Adobe AIR
-UID:da3d4696-c7cb-402f-b938-d84b2a6d1718
+UID:da3d4696-c7cb-402f-b938-d84b2a6d1718-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Join the Adobe Flash Builder product manager and engineers fro
@@ -3125,7 +3819,7 @@ DTSTAMP:20101026T150000
 DTSTART:20101026T150000
 PRIORITY:5
 SUMMARY:What's New in Flash Builder "Burrito"?
-UID:563d0311-8c31-4b93-a59f-9d637ed65b0e
+UID:563d0311-8c31-4b93-a59f-9d637ed65b0e-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Learn about all the new features and workflows in Flash Profes
@@ -3138,7 +3832,7 @@ DTSTAMP:20101026T083000
 DTSTART:20101026T083000
 PRIORITY:5
 SUMMARY:What's New in Flash Professional CS5
-UID:3bcbad9d-3200-4cb4-bbaa-a6d7474047b5
+UID:3bcbad9d-3200-4cb4-bbaa-a6d7474047b5-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Get the scoop on a sampling of the 100-plus new features in Ad
@@ -3151,7 +3845,7 @@ DTSTAMP:20101025T153000
 DTSTART:20101025T153000
 PRIORITY:5
 SUMMARY:What's New in InDesign CS5
-UID:82d6babd-03c3-4c36-a7de-6c058ccd3a80
+UID:82d6babd-03c3-4c36-a7de-6c058ccd3a80-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Discover the many design\, motion\, and digital imaging possib
@@ -3166,6 +3860,6 @@ DTSTAMP:20101025T140000
 DTSTART:20101025T140000
 PRIORITY:5
 SUMMARY:What's New in Photoshop CS5 & Photoshop CS5 Extended
-UID:5dea7bd3-474d-44ce-9d05-09dda149b1f4
+UID:5dea7bd3-474d-44ce-9d05-09dda149b1f4-0
 END:VEVENT
 END:VCALENDAR
