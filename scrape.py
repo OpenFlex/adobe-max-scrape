@@ -55,7 +55,7 @@ eventid = 'ebdabc28-aab4-479f-86f3-6bd9d97b4cc7'
 baseurl = 'https://max.adobe.com/api/events/'+eventid+'/sessions/'
 
 cal = Calendar()
-cal.add('prodid','-//ISS Adobe MAX 2010//mxm.dk//')
+cal.add('prodid','-//Adobe MAX 2010//mxm.dk//')
 cal.add('version','2.0')
 sessionlist = [];
 
