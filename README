@@ -1,0 +1,10 @@
+All Adobe MAX session URLs have a UID which can be found in the URL.  For example, the following URL
+https://max.adobe.com/schedule/by-session/658dfcef-df05-44c1-959f-6a59c9cf6d8f
+has a unique ID of '658dfcef-df05-44c1-959f-6a59c9cf6d8f'
+
+sessions.txt is where each of these ids should be stored, each on a new line.
+
+Running scrape.py will generate an iCalendar file called max2010.ics
+
+This script depends on the icalendar library from http://codespeak.net/icalendar/
+
