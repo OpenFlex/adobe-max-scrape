@@ -4,8 +4,16 @@ import simplejson, urllib, pprint, sys
 from datetime import datetime, timedelta
 from icalendar import Calendar,Event,UTC
 
+def load_speakers():
+  speaker_data = simplejson.load(open('speakers.json','r'))
+  speakers = {}
+  for speaker in speaker_data:
+    id = speaker['id']
+    speakers[id] = speaker
+    del speaker['id']
+  return speakers
+
 def load_session(id,list):
-  
   url = baseurl + id + ".json"
   while True:
     try:
@@ -14,28 +22,34 @@ def load_session(id,list):
       break
     except IOError:
       print 'Error loading url, retrying'
-      
   del session['id']
   session['_id'] = id
   list.append(session)
   return session
+  
+def denormalize_speakers(session,all_speakers):
+  speakers = []
+  for speaker_id in session['speakers']:
+    speakers.append(all_speakers[speaker_id])
+  del session['speakers']
+  session['speakers'] = speakers
 
-def build_event(session):
-  occurance = session['instances'][0]
-  datestr = occurance['datetime']
-  datestr = occurance['datetime'][:-6]
-  dtstart = datetime.strptime(datestr,'%Y-%m-%dT%H:%M:%S')
-  duration = timedelta(minutes=int(occurance['duration']))
-  dtend = dtstart + duration
-  event = Event()
-  event['uid'] = session['_id']
-  event.add('summary',session['name'])
-  event.add('description',session['description'])
-  event.add('dtstart',dtstart)
-  event.add('dtend',dtend)
-  event.add('dtstamp',dtstart)
-  event.add('priority',5)
-  return event
+def build_events(session,cal):
+  for i,occurance in enumerate(session['instances']):
+    datestr = occurance['datetime']
+    datestr = occurance['datetime'][:-6]
+    dtstart = datetime.strptime(datestr,'%Y-%m-%dT%H:%M:%S')
+    duration = timedelta(minutes=int(occurance['duration']))
+    dtend = dtstart + duration
+    event = Event()
+    event['uid'] = session['_id'] + "-" + str(i)
+    event.add('summary',session['name'])
+    event.add('description',session['description'])
+    event.add('dtstart',dtstart)
+    event.add('dtend',dtend)
+    event.add('dtstamp',dtstart)
+    event.add('priority',5)
+    cal.add_component(event)
 
 def write_cal(fname,c):
   f = open(fname,'wb')
@@ -59,11 +73,16 @@ cal.add('prodid','-//Adobe MAX 2010//mxm.dk//')
 cal.add('version','2.0')
 sessionlist = [];
 
+print 'Loading speaker data...'
+speakers = load_speakers()
+print 'Finished loading speaker data'
+
 linenum = 0
 for line in open(sys.argv[1],'r').readlines():
   sessionid = line.strip()
   session = load_session(sessionid,sessionlist)
-  cal.add_component(build_event(session))  
+  denormalize_speakers(session,speakers)
+  build_events(session,cal)  
   linenum = linenum + 1
   if linenum%10 == 0:
     print 'Loaded '+str(linenum)+' sessions'
