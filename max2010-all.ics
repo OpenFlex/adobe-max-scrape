@@ -1,0 +1,3171 @@
+BEGIN:VCALENDAR
+PRODID:-//ISS Adobe MAX 2010//mxm.dk//
+VERSION:2.0
+BEGIN:VEVENT
+DESCRIPTION:Learn how you can accelerate your workflows and get the most o
+ ut of Adobe Creative Suite 5 with Adobe CS Live\, a set of online services
+  that simplify the creative review process\, speed up website compatibilit
+ y testing\, and more. This session will cover CS Review\, BrowserLab\, Acr
+ obat.com\, and SiteCatalyst NetAverages.
+DTEND:20101025T180000
+DTSTAMP:20101025T170000
+DTSTART:20101025T170000
+PRIORITY:5
+SUMMARY:Accelerate your workflows and elevate your work with Adobe CS Live
+  online services
+UID:7a159e13-d893-4588-b20d-f4586cc2c24b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Get up and running with ActionScript in this bring your own la
+ ptop lab. Learn how to use ActionScript to manipulate objects\, create eve
+ nt handlers and timers\, and create a simple project. You will learn how t
+ o write ActionScript using the new code snippets and code hinting features
+  in Flash Professional CS5.
+DTEND:20101024T170000
+DTSTAMP:20101024T090000
+DTSTART:20101024T090000
+PRIORITY:5
+SUMMARY:ActionScript 1:1 with Doug Winnie
+UID:f8c10363-a532-4d0d-8818-7ba1bbb1e77e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how to get PDF files to behave the way you and your read
+ ers want on the web. We'll share best practices for helping to ensure that
+  PDF files are easy to read\, navigate\, and access\, as well as for makin
+ g PDF files as streamlined as possible without losing quality. 
+DTEND:20101027T163000
+DTSTAMP:20101027T153000
+DTSTART:20101027T153000
+PRIORITY:5
+SUMMARY:Adobe Acrobat for the Web Designer
+UID:3a331099-db85-4881-8794-ef3f8f81413f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Attend this mega-lab for a comprehensive\, hands-on dive into 
+ Adobe AIR for Flex 4 developers. You'll learn how to use the latest featur
+ es of AIR by building several applications on your own computer\, and leav
+ e with source code for more than 20 applications. We'll cover using the mi
+ crophone class\, writing to a local drive\, launching a native process\, a
+ nd more. The lab includes a sneak peek at developing AIR applications for 
+ the Android OS. The courseware is modularized so beginners can follow alon
+ g.
+DTEND:20101026T170000
+DTSTAMP:20101026T130000
+DTSTART:20101026T130000
+PRIORITY:5
+SUMMARY:Adobe AIR Code Camp
+UID:857971cf-eaf4-4876-a2f3-2fc2c86a0b96
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The Russell Brown@MAX lab is the essential three-day\, hands-o
+ n course that brings together top art directors\, designers\, illustrators
+ \, and photographers to learn advanced imaging tips and techniques with Ad
+ obe Photoshop CS5.  Get going with Adobe senior creative director Russell 
+ Brown and his distinguished team of artisans. This assembled group of expe
+ rts represents some of the best designers and instructors in the industry.
+  \n\nStarting with photographic portraits we will turn reality into renais
+ sance. Participants will unleash the powerful combination of cameras\, com
+ puters\, and CS5 software to produce an original artwork on canvas. This c
+ lass will introduce you to a new set of creative techniques that will be u
+ seful for both designers\, and photographers. Our goal will be to turn the
+  normal into the unique. Taught on the latest Mac computers\, Russell Brow
+ n@MAX offers a limited class size and an intimate\, inspiring environment 
+ for in-depth instruction on Adobe Photoshop CS5 and many of its new featur
+ es. This unique\, project-based class gives you time to ask questions of i
+ ndustry experts and network with others in your field. If you like crazy a
+ nd inspirational events\, then this is what you've been waiting for.\n
+DTEND:20101023T170000
+DTSTAMP:20101023T090000
+DTSTART:20101023T090000
+PRIORITY:5
+SUMMARY:Adobe Photoshop CS5: From Reality to Renaissance
+UID:3558337e-92ed-48af-809f-0aab6d1d0138
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn from the experts at SimpleFlame about building fully cus
+ tomized\, beautiful websites hosted on the new Adobe Business Catalyst pla
+ tform. Business Catalyst is a hosted application that works tightly with A
+ dobe Dreamweaver and replaces five-plus tools with one central platform fo
+ r web designers. Using this unified platform with no back-end coding\, you
+  can build everything from amazing websites to powerful online stores. Rep
+ resentatives from SimpleFlame will share their experience in building more
+  than 200 custom websites with Business Catalyst\, revealing tips and tric
+ ks they've learned along the way. 
+DTEND:20101027T090000
+DTSTAMP:20101027T080000
+DTSTART:20101027T080000
+PRIORITY:5
+SUMMARY:Adobe’s New CMS for Business: Real-World Case Studies in Busines
+ s Catalyst
+UID:66dc1e09-1870-4a4e-8b87-fe39ec2b03e6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join Joa Ebert for a tour of the features of his Apparat frame
+ work. You'll learn how to optimize ActionScript using Apparat features lik
+ e inline expansion. The session will also focus on code coverage and how A
+ pparat can help you write better ActionScript.
+DTEND:20101025T163000
+DTSTAMP:20101025T153000
+DTSTART:20101025T153000
+PRIORITY:5
+SUMMARY:Advanced ActionScript with Apparat
+UID:bbf73620-66d4-4a02-8340-c837cb72165c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn the best techniques to edit\, restore\, and master audio
+  for importing into Adobe products such as Adobe Flash Professional and Ad
+ obe Premiere Pro. Whether you're a web pro\, a video pro\, or just want to
+  expand your skills\, you'll learn how to get professional-quality audio w
+ hile minimizing the time spent engineering audio files.
+DTEND:20101026T160000
+DTSTAMP:20101026T150000
+DTSTART:20101026T150000
+PRIORITY:5
+SUMMARY:Advanced Audio Restoration and Editing 
+UID:a97f6c05-cdff-415a-a1f6-2f17dbb64b6a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Explore advanced techniques in using the data-centric developm
+ ent features of Adobe Flash Builder to build an application with Flex and 
+ a server-side technology. You'll gain an understanding of how to take adva
+ ntage of features in Flash Builder\, including client-side data management
+ \, data paging\, and reusing value objects. This session introduces you to
+  topics like customizing generated code to work with MVC frameworks\, depl
+ oying applications developed using DCD\, and lots of other tips and tricks
+ .
+DTEND:20101027T120000
+DTSTAMP:20101027T110000
+DTSTART:20101027T110000
+PRIORITY:5
+SUMMARY:Advanced Data-Centric Application Development with Flash Builder
+UID:debcd4e1-c7df-400c-b383-78afff010a8b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how to take Drupal theme building to the next level. Dru
+ pal is a robust\, full-featured web content management system that powers 
+ more than 10\,000 of the top one million sites on the web today. Learn to 
+ go beyond basic theme files\, altering the Drupal front end using PHP\, CS
+ S\, and the popular jQuery JavaScript library. In this session\, you'll gr
+ asp the fundamentals of designing for Drupal and learn how to produce a st
+ andard theme using Adobe Dreamweaver CS5. Prior attendance at the associat
+ ed introductory lab is recommended.\n
+DTEND:20101025T183000
+DTSTAMP:20101025T170000
+DTSTART:20101025T170000
+PRIORITY:5
+SUMMARY:Advanced Drupal Themes using Dreamweaver CS5
+UID:32e2f6bb-a8f6-4fbf-a38f-dda72f0be901
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join author J.P. Terry for a hands-on lab covering advanced fo
+ rm design techniques and his latest tips and tricks. For instance\, you'll
+  learn how to add an auto-completion feature to a PDF form that provides r
+ elevant suggestions as the user types into the form. See other advanced te
+ chniques that make form completion much easier and more accurate. The tech
+ niques will be taught within the context of the Institutional Investor cas
+ e study from Terry's book “Paperless: Real-World Solutions with Adobe Te
+ chnology.”\n
+DTEND:20101025T141500
+DTSTAMP:20101025T124500
+DTSTART:20101025T124500
+PRIORITY:5
+SUMMARY:Advanced Dynamic Form Design
+UID:3247c94c-70af-4f31-872b-1bb000c82815
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how to leverage After Effects to create engaging and ric
+ h online advertising campaigns. See how PointRoll combines the power of Af
+ ter Effects and the back end of Adobe Flash Professional to create compell
+ ing and highly interactive rich media\, all within being "in spec" to allo
+ w flight across publisher standards. Learn how to optimize your video for 
+ web deployment\, use best practices\, embed metadata/cue points markers fo
+ r integration with Flash\, and even use tracking data from Mocha for After
+  Effects v2 (included with After Effects CS5) to enable dynamic video.
+DTEND:20101026T173000
+DTSTAMP:20101026T163000
+DTSTART:20101026T163000
+PRIORITY:5
+SUMMARY:After Effects + Flash = Killer Rich Media
+UID:99f3f5e3-5c33-4c83-b0c0-11bf7d73cbea
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:See how easy it is to create Adobe AIR apps for Android device
+ s\, including mobile phones and tablets. Take your AIR skills mobile as we
+  learn the latest techniques for Android OS app development. We'll cover t
+ he basics of mobile development\, including working with multitouch\, prog
+ ramming for varying screen sizes\, detecting device capabilities\, and opt
+ imizing content for mobile delivery. (Android device recommended but not r
+ equired.)\n
+DTEND:20101027T100000
+DTSTAMP:20101027T083000
+DTSTART:20101027T083000
+PRIORITY:5
+SUMMARY:AIR for Android: Discovering the Magic
+UID:5f018615-5f97-46cd-a9cd-5d38d8aedda9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ask\, share\, and learn everything about animation in this han
+ ds-on lab with leading Flash animator Chris Georgenes. The lab will help a
+ nyone who has wanted to advance their character animation\, interactivity\
+ , games\, and animation skills with the animation tools in Flash Pro.
+DTEND:20101027T100000
+DTSTAMP:20101027T083000
+DTSTART:20101027T083000
+PRIORITY:5
+SUMMARY:Animation How-To's\, Tips and Tricks with Chris Georgenes
+UID:ff096606-5aa0-47fc-b7b2-70091045dc82
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn from animation expert Chris Georgenes of Mudbubble as he
+  walks through various games\, character animation and interactive content
+  he's created for clients using Flash Professional. Always an educational 
+ and informative speaker\, Chris will share his approach to various animati
+ on projects\, sharing his artful way of using Flash animation tools.
+DTEND:20101026T173000
+DTSTAMP:20101026T163000
+DTSTART:20101026T163000
+PRIORITY:5
+SUMMARY:Animation with Chris Georgenes
+UID:6f4d224e-79a1-41b2-93c8-01f25387cbfd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hear from Chuck Freedman (@chuckstar | www.chuckstar.com/blog)
+ \, Adobe Flash Platform expert and chief channel evangelist at litl\, as h
+ e discusses how Flash Player compatible content plays on many cool\, in-ho
+ me devices from Sony\, Nintendo\, litl\, and more. He'll explore why creat
+ ors should take special note of different form factors\, simplified user e
+ xperiences\, and the new distribution channels that make this an exciting 
+ opportunity. We'll consider the full range of experiences\, from open\, mu
+ ltiplayer games and HD video in the living room to interactive cooking in 
+ the kitchen to DIY guides in the garage\, and even story time.\n\n
+DTEND:20101027T180000
+DTSTAMP:20101027T170000
+DTSTART:20101027T170000
+PRIORITY:5
+SUMMARY:Authoring Rich Experiences for Every Room in the Home
+UID:dbd5e32a-cb74-4fed-b07f-3deb557d2120
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn about the two mechanisms in Adobe Acrobat for automating
+  tasks: JavaScript\, for grouping multiple actions into a single step\, an
+ d batch processing\, for operating on multiple documents. Use of these two
+  features can greatly improve workflow efficiency\, reduce human error\, a
+ nd cut down training time for employees who need to use these workflows. T
+ his session will cover the details of using JavaScript for Acrobat automat
+ ion and creating batch sequences. We'll include practical working examples
+ .
+DTEND:20101027T180000
+DTSTAMP:20101027T170000
+DTSTART:20101027T170000
+PRIORITY:5
+SUMMARY:Automating Acrobat: Best Practices for Scripting and Batch Process
+ ing
+UID:0fa87276-fefd-41a2-90fe-d200767e13e4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join Raymond Camden to learn which techniques (source control\
+ , unit testing\, load testing\, and so forth) are considered best practice
+ s for the Adobe ColdFusion developer and\, more important\, why they are c
+ onsidered best practices. Practical examples of the benefits of these prac
+ tices will be provided.
+DTEND:20101027T163000
+DTSTAMP:20101027T153000
+DTSTART:20101027T153000
+PRIORITY:5
+SUMMARY:Best Practices of the Modern ColdFusion Developer
+UID:dde00c61-5855-4387-b844-8fc7dfee5ab2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how to set up your designs in Illustrator CS5 and Photos
+ hop CS5 for the best results when you take them to Flash Catalyst to add i
+ nteraction\, and then efficiently iterate on those designs leveraging your
+  existing skills and experience with familiar design tools. Clients often 
+ change their design direction during a project — this session will give 
+ you the knowledge to incorporate those changes efficiently with your origi
+ nal files.
+DTEND:20101025T183000
+DTSTAMP:20101025T170000
+DTSTART:20101025T170000
+PRIORITY:5
+SUMMARY:Best Practices: Working with Flash Catalyst CS5 and Adobe Design A
+ pplications 
+UID:6d13b833-7a80-418a-a5de-880bc4e097ab
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Listen to noted book designers discuss how they're pushing the
+  frontier of book design as it enters the digital age. Book designers are 
+ increasingly asked to craft digital books to be read on smartphones\, e-re
+ aders\, and tablet devices like the iPad. Explore the challenges and oppor
+ tunities designers face in working with the PDF and EPUB eBook formats. An
+ d discover the role design plays in creating engaging eBook reading experi
+ ences.
+DTEND:20101027T163000
+DTSTAMP:20101027T153000
+DTSTART:20101027T153000
+PRIORITY:5
+SUMMARY:Book Design: Pushing the Frontiers in Digital Reading
+UID:5c26b591-c916-4c7f-aeb7-8191cd7c8691
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how to use Flash Catalyst CS5 to rapidly create and publ
+ ish an interactive portfolio to the web as a finished SWF file for Adobe F
+ lash Player\, or as an Adobe AIR project that can run across platforms out
+ side the browser. See how you can leverage your existing design skills in 
+ Adobe Illustrator and Adobe Photoshop to effectively showcase your videos\
+ , photos\, designs\, or products\, all without writing any code.
+DTEND:20101025T141500
+DTSTAMP:20101025T124500
+DTSTART:20101025T124500
+PRIORITY:5
+SUMMARY:Building an Interactive Portfolio with Flash Catalyst CS5
+UID:065508c2-b237-4274-9e59-7cab85ef2fbd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how to build Adobe AIR applications for Android. After r
+ eviewing the basics of AIR for Android\, we'll focus on building data-driv
+ en applications for Android devices. You'll learn how to work with the loc
+ al database on your phone\, how to synchronize data\, how to retrieve and 
+ push data to your Android device\, and much more. Don't miss this opportun
+ ity to catch the next wave in application development.
+DTEND:20101025T163000
+DTSTAMP:20101025T153000
+DTSTART:20101025T153000
+PRIORITY:5
+SUMMARY:Building Android Data-Driven Applications with Flex
+UID:90ddfb72-b32c-4e00-9592-3722601e43cb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Find out how to integrate analytic services like Omniture web 
+ analytics and Google Analytics into out-of-browser applications running on
+  desktop\, mobile\, and digital home devices. This session will include an
+  exploration of telemetry and how it can be used to improve the quality an
+ d performance of your applications.  
+DTEND:20101027T090000
+DTSTAMP:20101027T080000
+DTSTART:20101027T080000
+PRIORITY:5
+SUMMARY:Building Better AIR Applications using Analytics 
+UID:edf3299a-ad9c-4721-ad98-f6a937119ebe
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ColdFusion has long been the most productive way to build web 
+ applications\, but that’s not all it can do. Recent versions of ColdFusi
+ on have added powerful support for Adobe AIR powered applications for desk
+ tops and devices. Get hands-on experience using ColdFusion 9 in conjunctio
+ n with Adobe AIR\, LiveCycle Data Services\, Flash Remoting\, and more.
+DTEND:20101024T170000
+DTSTAMP:20101024T090000
+DTSTART:20101024T090000
+PRIORITY:5
+SUMMARY:Building ColdFusion Powered Desktop And Mobile Applications
+UID:38a43e6d-2b3b-4961-a705-f0f85da02c18
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join product experts and learn how to build an enterprise comp
+ osite application using Adobe LiveCycle Mosaic ES. Discover how to assembl
+ e and integrate multiple enterprise applications on the client side while 
+ ensuring user interface integrity of your enterprise look and feel. You'll
+  also learn how to include embedded collaboration to enable users to commu
+ nicate while remaining within the application context. \n\n
+DTEND:20101026T143000
+DTSTAMP:20101026T130000
+DTSTART:20101026T130000
+PRIORITY:5
+SUMMARY:Building Composite Rich Internet Applications
+UID:9098dc1d-b049-4564-b058-6f0a2b4b81c7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn the basics of data-centric development\, from gathering 
+ data requirements to connecting the database to a rich Internet applicatio
+ n based on the Adobe Flash Platform. We'll begin with an overview of the p
+ rocess of understanding and organizing data. You'll generate a visual mode
+ l of a database and then build the database using MySQLWorkbench and phpMy
+ Admin\, two free and fairly simple tools. Finally\, we'll use Adobe Flash 
+ Builder Data/Service Explorer and Zend AMF to introspect the database\, ge
+ nerate the PHP services\, and bind those methods to user interface compone
+ nts in the application.
+DTEND:20101025T141500
+DTSTAMP:20101025T124500
+DTSTART:20101025T124500
+PRIORITY:5
+SUMMARY:Building Data-Centric Rich Internet Applications (with PHP)
+UID:4c66c0a4-bc33-4612-86ca-3de80725a673
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how to quickly set up and style Drupal\, a robust\, full
+ -featured web content management system (CMS) that powers more than 10\,00
+ 0 of the top one million sites on the web today. A theme for Drupal is mad
+ e up of popular web technologies such as HTML\, CSS\, and PHP. Two notable
+  sites running on Drupal are WhiteHouse.gov and Grammy.com. Come see how A
+ dobe Dreamweaver CS5 empowers web designers who choose Drupal as their web
+  CMS platform. In this hands-on session\, you'll learn the fundamentals of
+  designing for Drupal and produce a standard theme using Dreamweaver CS5.\
+ n
+DTEND:20101025T161500
+DTSTAMP:20101025T144500
+DTSTART:20101025T144500
+PRIORITY:5
+SUMMARY:Building Drupal Themes using Dreamweaver CS5
+UID:03142dd2-8e9a-42ed-851d-496c8e75a7c4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how Adobe modified the code for its Employee Directory\,
+  an AIR application\, for deployment to Android phones. We'll talk about o
+ vercoming challenges in getting enterprise data to Android devices as well
+  as working with prerelease versions of Adobe AIR.
+DTEND:20101027T103000
+DTSTAMP:20101027T093000
+DTSTART:20101027T093000
+PRIORITY:5
+SUMMARY:Building Enterprise Adobe AIR Applications for Android
+UID:ea2f3fbb-2932-4d36-8c95-5b77b5191bf5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join Mete Atamel\, Adobe LiveCycle Data Services architect\, t
+ o learn all you need to know to build the most demanding Flex applications
+  with real-time data. The latest version of LiveCycle Data Services comes 
+ with an extensive set of advanced messaging features\, including reliable 
+ messaging\, message throttling\, edge server deployment\, and a NIO-based 
+ Java load testing tool. In this session\, you'll not only get in-depth cov
+ erage of these features but you'll also see them in action with live demos
+ . 
+DTEND:20101027T143000
+DTSTAMP:20101027T133000
+DTSTART:20101027T133000
+PRIORITY:5
+SUMMARY:Building Flex Applications with Advanced Real Time Messaging 
+UID:48557044-641e-4e7c-98d3-dc6693756a0f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Explore the development of a language learning tool. We'll cov
+ er concept\, design\, production\, and evaluation processes as well as all
+  the tools used in those processes\, including Adobe InDesign\, Photoshop\
+ , Illustrator\, Flash Catalyst\, Flash Builder\, and Flash Media Server. T
+ hen we'll dive into developing user management\, authentication\, content 
+ management\, assessment\, reporting\, and administrative modules. This ses
+ sion provides you with an open source project you can use to get started b
+ uilding your own language learning projects.
+DTEND:20101026T160000
+DTSTAMP:20101026T150000
+DTSTART:20101026T150000
+PRIORITY:5
+SUMMARY:Building Language Learning Tools with Flash Catalyst\, Flash Build
+ er\, and Flash Media Server
+UID:fbbbb56c-c891-4e33-8a36-94332882f093
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how to use HTML\, CSS\, and jQuery to build mobile appli
+ cations you can deliver across multiple devices. In this lab\, we'll cover
+  jQuery basics and incorporate the jQTouch plug-in to manage navigation\, 
+ touch events\, animation\, and skinning. Techniques for client-side data s
+ torage and data caching will also be covered.
+DTEND:20101026T093000
+DTSTAMP:20101026T080000
+DTSTART:20101026T080000
+PRIORITY:5
+SUMMARY:Building Mobile Applications with jQuery
+UID:6083f1e1-6354-43db-a8b2-2baff4217922
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:See how mobile learning can be achieved using Adobe Creative S
+ uite 5 and Adobe AIR. Most smartphones are capable of using learning conte
+ nt created with these tools without needing native development. This appro
+ ach accelerates development\, lowers costs\, and increases adoption thanks
+  to cross-platform compatibility. Various mobile platforms will be explore
+ d\, featuring mobile web content and applications. Testing and debugging u
+ sing Adobe Device Central and other testing platforms will be examined.
+DTEND:20101025T163000
+DTSTAMP:20101025T153000
+DTSTART:20101025T153000
+PRIORITY:5
+SUMMARY:Building Mobile Learning with Your Existing eLearning Toolkit
+UID:88e48467-5f0a-49ae-b580-eb5130dd2d2d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Get an introduction to Adobe application modeling technology\,
+  and learn how to define a single data model that can be leveraged by mult
+ iple form types\, including PDF forms and forms created in Flash. Attendee
+ s will learn how to build a process that can be leveraged to handle these 
+ various form types through an approval process using Adobe LiveCycle Enter
+ prise Suite. Attendees will hear how this modeling technology will allow t
+ hem to save development time and maintenance costs.\n
+DTEND:20101026T093000
+DTSTAMP:20101026T080000
+DTSTART:20101026T080000
+PRIORITY:5
+SUMMARY:Building Model-Driven Forms
+UID:48eb69e4-da58-43c9-9a13-9985c9a1d6bb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:More users connect to the Internet on devices and phones than 
+ using desktop computers. And you’re still building apps for computer bas
+ ed web browsers only? The future is multiscreen\, apps that runs consisten
+ tly\, intuitively\, and engagingly\, on all sorts of screens\, big and sma
+ ll. In this session you’ll learn how to design applications for multiscr
+ een use\, and how to take advantage of touch\, orientation\, different scr
+ een resolutions\, and more. 
+DTEND:20101024T170000
+DTSTAMP:20101024T090000
+DTSTART:20101024T090000
+PRIORITY:5
+SUMMARY:Building Multiscreen Applications
+UID:812606f8-143c-4539-9ed5-28ae8e314f3f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how to use the enhanced offline functionality in Adobe L
+ iveCycle Data Services 3.1\, which can store application data in the local
+  SQL database for use when the application is not connected. You'll learn 
+ synchronization strategies for when your application is connected back to 
+ the server\, how to automatically persist any offline changes\, and how to
+  update local data with changes that occurred while the client was offline
+ . We'll explain how to use automatic generation of the ActionScript code\,
+  which duplicates query behavior on the server in the client when using Mo
+ del Driven Development.
+DTEND:20101026T093000
+DTSTAMP:20101026T080000
+DTSTART:20101026T080000
+PRIORITY:5
+SUMMARY:Building Offline Applications with Flex and Adobe AIR
+UID:a73f442f-bd44-4498-a58d-eb0caddf9874
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how you can leverage peer-to-peer communication in Adobe
+  Flash Player to enable multiplayer games on Facebook. This session will i
+ nclude an in-depth tutorial on peer-to-peer technology\, a demo of how to 
+ use peer to peer in your games with Adobe Flash Builder and Flash Professi
+ onal CS5\, and deployment on the Facebook platform.
+DTEND:20101026T160000
+DTSTAMP:20101026T150000
+DTSTART:20101026T150000
+PRIORITY:5
+SUMMARY:Building P2P Multiplayer Games
+UID:05881bf0-81cd-4b76-859d-7d5fd17ae63c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how to let concurrent users of your applications communi
+ cate and work together in real time. Adobe LiveCycle Collaboration Service
+  allows you to add rich collaboration features to your applications built 
+ with Flex\, Flash Professional\, and Adobe AIR\, enabling users to chat wi
+ th text or peer-to-peer audio/video. By integrating your applications more
+  deeply with this hosted service\, you can enable your users to conavigate
+ \, assist each other with tasks\, and get things done faster\, saving you 
+ the hassle and expense of managing a communications network. Discover how 
+ collaborative features can make your apps even richer.
+DTEND:20101027T143000
+DTSTAMP:20101027T133000
+DTSTART:20101027T133000
+PRIORITY:5
+SUMMARY:Building Rich Multi-User Applications with LiveCycle Collaboration
+  Service
+UID:5e65c3c7-a248-4551-896c-914b475c2575
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Using Adobe Flash Builder 4\, discover the core fundamentals o
+ f building P2P applications for Flash Player and Adobe AIR by stepping thr
+ ough a project from start to finish. Learn tips and tricks for deploying P
+ 2P on the Flash Platform. See how to create robust real-time interactive a
+ pplications. You'll leave with a working application built on AIR using RT
+ MFP.
+DTEND:20101026T143000
+DTSTAMP:20101026T130000
+DTSTART:20101026T130000
+PRIORITY:5
+SUMMARY:Building Scalable Applications with P2P and RTMFP
+UID:90a64679-97d7-45f0-9f41-62dbdd7e153f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how ChessJam\, a scalable\, interactive\, multiplayer ch
+ ess application\, was built using Flex\, Adobe AIR\, BlazeDS with LiveCycl
+ e Data Services\, and ColdFusion. Employ publish/subscribe messaging\, rem
+ oting\, and a few tricks to build something far cooler than just another m
+ ultiuser chat application. Synchronize graphics across players and learn h
+ ow to handle user disconnects and reconnects\, poor networking conditions\
+ , latency\, and more.
+DTEND:20101025T141500
+DTSTAMP:20101025T124500
+DTSTART:20101025T124500
+PRIORITY:5
+SUMMARY:Building the Coolest Online Chess Game: Real-Time Messaging Lesson
+ s from the Trenches
+UID:a92452fa-bc92-4da6-90df-ba687c4796c7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how ChessJam\, a scalable\, interactive\, multiplayer ch
+ ess application\, was built using Flex\, Adobe AIR\, BlazeDS with LiveCycl
+ e Data Services\, and ColdFusion. Employ publish/subscribe messaging\, rem
+ oting\, and a few tricks to build something far cooler than just another m
+ ultiuser chat application. Synchronize graphics across players and learn h
+ ow to handle user disconnects and reconnects\, poor networking conditions\
+ , latency\, and more. 
+DTEND:20101026T173000
+DTSTAMP:20101026T163000
+DTSTART:20101026T163000
+PRIORITY:5
+SUMMARY:Building the Coolest Online Chess Game: Real-Time Messaging Lesson
+ s from the Trenches
+UID:fb5fa870-21f0-485d-b031-fd7ed17f6eb2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Build your first (and cool) data-driven Android application us
+ ing Flex and Adobe AIR — without needing an Android device. You'll use t
+ he Android SDK to run your application using the Android emulator. If you 
+ do have an Android device\, bring it along. Don't miss this opportunity to
+  catch the next wave in application development.
+DTEND:20101025T183000
+DTSTAMP:20101025T170000
+DTSTART:20101025T170000
+PRIORITY:5
+SUMMARY:Building Your First AIR for Android Data-Driven Application
+UID:525b50a5-e6ec-4b99-bde8-c987119f74e5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join Domani Studios for a session exploring how WeChoosetheMoo
+ n.org was adapted to leverage the capabilities of mobile devices running A
+ dobe Flash Player. Originally conceived as a collective experience\, the s
+ ite now allows visitors to experience the reenactment of the Apollo 11 mis
+ sion at their own pace\, while also providing access to a wealth of media 
+ content. In this session\, you'll learn basic principles of adaptive desig
+ n and their importance in the context of multiscreen development\, as well
+  as technical details of the implementation.
+DTEND:20101026T173000
+DTSTAMP:20101026T163000
+DTSTART:20101026T163000
+PRIORITY:5
+SUMMARY:Case Study: Is That a Rocket in Your Pocket?
+UID:9c61141c-cbaa-4601-8674-43a734b1bf9e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join Adobe Community Professionals Marc Esher and Joe Rinehart
+  for a showcase of applications you didn't expect ColdFusion to build. You
+ 'll see RIA magic\, real-time messaging\, unexpected beyond-the-browser in
+ terfaces\, and unbelievable enterprise productivity. This isn't a presenta
+ tion about one feature or a customer case study\; it's a tag-team tour of 
+ the most stunning\, jaw-dropping ColdFusion examples these two could find.
+  Information\, innovation\, and inspiration are their domain\, and they'll
+  deliver all three in spades.
+DTEND:20101027T143000
+DTSTAMP:20101027T133000
+DTSTART:20101027T133000
+PRIORITY:5
+SUMMARY:ColdFusion Skunkworks
+UID:b0b2c291-1e5a-4a69-a1d1-b3b3f99daf7b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Discover some of the many features of Adobe ColdFusion that yo
+ u won't see described in marketing materials. Each release of ColdFusion i
+ s packed with new functionality to make your applications come alive. In t
+ his session\, the senior engineering director for Adobe ColdFusion and Col
+ dFusion Builder will review some of the lesser discussed features of ColdF
+ usion 9.
+DTEND:20101026T143000
+DTSTAMP:20101026T133000
+DTSTART:20101026T133000
+PRIORITY:5
+SUMMARY:ColdFusion Undocumented
+UID:dff70d0e-da1a-4b76-855f-8ccdbda9bdca
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join Rob Brooks-Bilson for a discussion on configuring\, secur
+ ing\, and maintaining Adobe ColdFusion servers for optimal performance and
+  stability. In addition to server configuration\, he'll also discuss the s
+ erver monitor and the new Adobe Air based server manager introduced in Col
+ dFusion 9.
+DTEND:20101027T103000
+DTSTAMP:20101027T093000
+DTSTART:20101027T093000
+PRIORITY:5
+SUMMARY:Configuring and Maintaining Healthy ColdFusion Servers 
+UID:ab73d320-a81d-47f6-b45c-757f812cc38d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Get helpful guidelines\, tips\, and tricks for making your con
+ tent accessible using Adobe Flash Professional authoring tools. Learn how 
+ designers and developers deliver accessible video using the caption data s
+ tandard (DFXP) and accessible player controls for FLV and H.264 video.
+DTEND:20101027T143000
+DTSTAMP:20101027T133000
+DTSTART:20101027T133000
+PRIORITY:5
+SUMMARY:Creating Accessible Content with Flash Professional
+UID:36fe341a-967e-4d14-b2e1-c51c9f7e8e72
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Explore the role of prototyping in designing and developing co
+ mpelling mobile applications. We'll examine the forms that prototypes can 
+ take (from paper prototypes to rich\, interactive simulations)\, their adv
+ antages and costs\, and how Adobe tools can be used to create them. Then w
+ e'll walk through creating a user interface for a mobile application using
+  Adobe Illustrator\, Photoshop\, Flash Professional\, Flash Catalyst\, and
+  Flash Builder. This presentation also covers best practices for UX\, as w
+ ell as developer-focused tips and tricks.
+DTEND:20101025T180000
+DTSTAMP:20101025T170000
+DTSTART:20101025T170000
+PRIORITY:5
+SUMMARY:Creating Compelling Mobile User Experiences: What You Need to Know
+UID:fc457b60-3ba3-4135-9280-20053031e781
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expand your web design skills with Adobe Creative Suite 5 Web 
+ Premium. Learn valuable techniques for preparing web graphics in Photoshop
+  and Illustrator\, prototyping websites in Fireworks and Flash Catalyst\, 
+ and building standards-based dynamic websites in Dreamweaver using content
+  management systems like WordPress. Enhance video with Photoshop Extended\
+ , and animate Illustrator assets with Flash Professional. By the end of th
+ is session\, you'll know dozens of usable\, practical techniques.
+DTEND:20101024T170000
+DTSTAMP:20101024T090000
+DTSTART:20101024T090000
+PRIORITY:5
+SUMMARY:Creating Engaging Websites with Adobe Creative Suite 5 Web Premium
+UID:eb03067d-71a5-4892-97d9-a2d306b1117b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn about the benefits of adding social components to your a
+ pplications\, such as increased virality and user engagement. You'll find 
+ out how Adobe Flash Platform Services makes social integration easy to add
+  and maintain instead of rewriting your app each time a social network cha
+ nges its API. See three different uses of social features and walk through
+  the steps required to build them into your app.
+DTEND:20101025T180000
+DTSTAMP:20101025T170000
+DTSTART:20101025T170000
+PRIORITY:5
+SUMMARY:Creating Engaging\, Viral Apps by Adding Social Interaction
+UID:b92dd87c-8be0-41ba-a5b0-36f5082dd4b7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Use best-in-class tools to create an enterprise RIA that enabl
+ es users to browse and view documents\, connect to a document management s
+ tore\, display a master detail list (of users\, customers\, invoices\, or 
+ similar)\, and display associated secured documents. You'll learn how to u
+ se Adobe Flash Catalyst to import a design comp created in Adobe Photoshop
+  and define the interaction design of the application. Once the interactio
+ n design has been defined in Flash Catalyst\, you'll import the project in
+ to Adobe Flash Builder and use model-driven development to implement conne
+ ctivity to an Adobe LiveCycle ES2 server.
+DTEND:20101024T170000
+DTSTAMP:20101024T090000
+DTSTART:20101024T090000
+PRIORITY:5
+SUMMARY:Creating Enterprise RIAs: From Design to Implementation
+UID:c875de8f-8a1e-463c-8ae9-80b578559b59
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn best practices and step-by-step instructions on how to t
+ ake your content from creation to publication to distribution on the Sony 
+ Reader\, Kindle\, and iPad. This session is organized into three sections:
+  optimal layout of eBooks using Adobe InDesign CS5\, export from InDesign 
+ CS5 to Adobe Digital Editions\, and conversion of a book to the appropriat
+ e file format for use on a particular reading device. We'll include a disc
+ ussion of EPUB enhancements included in InDesign CS5.
+DTEND:20101026T160000
+DTSTAMP:20101026T150000
+DTSTART:20101026T150000
+PRIORITY:5
+SUMMARY:Creating Industry-Standard eBooks for Distribution on Sony Reader\
+ , Amazon Kindle\, and Apple iPad
+UID:25b224da-408d-4945-a5e0-60fa7005489a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how to turn Adobe Photoshop and Illustrator artwork into
+  high-quality interactive content without writing code with new Flash Cata
+ lyst CS5. Find out how you can add attention-grabbing interactivity\, anim
+ ation\, video\, and sound to your digital documents and presentations — 
+ all in InDesign CS5. And see how you can export InDesign documents for Ado
+ be Digital Editions\, a desktop reading application for devices such as th
+ e Amazon Kindle\, the Sony Reader\, and the Barnes & Noble nook.
+DTEND:20101026T143000
+DTSTAMP:20101026T130000
+DTSTART:20101026T130000
+PRIORITY:5
+SUMMARY:Creating Interactive Content without Writing Code with CS5 Design 
+ Premium
+UID:147e3667-93a5-46d7-9850-4ecf1149fb45
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:In this session you'll learn how video can be one of the most 
+ engaging components in Rich Media Advertising.  We'll discuss how: use mul
+ tiple videos in standard or HD format leveraging Dynamic Streaming\; recor
+ d your own video with a webcam and send it to email or a smartphone\; post
+  videos on Facebook\; play a 3D multiplayer game using Papervision and Fla
+ sh Media Interactive Server\; and go mobile with your campaigns. We'll sho
+ w examples of real rich media campaigns from top advertisers\, discuss the
+  technologies powering the creative\, and try to dispel all the myths arou
+ nd the limitations of video ads.\n
+DTEND:20101025T180000
+DTSTAMP:20101025T170000
+DTSTART:20101025T170000
+PRIORITY:5
+SUMMARY:Creating Interactive Rich Media Advertising Campaigns with Video
+UID:95f07761-e8f0-4c38-8c31-7f1a5b1cc7ef
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join us to learn how Adobe uses open initiatives to deliver ne
+ w technologies\, jump-start new applications\, gather feedback\, and engag
+ e with a vibrant development community. Open@Adobe is one of Adobe's lates
+ t programs to make the web more open.
+DTEND:20101026T160000
+DTSTAMP:20101026T150000
+DTSTART:20101026T150000
+PRIORITY:5
+SUMMARY:Creating Open@Adobe: Source Made Simple through SourceForge and Ad
+ obe
+UID:5f739dd8-925a-40d7-859b-a059dfe11571
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Design and deliver an interactive brochure for playback in Ado
+ be Flash Player using the robust interactive feature set in Adobe InDesign
+  CS5. By the end of this lab\, you will have created a rich brochure compl
+ ete with interactivity\, animation\, sound\, and FLV video — all within 
+ InDesign CS5. 
+DTEND:20101026T170000
+DTSTAMP:20101026T153000
+DTSTART:20101026T153000
+PRIORITY:5
+SUMMARY:Creating Rich Interactive Documents within InDesign CS5
+UID:e201ea15-53ec-46e1-90ac-6351a33a6b0f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join the expert team responsible for the FlexUnit 4 framework 
+ as we look beyond writing unit tests toward the real issue: writing testab
+ le Flex code. We'll examine the techniques needed to change functional but
+  untestable code into cohesive classes whose functionality can be assured 
+ continually through automated unit testing. If you ever needed to know how
+  to architect testable Flex applications\, this session will prove invalua
+ ble. \n
+DTEND:20101027T120000
+DTSTAMP:20101027T110000
+DTSTART:20101027T110000
+PRIORITY:5
+SUMMARY:Creating Testable Flex Applications
+UID:9cceeac4-a539-4d64-b8d4-452d0406f0e9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how to deploy high-quality video for your enterprise wit
+ h Flash Media Server. Come listen to enterprise teams from other companies
+  discuss how they are streaming video to customers and offering an excepti
+ onal experience for their employees that won't bog down the network. You'l
+ l also get a sneak peak at Adobe's new video management solution.
+DTEND:20101027T163000
+DTSTAMP:20101027T153000
+DTSTART:20101027T153000
+PRIORITY:5
+SUMMARY:Creating Video Solutions for the Enterprise
+UID:4fcdb195-8f84-44a2-b9f3-477238c0b766
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Get up to speed on the latest developments in HTML\, JavaScrip
+ t and CSS. HTML5 has become a powerful way to add interactivity and video 
+ to the web. This lab will start with the basics of what HTML5 is and how i
+ t can be used today as well as how it applies to both designers and develo
+ pers. Learn tips and tricks and best practices from experts while seeing h
+ ow you can use Adobe's tools as part of a design-develop workflow with HTM
+ L5. Discover what can be done with a combination of HTML5 and Flash for a 
+ cutting edge\, expressive web experience.
+DTEND:20101024T170000
+DTSTAMP:20101024T090000
+DTSTART:20101024T090000
+PRIORITY:5
+SUMMARY:Creating Web Applications with HTML5 and CSS3
+UID:cae9886a-4587-4b5a-8347-d67a7bbd4431
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:This program is for designers and developers who want to creat
+ e content to be deployed across screens of all sizes from the desktop to t
+ ablets to mobile devices.  You will learn how to consider differences in s
+ creen sizes and input types when creating content from scratch or updating
+  existing content.  This lab will cover the new features in the following 
+ Creative Suite 5 products: InDesign\, Illustrator\, Photoshop\, Fireworks\
+ , Dreamweaver\, Flash Professional\, and Flash Catalyst. 
+DTEND:20101023T170000
+DTSTAMP:20101023T130000
+DTSTART:20101023T130000
+PRIORITY:5
+SUMMARY:Creative Suite 5 Across Screens
+UID:c1bc7e52-3547-4c2f-957a-e392440dfc42
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nA grids system is essential to a fast website and will make 
+ templates easier to develop and maintain. In this session\, Nicole Sulliva
+ n will explain the popular grids frameworks and show you how to choose the
+  right one for your site. She will talk about BluePrint\, JQuery UI\, 960g
+ s\, and her own project Object Oriented CSS.\n
+DTEND:20101026T143000
+DTSTAMP:20101026T133000
+DTSTART:20101026T133000
+PRIORITY:5
+SUMMARY:CSS Grids Make Your Site Fast
+UID:59bcb7dc-b7ef-4e5e-9ef1-ccf46d3348c9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join us for an informative session on how to use the debugging
+ \, profiling\, and testing tools in Adobe Flash Builder to help build scal
+ able\, high-performance Flex and Adobe AIR applications. In addition to co
+ vering the debugging basics\, we'll detail advanced debugging features\, e
+ xplain memory and performance profiling techniques\, and show you how to p
+ erform unit testing using the built-in support for FlexUnit in Flash Build
+ er.
+DTEND:20101026T173000
+DTSTAMP:20101026T163000
+DTSTART:20101026T163000
+PRIORITY:5
+SUMMARY:Debugging\, Profiling\, and Testing Applications in Flash Builder
+UID:53c47a8b-2038-47cb-a898-c32648bc45ec
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Get a primer on what it takes to design\, develop\, and deploy
+  a web app for mobile devices. Join Paul Dorian and Jorge Taylor as they s
+ hare what they learned from their designer-developer collaboration on a re
+ cent mobile web app project. They'll take you through their workflow\, hig
+ hlighting the unexpected discoveries\, key challenges\, and lessons learne
+ d along the way. If you're a web designer or developer interested in migra
+ ting your skills to the mobile world but you're not quite sure how to get 
+ started\, then this session is for you. 
+DTEND:20101027T090000
+DTSTAMP:20101027T080000
+DTSTART:20101027T080000
+PRIORITY:5
+SUMMARY:Deconstructing the HTML5 Mobile Development Workflow 
+UID:6ad45015-665a-4c6c-ab88-eb95d4cfafcd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Dive deep into the Adobe Flash Player renderer with Lee Thomas
+ on\, Flash Player architect\, and see how to optimize the rendering perfor
+ mance of your applications. Thomason will cover mechanisms like the displa
+ y list\, text rendering\, shaders\, GPU hardware acceleration\, and exclus
+ ive features coming in a future version of Flash Player. After this sessio
+ n\, Flash Player rendering will no longer be a mystery.
+DTEND:20101027T103000
+DTSTAMP:20101027T093000
+DTSTART:20101027T093000
+PRIORITY:5
+SUMMARY:Deep Dive into Flash Player Rendering
+UID:76c7ed0e-b5e3-488b-bed5-6d0f9e03c655
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how the next version of the Flex SDK will enable develop
+ ers to easily create applications for the desktop and mobile devices. This
+  session will show you how you can use the new mobile features in the SDK 
+ together with familiar Flex concepts to build mobile applications. You wil
+ l learn about the new mobile-specific components and capabilities being ad
+ ded to the Flex SDK\, as well as learn tips for optimizing both the design
+  and performance of your application as it works across different devices.
+  
+DTEND:20101027T090000
+DTSTAMP:20101027T080000
+DTSTART:20101027T080000
+PRIORITY:5
+SUMMARY:Deep Dive into Mobile Development with the Flex SDK 
+UID:146a7d22-2173-4724-bcb2-4cbd8782a72a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join us for a hands-on session demonstrating how to use the la
+ test features of Flash Professional CS5\, including Code Snippets\, Adobe 
+ Flash Builder integration\, Spring for Bones\, XFL-based FLA files\, Actio
+ nScript 3.0 support\, deco drawing tools\, new video enhancements and more
+ .
+DTEND:20101025T161500
+DTSTAMP:20101025T144500
+DTSTART:20101025T144500
+PRIORITY:5
+SUMMARY:Deep Dive on Flash Pro CS5
+UID:b66d7384-f154-4898-9a69-27ee428fcf03
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join this hands-on session to learn how to leverage Adobe Devi
+ ce Central CS5 to test content across a variety of mobile and device form 
+ factors. Take a deep dive into its new features for testing Flash applicat
+ ions\, including support for simulating new ActionScript 3.0 APIs such as 
+ geolocation\, accelerometer\, multitouch\, screen orientation\, and more. 
+ Learn valuable tips and techniques for organizing and testing projects tha
+ t can help save time\, improve workflow efficiency\, and help optimize for
+  constraints and performance conditions often found across devices.
+DTEND:20101027T173000
+DTSTAMP:20101027T160000
+DTSTART:20101027T160000
+PRIORITY:5
+SUMMARY:Deep Dive with Device Central  CS5
+UID:dca8bbaf-a681-4ab5-8414-017e817eecaa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Work efficiently in every phase of video production with Adobe
+ 's tightly integrated post-production tools. Explore Creative Suite 4 Prod
+ uction Premium and discover the power of all-digital\, render-free video w
+ orkflows. Learn how to shoot to disk with Adobe OnLocation CS4\, save time
+  in Adobe Premiere Pro CS4 with tapeless workflows and editing enhancement
+ s\, apply new animation and compositing techniques in After Effects CS4\, 
+ and edit audio more intuitively with Soundbooth CS4. Then discover how to 
+ deliver content to film\, video\, web\, mobile\, DVD\, and Blu-ray Disc. R
+ equires working knowledge of After Effects\, Adobe Premiere Pro\, Photosho
+ p\, and Illustrator.
+DTEND:20101024T170000
+DTSTAMP:20101024T090000
+DTSTART:20101024T090000
+PRIORITY:5
+SUMMARY:Deliver Video Anywhere with Creative Suite 5 Production Premium
+UID:d5a69c44-9d47-4fcf-828f-4b6afd634e26
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how Deloitte Consulting has leveraged the Adobe Flash Pl
+ atform and Adobe LiveCycle Enterprise Suite to develop highly repeatable s
+ olutions for citizen engagement management at state and federal government
+  agencies. By attending this session\, you'll find out how Deloitte has en
+ abled improved benefits and services delivery\, illustrated by detailed cu
+ stomer use cases\, lessons learned\, and best practices.  \n
+DTEND:20101027T103000
+DTSTAMP:20101027T093000
+DTSTART:20101027T093000
+PRIORITY:5
+SUMMARY:Delivering Repeatable Solutions with Deloitte Consulting and Adobe
+  Enterprise Solutions
+UID:7494e4ac-57d4-4280-b416-dc40a5ec03d1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn key design\, distribution\, and business decisions that 
+ impact whether you should deliver your content as interactive PDF or SWF (
+ using Adobe InDesign CS5). You'll also be armed with greater knowledge on 
+ which interactive features in InDesign are supported on export to PDF or S
+ WF and learn how to optimize your interactivity for both PDF and SWF expor
+ t or focus your efforts on the more advanced animation and interactivity c
+ apabilities of the SWF format. Don’t miss this informative session that 
+ compares delivery of interactive documents in PDF and SWF file formats. 
+DTEND:20101026T093000
+DTSTAMP:20101026T083000
+DTSTART:20101026T083000
+PRIORITY:5
+SUMMARY:Delivery of Interactive PDF or Interactive SWF?
+UID:992b2449-cc1b-4fb0-b592-1b87417f6a1a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Discover the new features of Creative Suite 5 Design Premium t
+ hat will help you craft print material more quickly. Learn to deliver idea
+ s for web\, interactive\, and mobile by using tools that leverage your des
+ ign skills and leave the coding to your developer. Polish your Illustrator
+  CS5 and Photoshop CS5 skills with practical techniques that will save tim
+ e and enhance your artwork. Explore tips for designing print and digital p
+ age layouts more efficiently in InDesign CS5. Learn how to transform Photo
+ shop and Illustrator artwork into interactive content—without writing co
+ de—using the new Flash Catalyst CS5. Enhance your proficiency with Dream
+ weaver CS5 and Flash Professional CS5. Finally\, take advantage of CS Live
+  online services to streamline critical non-design processes like client r
+ eviews.
+DTEND:20101024T170000
+DTSTAMP:20101024T090000
+DTSTART:20101024T090000
+PRIORITY:5
+SUMMARY:Design for Print\, Web\, and Interactive (without writing code!) u
+ sing Creative Suite 5 Design Premium
+UID:3b7b83d8-d03f-4efa-92a6-1952477e04f1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:In this expert panel session\, we will compare common workflow
+ s and discuss the latest Adobe tool releases\, including CS5 products (spe
+ cifically Flash Catalyst\, Flash Professional\, Photoshop\, Illustrator\, 
+ and Fireworks) and Flash Builder 4 Professional.  The panel includes Garth
+  Braithwaite (interaction designer)\, Leif Wells (ActionScript developer)\
+ , Zach Stepek (server-side developer)\, and Stacey Mulcahy (information ar
+ chitect). The session will be opened up for discussion points from the aud
+ ience\, so feel free to bring along questions.
+DTEND:20101027T103000
+DTSTAMP:20101027T093000
+DTSTART:20101027T093000
+PRIORITY:5
+SUMMARY:Designer-Developer Workflow Panel
+UID:d6f85a67-6855-49aa-8124-42b26d4f9fdf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join Daniel Dura as he helps you design and develop touch-base
+ d interfaces and avoid common pitfalls\, provides case studies of current 
+ projects\, and equips you with the knowledge to make the most of the touch
+  APIs in Adobe AIR and Adobe Flash Player. With the proliferation of touch
+ -based phones\, tablets\, and other devices\, it is more important than ev
+ er to understand how best to use these technologies.
+DTEND:20101026T093000
+DTSTAMP:20101026T083000
+DTSTART:20101026T083000
+PRIORITY:5
+SUMMARY:Designing and Developing for Touch-Based Devices
+UID:6fb63f9b-7526-47cb-9810-6201ad0394e5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Find out how to create the best-looking HD video experiences o
+ n the web or on devices. Discover how easy it is to create custom skins fo
+ r Strobe Media Playback\, Adobe's prebuilt video player (now in beta)\, bu
+ ilt on top of the feature-rich and robust Open Source Media Framework. Usi
+ ng Adobe Photoshop CS5\, Illustrator CS5\, and a little bit of Flash Profe
+ ssional CS5\, you'll step through the creative process to generate custom 
+ player skins and apply them to fit your business.
+DTEND:20101026T143000
+DTSTAMP:20101026T130000
+DTSTART:20101026T130000
+PRIORITY:5
+SUMMARY:Designing Custom Video Players
+UID:17b18aa2-1084-4628-a4f6-ab06bc78ea26
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:See how InDesign CS5\, in combination with new publishing tech
+ nologies\, lets you create and deliver documents on tablet devices. Leave 
+ this session with a good understanding of the workflow and technology requ
+ ired to build interactive documents that combine the beauty of print with 
+ the engagement of rich media to create an all-new reading experience on du
+ al-axis devices. 
+DTEND:20101027T120000
+DTSTAMP:20101027T110000
+DTSTART:20101027T110000
+PRIORITY:5
+SUMMARY:Designing Documents for Tablet Devices using InDesign CS5
+UID:4aa396da-aa1f-4aae-845d-122ce86dba48
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:This program for enterprise developers combines 1.5 days of in
+ troductory preconference training on LiveCycle ES2.5 (Enterprise Suite) wi
+ th a full conference pass to MAX 2010.\n\nThe preconference lab\, "Develop
+ ing a LiveCycle ES2.5 Application\," is an essential introduction to devel
+ oping user-centric applications with Adobe LiveCycle ES2.5. LiveCycle ES2.
+ 5 allows both business and IT professionals to visually assemble end-to-en
+ d processes\, which when combined with rich interfaces\, create engaging a
+ pplications that unify systems and people quickly and flexibly. We'll pres
+ ent an end-to-end use case bringing a rich Internet application (RIA) and 
+ a LiveCycle application together. You will learn about the LiveCycle IDE\,
+  the Admin User Interface\, and the LiveCycle ES2.5 solution components as
+  we guide the participants through the development of this comprehensive u
+ se case.\n\nWe strongly recommend this training to those new to LiveCycle 
+ ES2.5\, or those who would like a refresher\, in order to get the most val
+ ue out of the more advanced LiveCycle topics that will be presented during
+  the MAX event.\n
+DTEND:20101023T170000
+DTSTAMP:20101023T130000
+DTSTART:20101023T130000
+PRIORITY:5
+SUMMARY:Developing a LiveCycle ES2.5 Application
+UID:7e5116be-38bf-4c07-b6ae-1a0fc30ed3f1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn about Adobe AIR support for authoring for television set
+ s\, Blu-Ray players\, set-top-boxes\, and other television devices. Specif
+ ic emphasis will be placed on learning exciting techniques for optimizing 
+ content development for television. We'll offer tips\, tricks\, and previe
+ ws of the technology and the exciting TV devices coming to market with AIR
+ .
+DTEND:20101025T180000
+DTSTAMP:20101025T170000
+DTSTART:20101025T170000
+PRIORITY:5
+SUMMARY:Developing Adobe AIR Applications for Digital Home Devices
+UID:966907be-f2a1-40fc-8945-a20e168ed6c8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how to use the Flex SDK to create world-ready applicatio
+ ns. We'll discuss in detail the functionality provided by Flex and the fla
+ sh.text.engine\, flashx.textLayout\, and flash.globalization packages. Thi
+ s will include discussions of detecting the default for the UI language\, 
+ UI mirroring\, complex script\, vertical writing support\, and language- a
+ nd region-specific formatting of dates\, times\, numbers\, and currencies.
+  We'll also touch on globalization features targeted for the next version 
+ of Flex.\n
+DTEND:20101027T103000
+DTSTAMP:20101027T093000
+DTSTART:20101027T093000
+PRIORITY:5
+SUMMARY:Developing World-Ready Applications 
+UID:9179d407-62fb-4d5f-937e-a3e49e44a153
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn about one company’s migration from Java thick client a
+ pplications to rich Internet applications for powering their government cu
+ stomer's mission-critical workflow. This session will explore migrating co
+ mplex enterprise applications from Java to Flex as well as building and de
+ ploying some of the most high-profile applications in ongoing military ope
+ rations around the world today using Adobe RIA technologies. You'll find o
+ ut how Intelligent Software Solutions has developed and deployed a large e
+ nterprise RIA system to support the ability to measure the success of stab
+ ilization and reconstruction in Iraq and Afghanistan. 
+DTEND:20101027T090000
+DTSTAMP:20101027T080000
+DTSTART:20101027T080000
+PRIORITY:5
+SUMMARY:Development of Mission-Critical Rich Internet Applications in Supp
+ ort of Government Operations
+UID:07c17a34-1a66-49f6-9429-8ed29902aab1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how Flash Catalyst CS5 lets you create and publish fully
+  interactive micro sites\, widgets\, portfolios\, and applications from st
+ atic Photoshop\, Illustrator\, and Fireworks artwork — all without writi
+ ng code. Join Doug Winnie\, principal project manager for Flash Catalyst\,
+  as he gives a rundown of what's new in Flash Catalyst CS5. He'll show you
+  how to leverage your skills with familiar Adobe design tools to create in
+ teractive content and then deliver your projects as SWF files for Adobe Fl
+ ash Player or as Adobe AIR applications that can run across platforms outs
+ ide a browser.
+DTEND:20101025T150000
+DTSTAMP:20101025T140000
+DTSTART:20101025T140000
+PRIORITY:5
+SUMMARY:Discover Flash Catalyst CS5
+UID:8d8576b4-2c84-43e2-82cf-058db0f5461f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join Dreamweaver Product Manager Scott Fegette for a detailed 
+ dive into the new features in Dreamweaver CS5\, undocumented tips and tric
+ ks\, and how they all combine to streamline next-generation web design and
+  development workflows. From multiscreen interfaces to dynamic\, content-m
+ anaged sites and applications\, this session will show you how Dreamweaver
+  CS5 can simplify the most complex challenges facing today's web designers
+  and developers.\n
+DTEND:20101025T163000
+DTSTAMP:20101025T153000
+DTSTART:20101025T153000
+PRIORITY:5
+SUMMARY:Dreamweaver CS5 Deep Dive: Next-Generation Workflows
+UID:fde12119-474c-43cd-a20b-3126054fc098
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join Jason Levine as he explores the tapeless\, native workflo
+ w for DSLR video in Creative Suite 5 Production Premium\, which includes A
+ dobe Premiere Pro\,  Photoshop\, After Effects\, and Soundbooth. HDSLR cam
+ eras are finding their way into video productions at all levels due to the
+ ir exceptional image quality\, low-light capabilities\, and the fact that 
+ you can shoot using standard 35mm DSLR lenses that give your footage the l
+ ook of expensive film-based cameras. 
+DTEND:20101026T093000
+DTSTAMP:20101026T083000
+DTSTART:20101026T083000
+PRIORITY:5
+SUMMARY:Editing video with HDSLR cameras in CS5 Production Premium
+UID:754938f7-c3d6-4d1e-8515-27cd2d40d982
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Change the way you think about live video and social media to 
+ drive your business with the new P2P options available in the Adobe Flash 
+ Platform.   Discover how the new P2P protocols (RTMFP) in Flash Player 10.
+ 1 can open new doors for video in your applications while significantly re
+ ducing your bandwidth costs. This advanced deep-dive session will guide yo
+ u through the development process for integrating RTMFP Groups and Multica
+ st technology. Topics will include ActionScript development techniques wit
+ h Adobe Flash Builder\, protocol (RTMP/RTMFP) connection failover\, video 
+ publishing\, and managing the peers within the group.  
+DTEND:20101026T160000
+DTSTAMP:20101026T150000
+DTSTART:20101026T150000
+PRIORITY:5
+SUMMARY:Enterprise Live Video with Multicast and P2P
+UID:9221a4a1-746c-4832-935e-efbe7bade5d6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Explore essential plug-ins and tools that every developer shou
+ ld add to their Adobe Flash Builder installation. In addition to covering 
+ configuration of the plug-ins\, we'll explore how to use them as part of a
+  workflow for rapid development of Flex and ActionScript applications. By 
+ attending this session\, you'll learn how to save development time and inc
+ rease your productivity.
+DTEND:20101025T180000
+DTSTAMP:20101025T170000
+DTSTART:20101025T170000
+PRIORITY:5
+SUMMARY:Essential Eclipse Plug-ins and Tools for Flash Builder Developers
+UID:75c9444e-bfe1-44f4-b880-e2edb66b1572
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join product experts and others as we work through the process
+  of creating a Plain Old Java Object (POJO) that will be packaged and depl
+ oyed to the Adobe LiveCycle Enterprise Suite service container as a custom
+  component. Once your component has been deployed and activated\, you'll t
+ hen explore several invocation methods (SOAP\, REST\, and Remoting) to cal
+ l your newly available service.\n\n
+DTEND:20101025T183000
+DTSTAMP:20101025T170000
+DTSTART:20101025T170000
+PRIORITY:5
+SUMMARY:Extending LiveCycle ES for Java Developers
+UID:824434eb-32d7-486c-9d75-d003f589fa30
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how to integrate the productivity features in Adobe Flas
+ h Builder into your daily routine. Join Jason San Jose\, a developer on th
+ e Flash Builder team\, for a deep dive into keyboard shortcuts\; code gene
+ ration\; hidden commands\; preferences\; and new ways to write faster\, be
+ tter code.
+DTEND:20101026T093000
+DTSTAMP:20101026T083000
+DTSTART:20101026T083000
+PRIORITY:5
+SUMMARY:Flash Builder Advanced Tips and Techniques
+UID:c33ff821-ce8a-4a80-9fcd-3a047888b957
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how to use projects created in Flash Catalyst CS5 in Ado
+ be Flash Builder 4. This hands-on lab will cover best practices for using 
+ Flash Builder 4 to enhance the application functionality created in Flash 
+ Catalyst by adding custom code\, as well as using the data service feature
+ s in Flash Builder 4 to retrieve and display dynamic data. 
+DTEND:20101026T143000
+DTSTAMP:20101026T130000
+DTSTART:20101026T130000
+PRIORITY:5
+SUMMARY:Flash Catalyst CS5 for Developers
+UID:ecdbcb41-e5de-48a2-a29c-bc8ae1066eed
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:See how the designers and developers at Rain\, a company that 
+ delivers comprehensive solutions for advanced web application development 
+ and interactive media\, incorporate Adobe Flash Catalyst into their protot
+ yping process for building large applications and websites. Learn how they
+  use Flash Catalyst as the bridge between their designers and developers\,
+  letting each group focus on what they do best\, and to help visually sell
+  their applications to their clients' senior management.
+DTEND:20101027T090000
+DTSTAMP:20101027T080000
+DTSTART:20101027T080000
+PRIORITY:5
+SUMMARY:Flash Catalyst CS5 Up Close with Rain\, a Digital Agency
+UID:b23e236d-6a9d-45cf-a40f-eda5488daeee
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how to use Flash Catalyst CS5 to leverage your existing 
+ design skills to create interactive content and application interfaces\, a
+ ll without writing code. This hands-on lab will introduce the concepts and
+  workflow involved in using Flash Catalyst and show you how to use your st
+ atic designs created in Adobe Illustrator and Adobe Photoshop\, along with
+  dynamic media assets such as video\, sound\, and animations\, to create a
+  fully interactive project that's ready to publish as a SWF file for the w
+ eb or as an Adobe AIR application that can run outside the browser across 
+ platforms.
+DTEND:20101025T161500
+DTSTAMP:20101025T144500
+DTSTART:20101025T144500
+PRIORITY:5
+SUMMARY:Flash Catalyst CS5: Hands On for Designers
+UID:27240611-7235-47de-8014-80b28eef8383
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:See what's coming in the next release of Adobe Flash Catalyst\
+ , which is available to MAX 2010 attendees as a beta release. Join Princip
+ al Product Manager Doug Winnie and other members of the Flash Catalyst eng
+ ineering team in this peek into the future of Flash Catalyst and how it ad
+ dresses the designer/developer workflow.
+DTEND:20101025T163000
+DTSTAMP:20101025T153000
+DTSTART:20101025T153000
+PRIORITY:5
+SUMMARY:Flash Catalyst: What's Next?
+UID:dc17fa60-ff1d-48e4-9614-a180a3f6373a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:With the rapid proliferation of Adobe Flash Player 10.1 and Ad
+ obe AIR\, content built on the Flash Platform is now accessible on a varie
+ ty of devices with different screen sizes and different content distributi
+ on mechanisms. In this session\, we'll take a look at offerings from the F
+ lash Platform Services team and Greystripe to address the distribution cha
+ llenges across multiple screens. For each distribution channel\, the team 
+ will provide the relevant monetization story — be it marketplaces\, in-a
+ pp or contextual advertising\, or in-app purchases.
+DTEND:20101027T090000
+DTSTAMP:20101027T080000
+DTSTART:20101027T080000
+PRIORITY:5
+SUMMARY:Flash Platform Content: Distribution and Monetization   
+UID:4e086ec8-0742-45b8-88e1-4f0cd157546a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how you can incorporate Flash Platform Services into you
+ r Adobe AIR applications to enhance\, distribute\, and monetize them. We'l
+ l tell you how to incorporate the services into an application in a step-b
+ y-step approach. You must be familiar with Adobe Flash Builder and the Fle
+ x framework to take full advantage of this lab.
+DTEND:20101026T093000
+DTSTAMP:20101026T080000
+DTSTART:20101026T080000
+PRIORITY:5
+SUMMARY:Flash Platform Services for Flash Builder Developers
+UID:ae6f0b78-8873-44a5-920a-df42a01730ae
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how you can use Adobe Flash Professional to incorporate 
+ Flash Platform Services into your AIR applications to enhance\, distribute
+ \, and monetize them. We'll show you how you can incorporate the services 
+ into an application in a step-by-step approach. You should be familiar wit
+ h Flash Professional and ActionScript 3.0 to take full advantage of this l
+ ab.
+DTEND:20101025T141500
+DTSTAMP:20101025T124500
+DTSTART:20101025T124500
+PRIORITY:5
+SUMMARY:Flash Platform Services for Flash Professional Users
+UID:649fc564-9944-4b19-8a51-71b0114bd55b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join Sebastian Marketsmueller\, Adobe Flash Player engineer\, 
+ for a deep dive into the next-generation 3D API coming in a future version
+  of Flash Player. Marketsmueller will unveil exciting new APIs and demos n
+ ever shown before\, including some exclusive content you cannot miss as a 
+ Flash Platform developer.
+DTEND:20101027T120000
+DTSTAMP:20101027T110000
+DTSTART:20101027T110000
+PRIORITY:5
+SUMMARY:Flash Player 3D Future
+UID:ae6f2190-c17a-4411-9e20-44a135e340b0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how to add SWF-based Rich Media Annotations (RMAs) devel
+ oped in Adobe Flash Professional or Flash Builder to your PDF documents. F
+ lash Player in Acrobat provides greater security and consistency for SWF p
+ layback inside any PDF document. Acrobat 9 provides tight integration betw
+ een the PDF document and the RMAs as well as other content types that run 
+ in Flash Player\, such as FLV and H.264-encoded video. This session will s
+ how you how to use your ActionScript skills in a whole new way. 
+DTEND:20101026T173000
+DTSTAMP:20101026T163000
+DTSTART:20101026T163000
+PRIORITY:5
+SUMMARY:Flash Player in Acrobat: Building Interactive PDF Documents
+UID:9f974f98-c1fc-4faf-8dc2-22a9ca21e4be
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join the excitement as Richard Galvan\, Flash senior product m
+ anager\, showcases possible future features and exploratory technologies f
+ or Flash Professional. You'll see what the future could be with new design
+ er and developer authoring tools and workflows in Flash Professional. Don'
+ t miss this fun\, inspiring session!
+DTEND:20101025T163000
+DTSTAMP:20101025T153000
+DTSTART:20101025T153000
+PRIORITY:5
+SUMMARY:Flash Sneak Peak:  A Glimpse at the Future
+UID:c4b2afaf-a94a-4bd0-b4d2-4d22e2efde6b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Meet Adobe's Lee Brimelow for a session that will aim to clear
+  up the confusion around Flash\, Flex\, and HTML5. Learn which project typ
+ es are best suited to creating with Adobe Flash technology\, which are bes
+ t for Flex\, and where HTML5 falls into the mix.
+DTEND:20101026T093000
+DTSTAMP:20101026T083000
+DTSTART:20101026T083000
+PRIORITY:5
+SUMMARY:Flash\, Flex\, HTML5: Ouch\, My Head Hurts!
+UID:8934775f-bb89-495e-a385-c087df321ae6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Need to get up and running with Flex 4 quickly? We’re taking
+  our 3 day Flex 4 Advanced Course\, and compressing the highlights into a 
+ single intense day. You’ll start with Flex 4 basics like layouts\, state
+ s\, and remote object use\, and quickly advance to topics including animat
+ ing states\, skinning\, extending components\, and model driven developmen
+ t. This will be a very fast moving course\, aimed at getting you up and ru
+ nning and productive with Flex 4 in record time.
+DTEND:20101024T170000
+DTSTAMP:20101024T090000
+DTSTART:20101024T090000
+PRIORITY:5
+SUMMARY:Flex 4 Development Crash Course
+UID:ae64ffad-fc8d-41aa-ae6b-45b3508e056f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Get a hands-on introduction to Flex and Adobe Flash Builder. T
+ ake the Flex Test-Drive to build your first rich Internet application that
+  retrieves and displays data from a database\, using PHP\, Java\, or ColdF
+ usion. Everything you need will be available to download and install befor
+ e you arrive so you are ready to start building the application in Flash B
+ uilder.
+DTEND:20101026T170000
+DTSTAMP:20101026T153000
+DTSTART:20101026T153000
+PRIORITY:5
+SUMMARY:Flex Test-Drive: Building an application in 90 minutes
+UID:a9dfc7bd-592c-4e5b-a721-8ed66ed260f2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how to turn a static design into a rich and interactive 
+ user experience using Adobe Flash Catalyst and Flash Builder. In this lab\
+ , we'll explore workflows to take you from the design all the way through 
+ to the development and deployment of a rich Internet application. In addit
+ ion\, you'll learn techniques that will enable you to create highly intera
+ ctive custom components that can be reused across multiple applications.
+DTEND:20101025T183000
+DTSTAMP:20101025T170000
+DTSTART:20101025T170000
+PRIORITY:5
+SUMMARY:From Design to Development: Creating RIAs with Flash Catalyst and 
+ Flash Builder
+UID:184363e5-4bac-49cd-a8da-076ea4fa9f33
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join artist and interactive designer\, Erik Natzke\, for a sho
+ wcase of his creative work. He'll share insights on how he fuses creativit
+ y and technology while working with Adobe Flash Professional and other too
+ ls.\n
+DTEND:20101026T160000
+DTSTAMP:20101026T150000
+DTSTART:20101026T150000
+PRIORITY:5
+SUMMARY:Fusing Art and Technology with Flash Professional CS5
+UID:2d1be1ae-158b-4924-9997-7eeb7c1304ae
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hear top design professionals explain how to unlock new value 
+ hidden in complex enterprise systems through the expression of user-centri
+ c goals in design patterns. You'll learn how Adobe is converging solutions
+ \, platforms\, and tools to help you better serve your customers or consti
+ tuents by delivering great experiences. This session equips you with busin
+ ess cases as examples of current cultural shifts\, as we share our user ex
+ perience vision\, some technology sneak peeks\, and a vision for the futur
+ e of enterprise applications.
+DTEND:20101026T093000
+DTSTAMP:20101026T080000
+DTSTART:20101026T080000
+PRIORITY:5
+SUMMARY:FutuRIA: The Convergence of Rich Internet and Enterprise Applicati
+ ons
+UID:e44913ea-57da-4eae-921e-61952a524d1c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn about techniques used in multiscreen and multiplayer gam
+ e development and how best to use the resources available on mobile device
+ s\, including multitouch and accelerometers. Be sure to bring your Flash e
+ nabled device\, and your competitive edge\, to participate!
+DTEND:20101027T123000
+DTSTAMP:20101027T110000
+DTSTART:20101027T110000
+PRIORITY:5
+SUMMARY:Game On! Multiscreen\, Multiplayer Game Development
+UID:d0884ed9-43fc-4c5b-a48e-b7da75989a74
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn the tools of the trade for creating great games for the 
+ Adobe Flash Platform\, including enhancing the fun factor\, optimizing per
+ formance\, and deploying across devices. John Say and his team at Say Desi
+ gn have enjoyed the excitement and rewards of building a wide variety of g
+ ames over the last ten years using the Flash Platform. From the web to mob
+ ile to kiosks\, they have delivered games on almost every device enabled f
+ or the Flash Platform. Catch up on their latest tips and tricks for Flash 
+ Player on mobile.
+DTEND:20101027T143000
+DTSTAMP:20101027T133000
+DTSTART:20101027T133000
+PRIORITY:5
+SUMMARY:Game Theory and Design for the Flash Platform
+UID:8f25d454-73ae-470e-b822-5f549671a1eb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:General Session 
+DTEND:20101025T113000
+DTSTAMP:20101025T093000
+DTSTART:20101025T093000
+PRIORITY:5
+SUMMARY:General Session
+UID:4cc11a50-023d-49f1-ba2d-cb6ba83d7ca8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speed up cross-browser testing to make sure your web designs l
+ ook as you intended for the widest possible audience. Learn how to preview
+  dynamic web pages and local content with multiple viewing\, diagnostic\, 
+ and comparison tools in BrowserLab\, an Adobe CS Live online service.
+DTEND:20101026T143000
+DTSTAMP:20101026T130000
+DTSTART:20101026T130000
+PRIORITY:5
+SUMMARY:Get hands on Adobe BrowserLab to check your websites for cross-bro
+ wser compatibility
+UID:a3cff593-b798-4b09-8735-229354f40a8d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how to streamline creative reviews from directly within 
+ Adobe Creative Suite 5 with CS Review\, an Adobe CS Live online service. L
+ earn how to initiate shared reviews from within Photoshop CS5 Extended\, I
+ llustrator CS5\, and InDesign CS5\; invite colleagues and clients to comme
+ nt using easy-to-use annotation tools\; and view comments directly in the 
+ context of the design.
+DTEND:20101025T141500
+DTSTAMP:20101025T124500
+DTSTART:20101025T124500
+PRIORITY:5
+SUMMARY:Get Hands-on with Adobe CS Review to Share and Gather Feedback on 
+ Your Creative Projects
+UID:c39f52bf-a1a4-411e-ba52-d53031f4dd7e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how to integrate payments into your content created in A
+ dobe Flash or AIR\, and see what else Adobe is doing to help you maximize 
+ revenue. The session starts with an overview of capabilities and continues
+  with a detailed walk-through of the signup\, integration\, and publishing
+  process for various payment business models. We will also review a case s
+ tudy and discuss our upcoming plans. Familiarity with ActionScript will be
+  helpful in this session\, but not required.
+DTEND:20101027T163000
+DTSTAMP:20101027T153000
+DTSTART:20101027T153000
+PRIORITY:5
+SUMMARY:Getting Paid: Leveraging Payments to Monetize Your Content in Flas
+ h or AIR
+UID:41d30329-5c05-4a99-add6-b583549d6318
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn the fundamentals of ActionScript 3.0 and increase the re
+ ach of your applications. This session will review core programming concep
+ ts and enable you to create many practical examples. You'll learn the basi
+ cs of ActionScript 3.0\, including event handling and classes. After the s
+ ession\, you'll have a foundation to start creating applications that can 
+ be deployed through Flash Player\, Adobe AIR\, AIR for Android\, and many 
+ other devices.
+DTEND:20101027T123000
+DTSTAMP:20101027T110000
+DTSTART:20101027T110000
+PRIORITY:5
+SUMMARY:Getting Started with ActionScript 3.0
+UID:24ad7d40-d1c8-4fc7-8586-af25a6533262
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn about one of the most compelling new features in Adobe C
+ oldFusion 9 from two seasoned ColdFusion veterans. This release includes t
+ he integration of Hibernate\, an enterprise-class\, Java based ORM. Join u
+ s to hear how to get started using ColdFusion 9 ORM features in your next 
+ project. Through interactive learning and hands-on labs\, we'll start with
+  the basics and work together to add features to an application that takes
+  advantage of the ORM. Then we'll discuss best practices and potential pit
+ falls\, making this an ideal combination of introductory material and tips
+  and tricks. \n
+DTEND:20101024T170000
+DTSTAMP:20101024T090000
+DTSTART:20101024T090000
+PRIORITY:5
+SUMMARY:Getting Started with ColdFusion 9 Object Relational Mapping (ORM)
+UID:4e113b7d-d99e-415e-9bcb-9cea70d73980
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how you can get users to install your applications — i
+ t's not enough to just create great applications. In this session\, we'll 
+ explore the different options available through Adobe Flash Platform Servi
+ ces to promote your applications\, and walk you through all the steps requ
+ ired to use the services.
+DTEND:20101026T173000
+DTSTAMP:20101026T163000
+DTSTART:20101026T163000
+PRIORITY:5
+SUMMARY:Getting Users to Install Your Facebook\, Mobile\, and AIR Applicat
+ ions
+UID:2c587674-1ce3-4f76-ad1c-d303c9172e29
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:As a member of the Open Screen Project\, Google has been a key
+  partner of the Adobe Flash Platform\, bringing both Flash Player 10.1 and
+  Adobe AIR to Android and Chrome based smartphones\, tablets\, netbooks\, 
+ and finally\, with Google TV\, even to digital TVs. In this session\, we'l
+ l discuss details of the Adobe and Google partnership as it relates to too
+ ling workflow\, support for HTML5\, monetization opportunities\, and even 
+ developing applications for the enterprise.    
+DTEND:20101027T180000
+DTSTAMP:20101027T170000
+DTSTART:20101027T170000
+PRIORITY:5
+SUMMARY:Going beyond Screens: Flash Platform and Google 
+UID:7859252e-4ad4-43bc-b03b-913cafb193e0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how to create amazing H.264 video that performs well on 
+ large and small screens from one of the industry masters of encoding for H
+ .264 video. The session will begin by discussing the fundamentals of encod
+ ing H.264 for Flash and cover encoding profiles\, buffering techniques\, h
+ ardware acceleration\, and optimizing H.264 for mobile screens. The sessio
+ n will review Adobe's recommendations for video encoding for HTTP Dynamic 
+ Streaming and how you can make your video look great.\n
+DTEND:20101027T090000
+DTSTAMP:20101027T080000
+DTSTART:20101027T080000
+PRIORITY:5
+SUMMARY:H.264 Encoding Strategies for All Screens
+UID:34fe30c1-c72c-4677-aed1-d6b6b77f91a2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Use the cinematic power of After Effects to enhance the intera
+ ctive experiences you build with Adobe Flash Professional. Learn how to em
+ bed cue points in your animations to drive interactivity in Flash\, and pi
+ ck up tips and tricks for a smoother workflow between these two powerhouse
+  apps.
+DTEND:20101025T141500
+DTSTAMP:20101025T124500
+DTSTART:20101025T124500
+PRIORITY:5
+SUMMARY:Hands-on After Effects to Flash workflows 
+UID:dca1b06d-053c-4dbc-bd9b-483a4b371289
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Get started using After Effects with this hands-on session. Le
+ arn the basics of setting up projects\, importing Adobe Photoshop files\, 
+ keyframing to create animations\, and rendering the results.
+DTEND:20101025T161500
+DTSTAMP:20101025T144500
+DTSTART:20101025T144500
+PRIORITY:5
+SUMMARY:Hands-on Introduction to After Effects
+UID:5dac0143-605b-4d48-aec1-b2d14f427921
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Build your compositing toolkit. Learn best practices for creat
+ ing good greenscreen composites and creating masks and mattes with After E
+ ffects CS5. Using Keylight\, you can composite complex scenes with both fo
+ reground and background elements. Plus\, get tips on how to work with prob
+ lem footage and how to extract a clean roto-matte using the new Roto Brush
+  tool.
+DTEND:20101025T183000
+DTSTAMP:20101025T170000
+DTSTART:20101025T170000
+PRIORITY:5
+SUMMARY:Hands-on Keying and Rotoscoping with After Effects CS5
+UID:c92e3b83-0adb-43bf-8bdc-def1feecce41
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hear about one of the most significant additions to Adobe Cold
+ Fusion — the new object-relational mapping (ORM) framework built into Co
+ ldFusion 9. Powered by the industry-leading Hibernate framework\, ColdFusi
+ on 9 takes rapid application development to the next level. In this sessio
+ n\, you'll learn the basics of ColdFusion ORM so you can build application
+ s without having to write a single line of SQL. 
+DTEND:20101025T183000
+DTSTAMP:20101025T170000
+DTSTART:20101025T170000
+PRIORITY:5
+SUMMARY:Hands-on ORM with ColdFusion 9
+UID:27e8421a-d3fa-4555-afe8-f324eb7c2e94
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Build your knowledge of the processes and tools needed to desi
+ gn an effective user experience. Learn best practices of user experience d
+ esign and how to use Adobe Flash Catalyst CS5\, along with Adobe Illustrat
+ or CS5\, Photoshop CS5\, Fireworks CS5\, and InDesign CS5\, to create a fi
+ nished application. This lab will build on the topics covered in the "Usin
+ g Flash Catalyst CS5 to Design Rich User Experiences" session\, but that s
+ ession is not a prerequisite.
+DTEND:20101026T170000
+DTSTAMP:20101026T153000
+DTSTART:20101026T153000
+PRIORITY:5
+SUMMARY:Hands-on: Using Flash Catalyst CS5 to Design Rich User Experiences
+UID:e1dd0a3f-b25f-44fc-8175-5aa391cc1e7f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how to stream video and audio over HTTP networks with HT
+ TP Dynamic Streaming and Adobe Flash Player 10.1\, helping you lower costs
+  and reach a wider audience with your video content. This session will ste
+ p you through the  workflows for encoding\, packaging\, protecting\, and d
+ elivering video using the Open Source Media Framework. Discover techniques
+  to optimize the F4F file format\, tweak the F4F file packager and live pa
+ ckager\, and apply DRM with Adobe Flash Access 2. Learn how to set up your
+  own HTTP Origin using Apache to work with popular content delivery networ
+ ks.   
+DTEND:20101027T103000
+DTSTAMP:20101027T093000
+DTSTART:20101027T093000
+PRIORITY:5
+SUMMARY:HD Streaming with HTTP Dynamic Streaming
+UID:921740d7-2f35-4c69-83fc-0ea06bdc9397
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn the best creation and encoding techniques for HD video a
+ nd audio distribution for the web using the tools found in Adobe Creative 
+ Suite 5 Production Premium. 
+DTEND:20101025T180000
+DTSTAMP:20101025T170000
+DTSTART:20101025T170000
+PRIORITY:5
+SUMMARY:HD Video Production for the Web
+UID:50e4bfea-8dbf-4257-b379-fdc17f43cfaf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join Photoshop Product Manager Bryan O'Neil Hughes for a deep 
+ dive into the hidden gems of Adobe Photoshop CS5 and Photoshop CS5 Extende
+ d\, including tips\, tricks\, and technologies that are sure to help you s
+ peed up your productivity. Discover how to go places creatively that were 
+ impossible in Photoshop before CS5. He'll reveal many new techniques and e
+ nhancements so your skills can be as sharp as possible.
+DTEND:20101026T173000
+DTSTAMP:20101026T163000
+DTSTART:20101026T163000
+PRIORITY:5
+SUMMARY:Hidden Gems and Technologies in Photoshop CS5 and Photoshop CS5 Ex
+ tended
+UID:5139458e-2f3a-4650-8f41-1fe2275f9f1e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hear from Adobe insiders and learn about the hidden gems and c
+ ommunity resources that can help you build\, share\, and leverage the Live
+ Cycle Enterprise Suite developer ecosystem. This session will review the A
+ dobe Developer Connection program\, the latest Adobe forums\, and the deve
+ loper website and include demonstrations of tools including Enterprise Caf
+ e\, Tour de LiveCycle\, and Developer Express.
+DTEND:20101026T160000
+DTSTAMP:20101026T150000
+DTSTART:20101026T150000
+PRIORITY:5
+SUMMARY:Hidden Gems for the LiveCycle Community
+UID:a2b19531-da04-4db7-b61c-a1b1e2dff769
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how to build a full Flex application with a Spring back 
+ end in minutes using Spring Roo. See firsthand how the intelligent roundtr
+ ipping code-generation facilities in Spring Roo are a leap beyond existing
+  RAD tools. Experience how its code-first\, developer-centric approach all
+ ows developers to do what they do best\, while not having to worry about t
+ he tedium of the typical boilerplate that is common in today's enterprise 
+ applications.
+DTEND:20101025T183000
+DTSTAMP:20101025T170000
+DTSTART:20101025T170000
+PRIORITY:5
+SUMMARY:High-Productivity Java and Flex Development with the Flex Add-on f
+ or Spring Roo
+UID:35dd8b95-82be-40fb-84d3-ef8795e0b16d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn insider techniques for Illustrator CS5 from the source 
+ — David Macy\, the Illustrator product manager. Learn how to take advant
+ age of the new features in Illustrator CS5\, and get the skinny on techniq
+ ues you should be using right now but never had the time to learn on your 
+ own. Whether you design for print\, web\, interactive\, or video\, you'll 
+ leave this session with practical and effective techniques you can use eve
+ ry day.
+DTEND:20101027T143000
+DTSTAMP:20101027T133000
+DTSTART:20101027T133000
+PRIORITY:5
+SUMMARY:Hot Tips and Cool Tools in Illustrator CS5
+UID:60dbcc87-cca5-4a7f-93d5-70f074fa2257
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hear about how Full Sail University is teaching students how t
+ o author an application in Adobe Flash Professional that accesses the Flic
+ kr API and uses the Adobe AIR runtime for desktop deployment. This session
+  will provide an in-depth look into the process\, from concept to deployme
+ nt\, of how the students create a project within the four-day time allotme
+ nt. Usability patterns and design techniques will be discussed\, as well a
+ s coding and deployment strategies. Student examples will be shared.
+DTEND:20101025T180000
+DTSTAMP:20101025T170000
+DTSTART:20101025T170000
+PRIORITY:5
+SUMMARY:How Full Sail University is Teaching Students to Author Applicatio
+ ns in Flash
+UID:d5e3fe6a-c68d-4aca-bad2-6804ca4353ee
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join us to hear a panel of four super-talented Threadless arti
+ sts explain their creative process and how they learned to love the bomb (
+ dropping their work on the world and waiting for the reaction\, aka the ex
+ plosion). Threadless founder Jake Nickell leads the discussion\, which del
+ ves into the nerve-racking trials and awesome thrills of being a young gra
+ phic designer in today's market. Visual examples of each artist's work wil
+ l be shown. Panelists include Ross Zietz\, Julia Sonmi Heglund\, Aled Lewi
+ s\, and Enkel Dika.
+DTEND:20101026T173000
+DTSTAMP:20101026T163000
+DTSTART:20101026T163000
+PRIORITY:5
+SUMMARY:How I Learned to Stop Worrying and Love the Bomb (with Threadless)
+UID:b9f686e4-56bb-49d3-bcca-e85c6f0f82ce
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:In this 90-minute hands-on session\, we'll teach you how to bu
+ ild your first Business Catalyst website complete with e-commerce\, email 
+ campaigns\, Contact Us forms\, and Dreamweaver website design enhancements
+ . You'll see how quickly you can build powerful business websites using th
+ e HTML and CSS skills you already have\, with no back-end programming requ
+ ired.
+DTEND:20101025T183000
+DTSTAMP:20101025T170000
+DTSTART:20101025T170000
+PRIORITY:5
+SUMMARY:How to Build Business Websites Faster with Business Catalyst and D
+ reamweaver
+UID:3986f082-0031-44ce-8211-a9480e67a6b2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Come to this session to learn how to design\, develop\, and de
+ ploy an Adobe AIR game on the Android platform. This session will provide 
+ step-by-step instructions to develop games for Android using Adobe Flash B
+ uilder. Sample code will be available to participants after the session. 
+DTEND:20101026T093000
+DTSTAMP:20101026T083000
+DTSTART:20101026T083000
+PRIORITY:5
+SUMMARY:How to Build Great Mobile Games using AIR for Android 
+UID:a13b0a98-0fbf-4087-8dbb-2ffdf299cee2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how to build engaging applications for the digital home 
+ using Adobe AIR. Special focus will be made on design considerations for b
+ uilding applications for the television.
+DTEND:20101026T093000
+DTSTAMP:20101026T080000
+DTSTART:20101026T080000
+PRIORITY:5
+SUMMARY:How to Build Your First AIR Application for a Digital Home Device
+UID:5baf93f1-84c2-46da-903f-a734b4727ac4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join James Williamson of lynda.com to learn how to use Adobe D
+ reamweaver CS5 to create stunning\, standards-compliant sites. Course cont
+ ent will focus on CSS capabilities\, integration with other Adobe applicat
+ ions\, and many of the powerful new features found in Dreamweaver CS5. Thi
+ s hands-on lab will demonstrate workflow efficiencies to help improve your
+  web designs. 
+DTEND:20101025T183000
+DTSTAMP:20101025T170000
+DTSTART:20101025T170000
+PRIORITY:5
+SUMMARY:How to Get Started in Dreamweaver CS5
+UID:d2d1fe9f-013d-428d-9250-049321f057be
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:See what's new with 3D in Adobe Photoshop CS5 Extended. Learn 
+ techniques for using features such as new Adobe Repoussé technology\, enh
+ anced 3D realism\, rich library of materials\, painting in 3D\, and so muc
+ h more. You'll leave this session with a great understanding of the new 3D
+  features in Photoshop CS5 Extended. After this session\, newcomers to 3D 
+ in Photoshop will be well on their way to being able to quickly and easily
+  add 3D to their repertoire\, and experts will pick up must-have technique
+ s for speeding up their workflow and making amazing designs.
+DTEND:20101026T160000
+DTSTAMP:20101026T150000
+DTSTART:20101026T150000
+PRIORITY:5
+SUMMARY:How to Work Creatively and Quickly with 3D in Photoshop CS5 Extend
+ ed
+UID:55804ee5-9cbd-4b4a-a7b7-f53fa1e068ce
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The cooks are still in the kitchen\, but the enticing smells o
+ f HTML5 \nare filling the room. Learn about the tasty semantic \nprogressi
+ on from XHTML to HTML5 that's sure to have markup \nconnoisseurs salivatin
+ g. In this session\, we'll serve up a \nfilling buffet of savory structura
+ l elements\, flavorful form markup\, \nand succulent ways of presenting au
+ dio and video with a focus on \nsatisfying your cravings for tomorrow's te
+ chnologies through practical \nimplementations today. Bon appétit!\n
+DTEND:20101025T150000
+DTSTAMP:20101025T140000
+DTSTART:20101025T140000
+PRIORITY:5
+SUMMARY:HTML5: Half-baked\, Baked\, or Ready for the Table?
+UID:2740e6d5-368a-4c30-9728-e325e403b4f6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:So\, you've been using Acrobat (or attended the associated Get
+ ting Started lab) – this session takes Acrobat to the next level. We'll 
+ introduce you to lesser-known capabilities and how to go beyond the user i
+ nterface to learn the secrets of Acrobat. You'll leave with samples\, temp
+ lates\, and a few "goodies."
+DTEND:20101026T143000
+DTSTAMP:20101026T130000
+DTSTART:20101026T130000
+PRIORITY:5
+SUMMARY:I Didn’t Know Acrobat Could do That! (Experience with Acrobat)
+UID:ea7e5386-3105-4f15-b662-9f94b0f9f52a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Roll up your sleeves and join us for a fun\, interactive sessi
+ on about Acrobat. We'll take you on a whirlwind tour of functionality guar
+ anteed to open your mind to new ways to work with PDF and SWF or FLV toget
+ her. You'll leave with samples and templates and a better understanding of
+  the potential of Acrobat.
+DTEND:20101025T161500
+DTSTAMP:20101025T144500
+DTSTART:20101025T144500
+PRIORITY:5
+SUMMARY:I Didn’t Know Acrobat Could Do That! (Getting Started)
+UID:3160b2c2-37bb-4b96-b3c1-0945d1e64e93
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn tips and tricks for processing imported graphics from Ad
+ obe Illustrator  into Adobe Photoshop and how each application can enhance
+  the final product. Learn about Smart Objects\, layer blending\, and more.
+  When these two applications work together there is virtually no illustrat
+ ion task they cannot accomplish.
+DTEND:20101026T093000
+DTSTAMP:20101026T080000
+DTSTART:20101026T080000
+PRIORITY:5
+SUMMARY:Illustrator Creative Brushwork and Photoshop Art Technique
+UID:440679e5-2297-4bfa-9211-20d40eba3daf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Find out how Northwestern Mutual improved customer service in 
+ its Service Request Center by leveraging Adobe LiveCycle Enterprise Suite 
+ and other integrated technologies. By intelligently providing access only 
+ to those forms applicable to a specific contract\, the financial services 
+ company enables representatives to easily find and complete required forms
+  to perform contract changes. The firm will explain how the Service Reques
+ t Center has helped reduce the not in good order (NIGO) rates on service r
+ equests\, increased productivity\, and improved business process efficienc
+ ies.
+DTEND:20101026T093000
+DTSTAMP:20101026T083000
+DTSTART:20101026T083000
+PRIORITY:5
+SUMMARY:Improving the User Experience: Contract Servicing Improvements at 
+ Northwestern Mutual
+UID:da8741ea-9568-43f0-93cb-ae84cb928437
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Get hands-on experience with a variety of new productivity and
+  production features in Adobe InDesign CS5 that make it faster and easier 
+ to create\, produce\, and deliver a document for print or PDF. This sessio
+ n is appropriate for novice or intermediate InDesign users.
+DTEND:20101026T143000
+DTSTAMP:20101026T130000
+DTSTART:20101026T130000
+PRIORITY:5
+SUMMARY:InDesign CS5 in Depth
+UID:5a940046-91c1-44c2-9c6f-9a2e3048d358
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how to get more done in less time by keeping your hands 
+ on the keyboard as much as possible. This always-popular session will teac
+ h you shortcuts in Adobe InDesign that you can build into your workflow to
+  immediately improve your productivity. Topics will include the top 20 sho
+ rtcuts every InDesign user must learn\; shortcuts for working with Styles 
+ and text formatting\; interface and navigation tips\; document\, panel\, a
+ nd workspace management\; and mastering the Control panel.\n
+DTEND:20101026T143000
+DTSTAMP:20101026T133000
+DTSTART:20101026T133000
+PRIORITY:5
+SUMMARY:InDesign CS5 Power Shortcuts
+UID:5d97ba56-fab3-4b29-991c-38b5d58c43c7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Take the new tool for ColdFusion application development\, Ado
+ be ColdFusion Builder\, for a spin. Bring your laptop to this hands-on ses
+ sion and install the new tool for rapid application development with ColdF
+ usion. If you are new to the Eclipse platform\, this session will help you
+  develop\, debug\, and deploy your first application with ColdFusion Build
+ er.
+DTEND:20101026T143000
+DTSTAMP:20101026T130000
+DTSTART:20101026T130000
+PRIORITY:5
+SUMMARY:Installing\, Developing\, and Debugging Your First Application wit
+ h ColdFusion Builder
+UID:adbf6c87-de70-487d-a4e0-bfca4134ee03
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how to build applications for the Adobe Flash Platform t
+ hat can be adapted to specific countries or regions in order to reach user
+ s effectively. We'll explore how to anticipate and deal with typical issue
+ s you may encounter when trying to internationalize content for various co
+ ntexts — web\, desktop\, or mobile — native or not\, using the Flex fr
+ amework or not. Discover the standards\, tools\, and workflows you can use
+  today to help you boost your productivity during the globalization proces
+ s.
+DTEND:20101027T163000
+DTSTAMP:20101027T153000
+DTSTART:20101027T153000
+PRIORITY:5
+SUMMARY:Internationalization Techniques for the Flash Platform
+UID:94e51d78-d02f-490b-a57f-f06461d94a9a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how to take advantage of the built-in hooks between Flex
+  and Adobe LiveCycle ES\, building a web-based\, data-driven application. 
+ You'll create complex data models using the latest modeling elements and e
+ xchange data between Flex and LiveCycle via built-in LiveCycle endpoints. 
+ By using both Adobe LiveCycle Workbench and Flash Builder\, you'll hone yo
+ ur skills and learn best practices that span both technologies.\n\n\n
+DTEND:20101027T100000
+DTSTAMP:20101027T083000
+DTSTART:20101027T083000
+PRIORITY:5
+SUMMARY:Introducing Flex and LiveCycle Integration
+UID:fd13fd66-114d-46c1-8e04-5c864b6b5d3c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn about the client-side architecture of the Adobe LiveCycl
+ e Collaboration Service development model\, which enables peer-to-peer\, c
+ ollaborative apps with Flex and Adobe AIR. See how to structure your Flex 
+ apps to enable synchronized\, multiuser participation\, complete with rich
+  audio/video communication\, and more. You'll come away with a solid\, pra
+ ctical understanding of collaboration best practices and the broad range o
+ f tools in the service. By the end of this session\, expect to have your o
+ wn fully working application integrating with the LiveCycle Collaboration 
+ Service cloud.\n\n
+DTEND:20101025T161500
+DTSTAMP:20101025T144500
+DTSTART:20101025T144500
+PRIORITY:5
+SUMMARY:Introducing LiveCycle Collaboration Service for Flex
+UID:4b342071-66e4-4b37-a3f4-fa6dbdc1ae17
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how to quickly build an entire Google Android applicatio
+ n from scratch using Adobe AIR. This session will provide a high-level ove
+ rview of how to integrate with several device APIs\, including the acceler
+ ometer for games and geolocation for location-based services. We'll also d
+ escribe how to package and sell your application on the Google Apps Market
+ place. 
+DTEND:20101026T173000
+DTSTAMP:20101026T163000
+DTSTART:20101026T163000
+PRIORITY:5
+SUMMARY:Introduction to Adobe AIR for Android 
+UID:b29a9da7-d1d8-451f-9a55-82e2d0a25b9c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join us for a sneak peek at how Adobe AIR will soon power a wh
+ ole new class of devices in the digital home\, helping Adobe Flash Platfor
+ m developers build experiences for an entirely new market of consumers. Th
+ is session will provide an exclusive first look\, with product demos of AI
+ R running in the digital home. 
+DTEND:20101025T163000
+DTSTAMP:20101025T153000
+DTSTART:20101025T153000
+PRIORITY:5
+SUMMARY:Introduction to Adobe AIR for Digital Home Devices
+UID:186a851a-ebb5-4e69-9aa4-3e3c63517caa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how to use BlazeDS and the latest version of Adobe LiveC
+ ycle Data Services to build more powerful\, scalable\, and innovative data
+ -driven applications while writing (a lot) less code. This session covers 
+ remoting\, high-performance and reliable real-time messaging\, automatic o
+ ffline data synchronization\, and the new model-driven development feature
+  of LiveCycle Data Services.
+DTEND:20101027T090000
+DTSTAMP:20101027T080000
+DTSTART:20101027T080000
+PRIORITY:5
+SUMMARY:Introduction to BlazeDS and LiveCycle Data Services
+UID:d86b6b10-d86e-4e34-a4a8-4c3d645c6da3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn the fundamentals of Adobe Flash Professional for web and
+  interactive design\, plus the basics of mobile content creation. This lab
+  session will teach about different file types\, project setup\, drawing\,
+  video\, sound\, animation\, interactivity\, ActionScript\, and how to pub
+ lish your experience to various target platforms like the web and mobile d
+ evices.  
+DTEND:20101026T093000
+DTSTAMP:20101026T080000
+DTSTART:20101026T080000
+PRIORITY:5
+SUMMARY:Introduction to Flash Professional
+UID:f2fa9c8a-a1c0-4532-ba57-ca8760a80f1f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how to paint with vectors that resemble natural-media br
+ ush strokes\, controlling bristle characteristics and paint opacity. Join 
+ artist Greg Geisler\, one of the creators of the Adobe Illustrator how-to 
+ guides on Adobe.com (http://www.adobe.com/products/illustrator/howto/)\, a
+ s he walks through his process for creating visually rich artwork with the
+  new and existing brushes in Illustrator and talks about why he uses Illus
+ trator instead of Photoshop for painting.
+DTEND:20101025T150000
+DTSTAMP:20101025T140000
+DTSTART:20101025T140000
+PRIORITY:5
+SUMMARY:Introduction to Painting with Illustrator CS5
+UID:011cb6de-4d1a-4639-99ce-5bc89f27318d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how to draw shapes and scenes in accurate 1-\, 2-\, or 3
+ -point linear perspective to create the look of realistic depth and distan
+ ce with the new Perspective drawing tools in Adobe Illustrator CS5. See ho
+ w the new Perspective Grid tool supports drawing directly on planes of tru
+ e perspective and the Perspective Selection tool allows objects to be move
+ d\, scaled\, duplicated\, and transformed dynamically in perspective. \n
+DTEND:20101026T143000
+DTSTAMP:20101026T133000
+DTSTART:20101026T133000
+PRIORITY:5
+SUMMARY:Introduction to Perspective Drawing in Illustrator CS5
+UID:50c41f9e-89be-4ada-b701-dd8365817e92
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join the team at JibJab Media for a fast-paced session highlig
+ hting their workflows using Adobe tools. A web-based content company\, Jib
+ Jab Media has broken new creative ground with hilarious satirical animatio
+ ns. The team has also pioneered "Starring You" productions\, which combine
+  free and paid content models in novel — and successful — ways. Hear h
+ ow they combine tools from Adobe Creative Suite — including Flash Profes
+ sional\, After Effects\, and Photoshop — with the Flex framework and Fla
+ sh Builder to build robust applications that are available on a wide varie
+ ty of devices.
+DTEND:20101026T143000
+DTSTAMP:20101026T133000
+DTSTART:20101026T133000
+PRIORITY:5
+SUMMARY:JibJab Case Study: Using Adobe Tools to Create and Monetize Online
+  Content
+UID:a8dc0ada-698f-4004-8cd3-99cb2782d7a2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Get tips and tricks for working within and among the various t
+ ools in Creative Suite 5 Master Collection. Join Tom Green\, professor and
+  author\, as he gives his recommendations for choosing the right tool for 
+ the job and simplifying your processes. We'll also explore the FXG and XFL
+  formats and how they fit into the design workflow.
+DTEND:20101026T093000
+DTSTAMP:20101026T083000
+DTSTART:20101026T083000
+PRIORITY:5
+SUMMARY:Learning Integration Tips among Tools in CS5 Master Collection
+UID:9cbd8c90-f759-412f-84b2-9197e71dd6b3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Find out how to leverage Adobe ColdFusion Builder extensions t
+ o do insanely rapid application development. In this session\, you'll see 
+ the incredible extensibility and functionality of ColdFusion Builder exten
+ sions and gain an understanding of how they are used and how they can exte
+ nd the IDE with just CFML. The demo will focus on building a full applicat
+ ion using ColdFusion Builder\, the ColdBox Platform extension\, and the Co
+ ldBox Platform.
+DTEND:20101027T090000
+DTSTAMP:20101027T080000
+DTSTART:20101027T080000
+PRIORITY:5
+SUMMARY:Leveraging ColdFusion Builder for IRA Development
+UID:f6a01d1a-b6a1-4027-bef9-863d51240347
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join Marcel Boucher to learn how to use Adobe's LiveCycle Deve
+ loper Express controller to launch your very own instance of LiveCycle Dat
+ a Services. You'll then use Flash Builder 4 and explore how this hosted se
+ rver can be leveraged to start building enterprise-class applications. Fin
+ ally\, learn how you can register your own services and access them from y
+ our applications.
+DTEND:20101027T150000
+DTSTAMP:20101027T133000
+DTSTART:20101027T133000
+PRIORITY:5
+SUMMARY:LiveCycle Data Services in the Cloud
+UID:71b83a98-6165-42dd-980a-11d1e1921a58
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hear leading creative directors from big brand magazines discu
+ ss opportunities and challenges in the brave new world of magazine design 
+ for digital devices.  Smartphones and tablet devices offer new ways to rea
+ ch readers\, but they also require new approaches to the layout and design
+  of a sustainable digital magazine. Get insight into how to manage the cre
+ ative trade-offs when designing for digital devices\, maintain your brand 
+ on a device\, deliver the rich visuals of a glossy magazine as a digital e
+ xperience\, and make your digital magazine exceed the traditional web maga
+ zine experience.
+DTEND:20101026T160000
+DTSTAMP:20101026T150000
+DTSTART:20101026T150000
+PRIORITY:5
+SUMMARY:Magazine Design in the Brave New World of Digital Devices
+UID:271460f0-8981-45d1-a5f0-44590abe5144
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Discover how you can profit from your Adobe AIR applications. 
+ Until recently\, it has been hard to distribute and charge for AIR apps. W
+ e'll talk about new capabilities in Adobe Flash Platform Services that mak
+ e the process easy\, and walk you through the steps required to use the se
+ rvice.
+DTEND:20101027T180000
+DTSTAMP:20101027T170000
+DTSTART:20101027T170000
+PRIORITY:5
+SUMMARY:Making Money with Your AIR Applications
+UID:30541f17-58cc-4821-b435-fc0f634e15b4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Explore how video players developed with Open Source Media Fra
+ mework (OSMF) can be customized with ActionScript APIs and plug-ins. Learn
+  how to integrate video with external media service providers including ad
+ vertising\, analytics\, CDNs\, and more. Led by OSMF engineers\, this sess
+ ion will be a full deep dive on developing OSMF plug-ins to integrate robu
+ st media and video experiences that use delivery methods from HTTP through
+  RTMP to reach the most people.\n
+DTEND:20101027T120000
+DTSTAMP:20101027T110000
+DTSTART:20101027T110000
+PRIORITY:5
+SUMMARY:Making Video Pay with Advertising and Analytics
+UID:95b322b8-f780-4b58-9a12-b97e9489c764
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how to make your application social using Adobe Flash Pl
+ atform Services so that you can increase the viral effect and make the app
+ lication more engaging for your users. We'll explain how you can incorpora
+ te the services into an application in a step-by-step approach.
+DTEND:20101025T141500
+DTSTAMP:20101025T124500
+DTSTART:20101025T124500
+PRIORITY:5
+SUMMARY:Making Your Applications Social
+UID:725ae132-5227-4d2c-88f2-e4646bd875d2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how Prezi\, one of the largest online and desktop author
+ ing applications\, created a widget/extension framework that lets others e
+ xtend the features of Prezi. We will cover practical tips and tricks like 
+ how to handle untrusted widgets\, on-demand loading of extensions\, how to
+  solve security issues\, and providing services like proxied networking to
+  developers.
+DTEND:20101027T090000
+DTSTAMP:20101027T080000
+DTSTART:20101027T080000
+PRIORITY:5
+SUMMARY:Making Your Flash Application Extendable by Others
+UID:dfce4877-2cdc-447c-a35a-928f5ec113f6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MAX 2010 will feature Meet the Team sessions in the evening. T
+ hese\n50-minute gatherings with Adobe product teams offer a more informal 
+ and conversational forum than the regular sessions. Check back for the ful
+ l schedule.
+DTEND:20101025T220000
+DTSTAMP:20101025T200000
+DTSTART:20101025T200000
+PRIORITY:5
+SUMMARY:Meet the Teams
+UID:42a95193-fb0b-4093-9517-0698bda40d4c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how to set up mobile devices as controllers with Adobe A
+ IR\, explore issues you might run into\, and discover how to best design d
+ esktop applications to interface with one or more devices. When you think 
+ beyond the desktop\, you are not limited to simply building mobile version
+ s of an application\, but rather can take advantage of powerful features l
+ ike multitouch\, geolocation\, and accelerometer information. This allows 
+ you to add a whole new level of interactivity in scenarios ranging from pr
+ oductivity tools to games to eLearning environments. 
+DTEND:20101027T103000
+DTSTAMP:20101027T093000
+DTSTART:20101027T093000
+PRIORITY:5
+SUMMARY:Mobile Devices as Application Controllers
+UID:9fe0c797-0782-4abe-869b-07f76e1151f2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:See how the new model-driven development feature of LiveCycle 
+ Data Services allows you to build and maintain data-driven Flex applicatio
+ ns with an unprecedented level of productivity and flexibility. In this la
+ b\, you'll build a data-driven application from A to Z using this new appr
+ oach. You focus on your data model while the client and server side of you
+ r application is created and kept in sync for you automatically.
+DTEND:20101025T161500
+DTSTAMP:20101025T144500
+DTSTART:20101025T144500
+PRIORITY:5
+SUMMARY:Model-Driven Development with Flex and LiveCycle Data Services
+UID:985de6eb-e80d-46d0-b4d9-8099ba7fe143
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Explore techniques for delivering mobile-optimized sites power
+ ed by Adobe ColdFusion and for powering mobile applications based on Adobe
+  AIR. 
+DTEND:20101025T163000
+DTSTAMP:20101025T153000
+DTSTART:20101025T153000
+PRIORITY:5
+SUMMARY:Multiple Screens\, One Server
+UID:15b11e94-a39c-4045-a1ec-297ecba082d5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join Danny Winokur\, senior director of business development i
+ n Adobe's Platform Business Unit\, as he provides an update on the Open Sc
+ reen Project. The Open Screen Project\, with more than 70 partners\, has b
+ een successful not only in delivering both Adobe Flash Player and Adobe AI
+ R to devices but also in bringing premium\, interactive content to screens
+  of all sizes. Danny will walk through the success of Flash Player 10.1 in
+  its adoption on multiple device types and that of AIR on multiple platfor
+ ms\, including smartphones\, tablets\, and digital TVs.     
+DTEND:20101027T103000
+DTSTAMP:20101027T093000
+DTSTART:20101027T093000
+PRIORITY:5
+SUMMARY:Open Screen Project: Today and Beyond
+UID:a692eee8-6116-40e4-9932-62b000e5243b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how to develop games using Flash technology that are bas
+ ed on the open source PushButton Engine. PushButton Engine is an open sour
+ ce engine and framework that's designed for creating a new generation of g
+ ames for Flash. PushButton Engine not only makes it easy to build great ga
+ mes\, but its open source nature also allows the development of new functi
+ onality and components to improve the world of gaming for everyone.
+DTEND:20101025T163000
+DTSTAMP:20101025T153000
+DTSTART:20101025T153000
+PRIORITY:5
+SUMMARY:Open Source Game Development using Flash Technology
+UID:5158bbcc-761d-40ec-9d50-1c919de1853f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Explore the most current optimization strategies for graphics 
+ in Adobe Flash Player and ActionScript 3.0\, including their effects on bo
+ th Adobe AIR content and existing web content. You'll walk away with an un
+ derstanding of not only how to implement these best practices\, but also w
+ hy they are required for improved performance. From bitmap vs. vector to v
+ ector vs. array\, this session has you covered.
+DTEND:20101025T150000
+DTSTAMP:20101025T140000
+DTSTART:20101025T140000
+PRIORITY:5
+SUMMARY:Optimizing Flash Player Compatible Content for Mobile Devices
+UID:86c46b65-b4c9-4e06-98cd-30cc97df6f82
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn essential techniques from one of the original pioneers i
+ n digital painting and a master at painting in Photoshop CS5. Watch as Joh
+ n Derry shows how to quickly and easily enhance your images with the new r
+ ealistic painting tools in Photoshop CS5. See how you can transform your i
+ mages and designs subtly or to the extreme to get amazing results. You'll 
+ walk away knowing killer tips and tricks along with new painting ideas tha
+ t are sure to add to your Photoshop skills.
+DTEND:20101026T093000
+DTSTAMP:20101026T083000
+DTSTART:20101026T083000
+PRIORITY:5
+SUMMARY:Painting in Photoshop CS5 with the Master Painter
+UID:9dee3e6e-a95c-4992-ad17-ca9745f3e71c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Investigate Flex application development from a performance pe
+ rspective and learn techniques to improve and optimize your Flex and Actio
+ nScript code. Join members of the Flex engineering team as they identify c
+ ommon performance pitfalls that new  — and even advanced — developers 
+ run into\, and share best practices for creating the most optimal Flex and
+  ActionScript applications. We'll share tips and tricks for desktop and mo
+ bile development\, as well as methodologies to identify and fix problems a
+ reas during development. 
+DTEND:20101027T143000
+DTSTAMP:20101027T133000
+DTSTART:20101027T133000
+PRIORITY:5
+SUMMARY:Performance Tips and Tricks for Flex and Flash Development 
+UID:eb766721-8339-474a-9f02-3109bbfea385
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join Julieanne Kost\, Adobe digital imaging evangelist and one
+  of Fast Company's Top 100 Most Creative People in Business of 2009\, in t
+ his exciting session as she demonstrates Adobe Photoshop CS5 and Lightroom
+  3. Take a tour through Lightroom to see how it can help you manage volume
+ s of images and enhance and stylize them to communicate your message. Also
+  learn how to move seamlessly between Photoshop and Lightroom. She'll prov
+ ide critical tips and techniques used by leading photographers for perfect
+ ing images. Both designers and photographers\, from novices to experts in 
+ digital imaging\, have something to gain from this session.
+DTEND:20101027T120000
+DTSTAMP:20101027T110000
+DTSTART:20101027T110000
+PRIORITY:5
+SUMMARY:Photoshop CS5 and Lightroom 3: The Ultimate Photography Workflow
+UID:cf854c1a-7599-4b4f-82b3-25fcff2be81e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn essential skills to help you make killer 3D designs\, im
+ ages\, and effects\, fast\, in the design tool you know and love. This han
+ ds-on Adobe Photoshop CS5 Extended training session will focus on helping 
+ you become a 3D guru. You'll walk away with tips and techniques to add to 
+ your skill set so you can quickly and easily make 3D designs that rock.
+DTEND:20101025T141500
+DTSTAMP:20101025T124500
+DTSTART:20101025T124500
+PRIORITY:5
+SUMMARY:Photoshop CS5 Extended Hands-on 3D Techniques
+UID:6229e372-335d-4fc3-af12-0edb29963fa4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Watch Jack Davis\, award-winning author and Photoshop Hall-of-
+ Famer\, as he demonstrates essential techniques for using Photoshop CS5 to
+  create great-looking images for the web and print. Learn techniques for m
+ aking images look their best\, fast\, including everything from instant op
+ timizing and enhancing of images to making Smart Filter recipes\, custom a
+ ctions\, and tool presets. Davis's motto: If you do it once\, figure out h
+ ow to never have to do it again! Come learn powerful one-click solutions f
+ or on-time\, on-budget design and photography.
+DTEND:20101027T103000
+DTSTAMP:20101027T093000
+DTSTART:20101027T093000
+PRIORITY:5
+SUMMARY:Photoshop CS5 Instant Effects: One-Click Techniques for Designers 
+ and Photographers
+UID:a09224cd-81dd-4c40-85ed-321d8d503f84
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn essential Photoshop CS5 skills to produce images that lo
+ ok great\, load fast on the web\, and work well in Flash Professional. We'
+ ll reveal optimization tools and techniques for making images look their b
+ est\, while debunking web resolution myths. Discover easy techniques for c
+ orrecting color and tone and recovering image detail. Learn how to enhance
+  JPEG files using Camera Raw and how to control optimization settings for 
+ embedded bitmaps in Flash Professional. And\, get tips for optimizing your
+  workstation for fast performance. This session is a must for anyone who w
+ orks with images for web and interactive design.
+DTEND:20101027T090000
+DTSTAMP:20101027T080000
+DTSTART:20101027T080000
+PRIORITY:5
+SUMMARY:Pixel-Perfect: Photoshop CS5 Power Shortcuts for Web and Interacti
+ ve Designers
+UID:df4b58d8-de66-4211-9999-63001555cf49
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Discover WorkflowLab\, an Adobe tool that lets you easily buil
+ d and adjust iterative project workflows to get an understanding of your p
+ roject and then track and record your project when it is finished. In this
+  session\, you will learn how to get started with WorkflowLab to create a 
+ project workflow\, identify project resources\, link assets\, track progre
+ ss\, and share the workflow with others on the team.
+DTEND:20101026T160000
+DTSTAMP:20101026T150000
+DTSTART:20101026T150000
+PRIORITY:5
+SUMMARY:Planning and Tracking Successful Projects with WorkflowLab
+UID:afedf4f8-c562-402b-b4a0-6afe03aaffb0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join Todd Pasternack and Chris Deely of leading rich media pro
+ vider PointRoll as they discuss the present and future of rich media mobil
+ e advertising. Learn how and why you should leverage Adobe Flash Player 10
+ .1 in your mobile campaigns. They'll explore the overall strategy and crea
+ tive use of device features and take a look at some code optimized for mob
+ ile development. They'll also touch on some of the future uses of Flash Pl
+ ayer\, including leveraging existing assets\, implementing IAB standards\,
+  and serving ads into mobile Adobe AIR applications.\n
+DTEND:20101025T163000
+DTSTAMP:20101025T153000
+DTSTART:20101025T153000
+PRIORITY:5
+SUMMARY:PointRoll in Your Pocket: The How and Why of Mobile Advertising wi
+ th Flash Player 10.1
+UID:083bb6eb-8284-4225-a912-4e7e1b4c14be
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join us as top casual game publisher PopCap covers a wide vari
+ ety of topics about porting best-selling "Plants vs. Zombies" from their p
+ roprietary C++ framework to ActionScript and Adobe Flash. This session wil
+ l cover traditional game architecture and the update loop\, trade-offs in 
+ the Flash graphics API versus PopCap's native PC graphics API\, animation\
+ , font rendering\, sound and music system\, and resource management.
+DTEND:20101025T150000
+DTSTAMP:20101025T140000
+DTSTART:20101025T140000
+PRIORITY:5
+SUMMARY:Porting "Plants vs. Zombies" to Flash
+UID:8b45f8a1-ea82-4c14-832c-05bc639b1a94
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how to take your skills in visual design for print and t
+ he web into the exciting and rapidly growing field of designing for user e
+ xperiences. Get an understanding of this multidisciplinary field and see h
+ ow interaction designers provide solutions to complex design challenges an
+ d define new and evolving interactive products and services.
+DTEND:20101026T143000
+DTSTAMP:20101026T133000
+DTSTART:20101026T133000
+PRIORITY:5
+SUMMARY:Principles of Interaction Design for Graphic Designers
+UID:4c804fb6-b901-4496-a9ec-6d1794dd2ae2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join Joseph Labrecque from the University of Denver as he demo
+ nstrates the various features of Adobe AIR 2 and AIR for Android and how t
+ hey can be used in a university setting. Learn how the university is lever
+ aging AIR to expand and supplement a host of university projects and appli
+ cations. Labrecque will preview new AIR projects he is working on and shar
+ e his experiences with the AIR for Android prerelease for building mobile 
+ applications on campus.\n
+DTEND:20101027T120000
+DTSTAMP:20101027T110000
+DTSTART:20101027T110000
+PRIORITY:5
+SUMMARY:Progressing beyond the Desktop at Universities with Adobe AIR
+UID:29ae0675-ba3a-47dd-8a8f-3e4c1ba5543c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how Adobe has embraced Amazon EC2 to deliver a comprehen
+ sive cloud offering for Adobe LiveCycle ES2. Hear from product experts how
+  the cloud is quickly becoming the definition of rapid application develop
+ ment environments\, with the ability to start up a server instance with no
+  hardware or software investment. You'll learn how this approach provides 
+ a low barrier and faster time to development. Also hear best practices as 
+ we walk through development to staging and production in a completely host
+ ed manner\, featuring a case study to illustrate the process using an appl
+ ication currently deployed on Adobe LiveCycle Managed Services.\n\n
+DTEND:20101025T183000
+DTSTAMP:20101025T170000
+DTSTART:20101025T170000
+PRIORITY:5
+SUMMARY:Rapid Development using LiveCycle in the Cloud
+UID:ba942f85-1342-425a-bf66-04ffc08a1592
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Find out how the latest release of Spring BlazeDS Integration 
+ and its accompanying add-on for Spring Roo make developing Spring-backed F
+ lex applications easier and more productive than ever. In this session\, y
+ ou'll learn the basics of the integration and see live examples of how to 
+ use the Spring Roo add-on to build a rich application that leverages the r
+ emoting\, security\, and server-push capabilities of this simple-yet-power
+ ful technology. 
+DTEND:20101027T120000
+DTSTAMP:20101027T110000
+DTSTART:20101027T110000
+PRIORITY:5
+SUMMARY:Rapidly Building Flex RIAs with Spring BlazeDS Integration and Spr
+ ing Roo
+UID:2a597aff-642e-414f-ad84-21f2a779d792
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Discover how Adobe Flash Platform Services have been used to i
+ ncrease engagement and the viral nature of applications to achieve greater
+  distribution and more effective monetization. Application development isn
+ 't finished once you've compiled your app — you still need to promote\, 
+ distribute\, and monetize it. This session will show you how some leading 
+ brands have taken advantage of Flash Platform Services to create successfu
+ l applications.
+DTEND:20101027T120000
+DTSTAMP:20101027T110000
+DTSTART:20101027T110000
+PRIORITY:5
+SUMMARY:Real-Life Examples of Flash Platform Services Use
+UID:ac4c4df1-bf17-445f-b552-3b93e09e1938
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn about the end-to-end approach Adobe LiveCycle Collaborat
+ ion Service offers for building rich\, multiuser applications. Starting wi
+ th Flex client integration\, you'll learn how to add features like peer-to
+ -peer video chat\, conavigation\, and other multiuser workflows into an ex
+ isting Flex app. From there\, we'll explore server-side integration option
+ s – your own server will talk to the cloud for authentication\, provisio
+ ning rooms\, and publishing messages to your users. We'll cover common des
+ ign patterns used in real-world situations and discuss best architectural 
+ practices. By the end of this lab\, expect to have your first multiuser ap
+ p deployed.
+DTEND:20101026T093000
+DTSTAMP:20101026T080000
+DTSTART:20101026T080000
+PRIORITY:5
+SUMMARY:Real-Time Collaboration Deep Dive : Deploying Apps using LiveCycle
+  Collaboration Service
+UID:cdd31905-843c-4a2d-9110-d71e4dbc6c03
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:See real-world examples of customers using custom PDF Portfoli
+ o layouts. See how they have taken the standard PDF Portfolio layouts to n
+ ew levels of usability and design.
+DTEND:20101025T163000
+DTSTAMP:20101025T153000
+DTSTART:20101025T153000
+PRIORITY:5
+SUMMARY:Real-World PDF Portfolios 
+UID:2851fa5b-fd68-460e-b9b3-dc2d4589bddc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hear how focusing on user experience can improve the value of 
+ the enterprise applications you deliver. Also learn about architectural ch
+ anges in the next release of Adobe LiveCycle ES as well as new features in
+  servers\, client runtimes\, and tools that will allow you to build\, depl
+ oy\, and measure excellent customer experiences.\n
+DTEND:20101025T150000
+DTSTAMP:20101025T133000
+DTSTART:20101025T133000
+PRIORITY:5
+SUMMARY:Realizing Great Customer Experiences with LiveCycle ES3
+UID:f95a7457-ca6d-44fb-a515-2160de729515
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Watch the process of designing and developing a rich Internet 
+ application based on the Adobe Flash Platform — as it happens. Learn how
+  to keep the process on track (on time and on budget) using WorkflowLab in
+  conjunction with Adobe Creative Suite tools. Michelle Yaiser and Leif Wel
+ ls will walk you through best practices for this process\, including the p
+ reparation of a design in Illustrator\, adding interactivity in Flash Cata
+ lyst\, and connecting an application to live data in Flash Builder.
+DTEND:20101027T163000
+DTSTAMP:20101027T153000
+DTSTART:20101027T153000
+PRIORITY:5
+SUMMARY:RIA Design and Development Workflow Examined
+UID:c5369fc2-3589-4c0d-9f36-5217aaea3c4e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Discover how Open Source Media Framework (OSMF) and the Adobe 
+ compiled version\, Strobe Media Playback\, make video player development s
+ impler than ever. This lab will step you through a project using Adobe Fla
+ sh Builder to start building robust video players with all the features an
+ d functions seen on many popular websites today. You can make your company
+  look great by learning how to easily implement HTTP Dynamic Streaming\, F
+ lash Media Server\, DRM\, advertising\, and Omniture analytics. Save money
+  in development and reach your audience faster with a better video experie
+ nce.
+DTEND:20101025T141500
+DTSTAMP:20101025T124500
+DTSTART:20101025T124500
+PRIORITY:5
+SUMMARY:Robust Video Player Development with Open Source Media Framework 
+UID:c3c266dc-69a3-4899-bb9d-f8ff675b13e4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Get full details on Flex 4 and the new Spark component archite
+ cture and what they can do for your desktop and mobile applications. Join 
+ Juan Sanchez and RJ Owen from EffectiveUI as they walk through what's poss
+ ible with Spark within the context of a Flex 4 application. Explore what F
+ lex 4 can bring to your next-generation user experiences across a variety 
+ of screens.
+DTEND:20101026T173000
+DTSTAMP:20101026T163000
+DTSTART:20101026T163000
+PRIORITY:5
+SUMMARY:Screens of Possibility: Pushing Multiscreen Experiences with Spark
+  and Flex
+UID:bb92806d-455c-43fa-b2c3-8a5bb36c11ed
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Discover how to build a searchable information library using A
+ dobe ColdFusion 9 and Apache Lucene/Solr. In this hands-on lab\, you will 
+ set up and configure Solr\, create and manage a document collection\, and 
+ learn how to build an effective search interface for end users.
+DTEND:20101027T100000
+DTSTAMP:20101027T083000
+DTSTART:20101027T083000
+PRIORITY:5
+SUMMARY:Search Made Easy: Full-Text Document Search with ColdFusion
+UID:0624a2af-71eb-4159-a6da-bb4eb191cf98
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how to deploy a robust video delivery service within you
+ r enterprise that will ensure high quality of service\, minimal network us
+ age\, and strategic deployment methods that keep your servers safe for bot
+ h internal and external delivery. Deploying a service structure that meets
+  the demands for higher quality and more usage that doesn't bring down you
+ r network will be the focus of this session. Step though deployment and co
+ nfiguration strategies for unicast\, HTTP\, multicast\, and P2P with Adobe
+  engineering's tips on hardening\, configuring\, and monitoring Adobe Flas
+ h Media Servers within your network.  
+DTEND:20101025T180000
+DTSTAMP:20101025T170000
+DTSTART:20101025T170000
+PRIORITY:5
+SUMMARY:Secure Enterprise Video Streaming with Flash Media Server and P2P
+UID:7a6c9ffb-a04e-4fc4-bddd-5892c1907fcc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Meet two designers with different studios\, from different par
+ ts of the U.S\, whose lives and work have changed forever after serving th
+ e poor in Africa. Experience a visual journey exploring their creative adv
+ enture: See how Adobe Creative Suite enabled easy and effective collaborat
+ ion in the production of print and web collateral  and a documentary film\
+ , and come away a lot better because of it.
+DTEND:20101025T150000
+DTSTAMP:20101025T140000
+DTSTART:20101025T140000
+PRIORITY:5
+SUMMARY:See. Say. Do. How Africa Changed Everything
+UID:55eea419-1a97-46a7-bc09-f5bbcc3bd42d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how Adobe OnLocation\, Adobe Premiere Pro\, and Soundboo
+ th – all included in Creative Suite 5 Production Premium – can help yo
+ u shoot and produce a successful interview. Interviews are a very efficien
+ t way of creating content — cheap to produce\, effective for gathering a
+ nd presenting information\, and easy to edit.
+DTEND:20101027T120000
+DTSTAMP:20101027T110000
+DTSTART:20101027T110000
+PRIORITY:5
+SUMMARY:Shooting and Editing Interviews with CS5 Production Premium
+UID:e9608dd2-2205-41d8-86ca-a96b4257691c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join Richard Weinberg of the USC School of Cinematic Arts to e
+ xplore high-resolution motion picture optical microscopy. Weinberg develop
+ ed a system for shooting movies with a RED One camera through a microscope
+  and created a ten-minute movie\, "MicrOrganisms\," in 4K resolution that 
+ premiered in December 2009 at the CineGrid conference. This session review
+ s the image capture\, editing\, and visual effects process and how Weinber
+ g used this system to stream live HD microscopy from Los Angeles to Yokoha
+ ma\, Japan\, for an interactive presentation at SIGGRAPH Asia.
+DTEND:20101025T163000
+DTSTAMP:20101025T153000
+DTSTART:20101025T153000
+PRIORITY:5
+SUMMARY:Shooting Movies with a RED One Camera Through a Microscope
+UID:46cdee02-e5ad-469d-9b69-02fdccbb9824
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how to use BrowserLab\, an Adobe CS Live online service\
+ , for an easier\, faster way to check your web content for cross-browser c
+ onsistency. Check out the powerful integration with Dreamweaver CS5\, whic
+ h allows you to test content served by a CMS\, local files\, and content s
+ erved behind a corporate firewall. 
+DTEND:20101027T120000
+DTSTAMP:20101027T110000
+DTSTART:20101027T110000
+PRIORITY:5
+SUMMARY:Simplifying Cross-Browser Testing with BrowserLab
+UID:c10e0049-aa8b-4d56-b346-9f1aacea345f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Those who have attended MAX in the past know this is one of th
+ e most popular sessions all week. The Sneak Peeks offer a unique opportuni
+ ty to see inside the Adobe development labs. Be among the first to see new
+  technologies that may (or may not) make it into future products or servic
+ es. Finally\, join us in congratulating the 2010 MAX Awards winners as the
+ y are announced during this session.
+DTEND:20101026T200000
+DTSTAMP:20101026T180000
+DTSTART:20101026T180000
+PRIORITY:5
+SUMMARY:Sneak Peeks
+UID:658dfcef-df05-44c1-959f-6a59c9cf6d8f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Discover how the availability of tablets and TVs supporting Ad
+ obe Flash Player 10.1 and Adobe AIR has enabled the Adobe Flash Platform t
+ o offer brands a new channel to address these two emerging screen types\, 
+ with the same level of interactivity as desktops and smartphones. This ses
+ sion provides examples of brands and content partners that are already tak
+ ing advantage of these new form factors\, using them to acquire new custom
+ ers and retain existing ones as they spread their usage across multiple sc
+ reens.
+DTEND:20101026T093000
+DTSTAMP:20101026T083000
+DTSTART:20101026T083000
+PRIORITY:5
+SUMMARY:Taking Your Brand to the Next T: Tablets and TVs
+UID:ef4cefef-a69a-4ec6-8efa-853b1595d0e1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how to design highly engaging\, interactive publications
+  for desktops and devices using the new Creative Suite 5 applications and 
+ as of yet\, unreleased technologies. Create a new class of digital reading
+  experiences that make use of dual navigation\, interactive components\, F
+ lash video and sound.  Leave this lab with greater knowledge of how to eff
+ iciently design layouts for different screen sizes and deliver next genera
+ tion digital magazines for desktops\, tablets and smartphone devices.
+DTEND:20101024T170000
+DTSTAMP:20101024T090000
+DTSTART:20101024T090000
+PRIORITY:5
+SUMMARY:The Adobe Digital Publishing Platform
+UID:cc2ac989-3d1c-465c-8a56-c7ca355e6418
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Explore the innovation in PDF and Adobe Flash and how these tw
+ o technologies converge to enable the next generation of correspondence. L
+ earn how to speed up the development of a correspondence application\, lev
+ eraging the new Interactive Statement Solution Accelerator within Adobe Li
+ veCycle ES2\, and hear about the new features that can help minimize your 
+ development efforts. 
+DTEND:20101025T163000
+DTSTAMP:20101025T153000
+DTSTART:20101025T153000
+PRIORITY:5
+SUMMARY:The Convergence of Flash and PDF: Interactive Statements
+UID:d12a0992-25b7-474e-8ee1-2ee0b1fd2ad8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join us for a preview of where we're taking the Adobe Acrobat 
+ franchise: the realm of Acrobat Dynamic PDF. Acrobat Dynamic PDF enables y
+ ou to connect\, interact\, and engage in powerful new ways. Learn how to s
+ treamline your workflow\, collaborate more easily\, and create high-impact
+  communications. Do it all with the reliability\, visual fidelity\, and co
+ ntrol you expect from Acrobat today.
+DTEND:20101026T093000
+DTSTAMP:20101026T083000
+DTSTART:20101026T083000
+PRIORITY:5
+SUMMARY:The Future of Acrobat
+UID:6e3bec38-c348-4529-be81-327200377544
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hear from product experts and discover how you can extend your
+  enterprise to iPhone\, iPad\, Android\, Windows Mobile\, and BlackBerry d
+ evices by leveraging the Adobe LiveCycle Enterprise Suite platform. The se
+ ssion will include best practices for integrating business processes\, acc
+ essing shared content\, and developing forms for use on mobile form factor
+ s.\n\n\n\n
+DTEND:20101026T173000
+DTSTAMP:20101026T163000
+DTSTART:20101026T163000
+PRIORITY:5
+SUMMARY:The Mobile Enterprise
+UID:22d15a38-c42c-46c3-aa5a-78f1d4feb386
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Discover visual and conceptual models that can help you unders
+ tand programming generally and ActionScript specifically. Everything shown
+  will be supplemented with related code samples. You'll walk away with cle
+ ar (and\, possibly\, new and unique) ways to think about properties\, meth
+ ods\, data types\, classes\, and object oriented programming. Additional t
+ opics may include variables\, loops\, arrays\, and value objects. All are 
+ welcome\, but ActionScript experience is recommended.
+DTEND:20101025T180000
+DTSTAMP:20101025T170000
+DTSTART:20101025T170000
+PRIORITY:5
+SUMMARY:Thinking in ActionScript
+UID:3fef6ac1-23c5-49d5-b68d-0331396aea20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how Adobe Business Catalyst\, the all-in-one web hosting
+  platform\, creates great opportunities for selling full solutions to smal
+ l/medium business owners. Business Catalyst expert Cesar Keller\, cofounde
+ r of SimpleFlame.com\, will explore three important trends in web design t
+ hat affect web design businesses everywhere. He'll also cover topics rangi
+ ng from how to do more with less by using Business Catalyst to building re
+ cession-proof recurring revenues. This is a session for anyone who runs or
+  works in a modern web design agency with clients that run small to medium
+  businesses. 
+DTEND:20101025T163000
+DTSTAMP:20101025T153000
+DTSTART:20101025T153000
+PRIORITY:5
+SUMMARY:Three Reasons You Should Add Business Catalyst to Your Web Design 
+ Toolbox
+UID:4e271712-4613-4c51-a751-0d46fd6037a3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Come see how the South African Revenue Service (SARS) provides
+  improved benefits and services delivery to customers through online\, aut
+ omated tax filing. e@syFile is a set of Adobe AIR applications that levera
+ ge the Flash Platform and Adobe LiveCycle to enable manual and electronic 
+ tax filing. The solution delivers one form that is used in multiple channe
+ ls\, including print\, web portal\, branch/on-demand print\, and offline v
+ ia AIR. Using the system\, SARS achieved 100% application adoption in two 
+ years and now collects in excess of 35 billion rand per month\, equaling 6
+ 0% of the South African revenue.  
+DTEND:20101026T173000
+DTSTAMP:20101026T163000
+DTSTART:20101026T163000
+PRIORITY:5
+SUMMARY:Transforming the Value of IT for Government through Modernization 
+ at South African Revenue Service
+UID:943e364a-d23c-4d73-afcc-dffb579fb516
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how to create a customized version of Adobe Illustrator 
+ that is built just for you. Imagine opening a new file already preloaded w
+ ith your favorite brushes\, colors\, and fonts\; rulers and units set up j
+ ust as you like them\; layers prebuilt and ready to go\; and palettes arra
+ nged in your personal configuration. It's all possible! Once you've tricke
+ d out Illustrator and made it the custom vehicle you've always wanted\, yo
+ u'll experience life in the fast lane by shaving valuable time off tasks y
+ ou perform every day.
+DTEND:20101026T093000
+DTSTAMP:20101026T083000
+DTSTART:20101026T083000
+PRIORITY:5
+SUMMARY:Tricked Out Illustrator
+UID:41262857-bfea-46ea-a575-76d42f19d969
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join us to hear tokidoki cofounder and renowned illustrator Si
+ mone Legno discuss his journey from freelance creative to chief creative o
+ f a global lifestyle brand based entirely on vector-based art. Learn how L
+ egno transformed his creative passion\, with the help of two enthusiastic 
+ business partners\, into a multimillion-dollar retail business. Whether yo
+ u're a designer or not\, this session will inspire you with new ways to us
+ e your own passion to connect with customers around the world.
+DTEND:20101025T163000
+DTSTAMP:20101025T153000
+DTSTART:20101025T153000
+PRIORITY:5
+SUMMARY:Turning the tokidoki Vision into a Global Brand
+UID:720ee11e-a96b-41be-acd4-3d2c1d010843
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how CS Review\, an Adobe CS Live online service\, makes 
+ reviews of creative content more efficient by allowing design professional
+ s to easily create a project review\, share it with others online\, and ge
+ t feedback. CS Review integrates with Adobe Creative Suite 5 components in
+ cluding Illustrator CS5\, InDesign CS5\, and Photoshop CS5\, streamlining 
+ the review process.
+DTEND:20101026T093000
+DTSTAMP:20101026T083000
+DTSTART:20101026T083000
+PRIORITY:5
+SUMMARY:Using Adobe CS Review to Speed up Creative Reviews
+UID:454996cf-8f11-406a-b0e3-ac312bdac5fe
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Leverage your ActionScript or Flash design skills to build cus
+ tom PDF Portfolio layouts. This hands-on lab will introduce you to a new s
+ et of tools for developing PDF Portfolio layouts in Flash Builder 4. The P
+ DF Portfolio Layout SDK and Flash Builder plug-in support the process of c
+ reating\, debugging\, and packaging these layouts. Clients will be amazed 
+ by the rich user experience you can create for assembling content and comm
+ unications as part of your brand or design services.
+DTEND:20101024T170000
+DTSTAMP:20101024T090000
+DTSTART:20101024T090000
+PRIORITY:5
+SUMMARY:Using Flash Builder 4 to Create Custom PDF Portfolio Layouts
+UID:4acb7250-379f-472d-8912-3c172d2cd008
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how to design for an effective user experience\, which s
+ hould be the underlying goal for any application. See how to use Adobe Fla
+ sh Catalyst CS5 along with Adobe Illustrator CS5\, Photoshop CS5\, Firewor
+ ks CS5\, and InDesign CS5 as user experience design tools. This session co
+ vers creating personas\, site maps\, storyboards\, and wireframes and how 
+ these elements are combined to create a finished application. To extend yo
+ ur knowledge from this session\, attend the "Hands-on: Using Flash Catalys
+ t CS5 to Design Rich User Experiences" lab.
+DTEND:20101025T180000
+DTSTAMP:20101025T170000
+DTSTART:20101025T170000
+PRIORITY:5
+SUMMARY:Using Flash Catalyst CS5 to Design Rich User Experiences 
+UID:2d566ff7-3798-4a97-a8e1-a8e1fb94edcd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Discover how you can finally use real fonts on the web. Broad 
+ browser support for CSS with @font-face brings a new era of web typography
+ \, but that's only the beginning. New technical hurdles\, new font formats
+ \, and new licensing restrictions need to be considered. Come learn about 
+ the latest tools and techniques for navigating this landscape and for usin
+ g web fonts to their fullest potential in your design and development proj
+ ects.
+DTEND:20101026T093000
+DTSTAMP:20101026T083000
+DTSTART:20101026T083000
+PRIORITY:5
+SUMMARY:Using Web Fonts Now
+UID:588e7d3f-d318-4b43-ac97-5e24a38824d1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn how to use the print design skills you already have alon
+ g with exciting new features in Adobe Creative Suite 5 to jump-start your 
+ transition to web design. In this session\, you'll gain an understanding o
+ f how print concepts like paragraph styles and InDesign frames translate t
+ o the web. You'll also learn the easiest ways to bring print content from 
+ Photoshop and InDesign to the web and how to make your life easier using D
+ reamweaver CS5 starter pages. You'll even gain a basic understanding of CS
+ S.
+DTEND:20101027T143000
+DTSTAMP:20101027T133000
+DTSTART:20101027T133000
+PRIORITY:5
+SUMMARY:Using What You Know: Transitioning from Print to Web 
+UID:bdc8cce0-3407-4bb0-9dca-91ffd0435ea6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:See some of the brilliant video experiences Adobe customers ha
+ ve created\, and get a sense how Adobe innovation will continue to drive t
+ echnology to increase quality\, protection\, and reach to help you expand 
+ your business using video across devices that support Flash technology. Th
+ is session will provide a roadmap for Adobe Flash Media Server\, Open Sour
+ ce Media Framework\, Adobe Flash Access\, Adobe Flash Player\, HTTP Dynami
+ c Streaming\, H.264\, Multicast\, and P2P — where we are now and where w
+ e're going next.\n\n
+DTEND:20101027T163000
+DTSTAMP:20101027T153000
+DTSTART:20101027T153000
+PRIORITY:5
+SUMMARY:Video Delivery Roadmap for the Flash Platform
+UID:bb466989-240a-4088-88f4-a03429539dde
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn everything you need to know to optimize your video exper
+ ience for mobile devices that support Adobe Flash Player 10.1\, including 
+ encoding and performance best practices\, player optimization\, delivery t
+ echniques\, content protection\, interactivity\, ad integration\, and much
+  more. We'll also provide an introduction to Open Source Media Framework a
+ nd how to use it for mobile platforms.
+DTEND:20101026T160000
+DTSTAMP:20101026T150000
+DTSTART:20101026T150000
+PRIORITY:5
+SUMMARY:Video on Flash Player 10.1 Mobile Devices 
+UID:623e8317-0f37-4b80-a6d2-9255ef237ab4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Discover the most important skills you need to create web vide
+ o using Creative Suite 5 Production Premium. You'll learn how to acquire t
+ he best footage and edit with the most highly productive techniques. You
+ ’ll also dip into the legendary Adobe After Effects\, learning how this 
+ application's presets can help you easily add motion graphics and visual e
+ ffects to your production.
+DTEND:20101025T141500
+DTSTAMP:20101025T124500
+DTSTART:20101025T124500
+PRIORITY:5
+SUMMARY:Video Production for the Web using CS5 Production Premium 
+UID:18892b93-2ac9-4d3f-a73c-c1752f02d2ed
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Let Didier Brun from creative company Sid Lee's European team 
+ take you on a deep dive into waveform analysis from a Flash technology per
+ spective. During this lab\, you'll discover the different approaches and a
+ lgorithms used to perform speech recognition. We'll create a simple Action
+ Script 3.0 vocal recognition engine with Adobe Flash Player 10.1 and Adobe
+  AIR 2.
+DTEND:20101025T161500
+DTSTAMP:20101025T144500
+DTSTART:20101025T144500
+PRIORITY:5
+SUMMARY:Vocal Recognition with Flash Player 10.1
+UID:93192fee-a520-4e5b-9be3-4cc152311956
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Take a look at the next release of Adobe AIR\, which will incl
+ ude support for developing both mobile and desktop applications. In this s
+ ession\, you'll learn about the runtime and SDK features coming to the nex
+ t release of AIR. Special focus will be placed on the workflow and develop
+ ment of Google Android applications\, including device APIs\, best practic
+ es\, packaging\, and deployment to the Google Apps Marketplace. \n
+DTEND:20101026T160000
+DTSTAMP:20101026T150000
+DTSTART:20101026T150000
+PRIORITY:5
+SUMMARY:What's Coming in Adobe AIR
+UID:da3d4696-c7cb-402f-b938-d84b2a6d1718
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join the Adobe Flash Builder product manager and engineers fro
+ m the team to learn about some of the new features in the next release of 
+ Flash Builder\, code-named "Burrito." 
+DTEND:20101026T160000
+DTSTAMP:20101026T150000
+DTSTART:20101026T150000
+PRIORITY:5
+SUMMARY:What's New in Flash Builder "Burrito"?
+UID:563d0311-8c31-4b93-a59f-9d637ed65b0e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn about all the new features and workflows in Flash Profes
+ sional CS5\, including a new text engine\, the code snippets panel\, XML-b
+ ased FLAs\, Adobe Flash Builder integration\, Spring for Bones\, video imp
+ rovements\, deco drawing tools\, and the ability to publish mobile devices
+ .
+DTEND:20101026T093000
+DTSTAMP:20101026T083000
+DTSTART:20101026T083000
+PRIORITY:5
+SUMMARY:What's New in Flash Professional CS5
+UID:3bcbad9d-3200-4cb4-bbaa-a6d7474047b5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Get the scoop on a sampling of the 100-plus new features in Ad
+ obe InDesign CS5 for creating and delivering documents in print\, online\,
+  and on devices. Don't miss this rapid-fire session that will quickly show
+  you some of the most compelling and useful features for enabling greater 
+ design and production productivity. 
+DTEND:20101025T163000
+DTSTAMP:20101025T153000
+DTSTART:20101025T153000
+PRIORITY:5
+SUMMARY:What's New in InDesign CS5
+UID:82d6babd-03c3-4c36-a7de-6c058ccd3a80
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Discover the many design\, motion\, and digital imaging possib
+ ilities in Adobe Photoshop CS5 and Photoshop CS5 Extended with Photoshop P
+ roduct Manager\, Bryan O’Neil Hughes. Explore the latest hot features in
+  this hands-on session that will cover Content-Aware Fill\, improved selec
+ tion tools\, Puppet Warp\, painting tools\, 3D capabilities\, and so much 
+ more. You'll learn how to create mind-blowing effects — the same ones us
+ ed by leading professionals today — and get your work done fast.
+DTEND:20101025T150000
+DTSTAMP:20101025T140000
+DTSTART:20101025T140000
+PRIORITY:5
+SUMMARY:What's New in Photoshop CS5 & Photoshop CS5 Extended
+UID:5dea7bd3-474d-44ce-9d05-09dda149b1f4
+END:VEVENT
+END:VCALENDAR
