@@ -839,8 +839,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Get helpful guidelines\, tips\, and tricks for making your con
  tent accessible using Adobe Flash Professional authoring tools. Learn how 
- designers and developers deliver accessible video using the caption data s
- tandard (DFXP) and accessible player controls for FLV and H.264 video.
+ designers and developers deliver interactive experiences and accessible vi
+ deo using Adobe tools and techniques. 
 DTEND:20101027T143000
 DTSTAMP:20101027T133000
 DTSTART:20101027T133000
@@ -1550,29 +1550,35 @@ SUMMARY:Flash Builder Advanced Tips and Techniques
 UID:c33ff821-ce8a-4a80-9fcd-3a047888b957-0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Learn how to use projects created in Flash Catalyst CS5 in Ado
- be Flash Builder 4. This hands-on lab will cover best practices for using 
- Flash Builder 4 to enhance the application functionality created in Flash 
- Catalyst by adding custom code\, as well as using the data service feature
- s in Flash Builder 4 to retrieve and display dynamic data. 
+DESCRIPTION:Attend this hands-on lab to learn how to open Adobe Flash Cata
+ lyst projects in Adobe Flash Builder and then add business logic and data.
+  Flash Catalyst allows designers to rapidly create interactive user interf
+ aces that can flow directly into development without slicing or rebuilding
+ . As a developer\, you can save time by starting from a Flash Catalyst pro
+ ject and expanding it into a finished application. This lab will guide you
+  through the process as well as show some future directions for the design
+ /development workflow.
 DTEND:20101026T143000
 DTSTAMP:20101026T130000
 DTSTART:20101026T130000
 PRIORITY:5
-SUMMARY:Flash Catalyst CS5 for Developers
+SUMMARY:Why Should Developers Care about Flash Catalyst?
 UID:ecdbcb41-e5de-48a2-a29c-bc8ae1066eed-0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Learn how to use projects created in Flash Catalyst CS5 in Ado
- be Flash Builder 4. This hands-on lab will cover best practices for using 
- Flash Builder 4 to enhance the application functionality created in Flash 
- Catalyst by adding custom code\, as well as using the data service feature
- s in Flash Builder 4 to retrieve and display dynamic data. 
+DESCRIPTION:Attend this hands-on lab to learn how to open Adobe Flash Cata
+ lyst projects in Adobe Flash Builder and then add business logic and data.
+  Flash Catalyst allows designers to rapidly create interactive user interf
+ aces that can flow directly into development without slicing or rebuilding
+ . As a developer\, you can save time by starting from a Flash Catalyst pro
+ ject and expanding it into a finished application. This lab will guide you
+  through the process as well as show some future directions for the design
+ /development workflow.
 DTEND:20101027T100000
 DTSTAMP:20101027T083000
 DTSTART:20101027T083000
 PRIORITY:5
-SUMMARY:Flash Catalyst CS5 for Developers
+SUMMARY:Why Should Developers Care about Flash Catalyst?
 UID:ecdbcb41-e5de-48a2-a29c-bc8ae1066eed-1
 END:VEVENT
 BEGIN:VEVENT
@@ -1642,11 +1648,13 @@ SUMMARY:Flash Catalyst CS5: Hands On for Designers
 UID:27240611-7235-47de-8014-80b28eef8383-2
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:See what's coming in the next release of Adobe Flash Catalyst\
- , which is available to MAX 2010 attendees as a beta release. Join Princip
- al Product Manager Doug Winnie and other members of the Flash Catalyst eng
- ineering team in this peek into the future of Flash Catalyst and how it ad
- dresses the designer/developer workflow.
+DESCRIPTION:Learn how Adobe Flash Catalyst can redefine your development\,
+  design\, and ideation workflow. Join Doug Winnie\, principal product mana
+ ger\, and Aaron Dolberg\, quality engineering manager\, to get the inside 
+ take on our vision for the future and to provide input on what you want. B
+ ridging the gap between designers and developers and making it easier to b
+ e more efficient and productive when creating interactive projects: These 
+ are the cornerstones of Flash Catalyst.
 DTEND:20101025T163000
 DTSTAMP:20101025T153000
 DTSTART:20101025T153000
@@ -1751,13 +1759,13 @@ SUMMARY:Flash\, Flex\, HTML5: Ouch\, My Head Hurts!
 UID:8934775f-bb89-495e-a385-c087df321ae6-0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Need to get up and running with Flex 4 quickly? We’re taking
-  our 3 day Flex 4 Advanced Course\, and compressing the highlights into a 
- single intense day. You’ll start with Flex 4 basics like layouts\, state
- s\, and remote object use\, and quickly advance to topics including animat
- ing states\, skinning\, extending components\, and model driven developmen
- t. This will be a very fast moving course\, aimed at getting you up and ru
- nning and productive with Flex 4 in record time.
+DESCRIPTION:Need to get up and running with Flex 4 quickly? We're taking o
+ ur 4 day Flex 4 Course\, and compressing the highlights into a single inte
+ nse day. You'll start with Flex 4 basics like layouts\, data display\, and
+  remote object use\, and quickly advance to topics including item renderer
+ s\, skinning and extending components. This will be a very fast moving cou
+ rse\, aimed at getting you up and running and productive with Flex 4 in re
+ cord time.
 DTEND:20101024T170000
 DTSTAMP:20101024T090000
 DTSTART:20101024T090000
@@ -2150,6 +2158,20 @@ DTSTART:20101025T170000
 PRIORITY:5
 SUMMARY:Hands-on ORM with ColdFusion 9
 UID:27e8421a-d3fa-4555-afe8-f324eb7c2e94-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hear about one of the most significant additions to Adobe Cold
+ Fusion — the new object-relational mapping (ORM) framework built into Co
+ ldFusion 9. Powered by the industry-leading Hibernate framework\, ColdFusi
+ on 9 takes rapid application development to the next level. In this sessio
+ n\, you'll learn the basics of ColdFusion ORM so you can build application
+ s without having to write a single line of SQL. 
+DTEND:20101026T170000
+DTSTAMP:20101026T153000
+DTSTART:20101026T153000
+PRIORITY:5
+SUMMARY:Hands-on ORM with ColdFusion 9
+UID:27e8421a-d3fa-4555-afe8-f324eb7c2e94-1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Build your knowledge of the processes and tools needed to desi
@@ -2928,17 +2950,17 @@ SUMMARY:Open Screen Project: Today and Beyond
 UID:a692eee8-6116-40e4-9932-62b000e5243b-0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Learn how to develop games using Flash technology that are bas
- ed on the open source PushButton Engine. PushButton Engine is an open sour
- ce engine and framework that's designed for creating a new generation of g
- ames for Flash. PushButton Engine not only makes it easy to build great ga
- mes\, but its open source nature also allows the development of new functi
- onality and components to improve the world of gaming for everyone.
+DESCRIPTION:Learn how to develop games based on Flash technology and the o
+ pen source PushButton Engine. PushButton Engine is a framework that's desi
+ gned for creating a new generation of games for Flash. PushButton Engine n
+ ot only makes it easy to build great games\, but it also allows the develo
+ pment of new functionality and components to improve the world of gaming f
+ or everyone thanks to its open source nature.
 DTEND:20101025T163000
 DTSTAMP:20101025T153000
 DTSTART:20101025T153000
 PRIORITY:5
-SUMMARY:Open Source Game Development using Flash Technology
+SUMMARY:Open Source Game Development with Flash and PushButton Engine
 UID:5158bbcc-761d-40ec-9d50-1c919de1853f-0
 END:VEVENT
 BEGIN:VEVENT
